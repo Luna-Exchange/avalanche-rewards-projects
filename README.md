@@ -1,12 +1,12 @@
 # Onboarding Missions
 
-## Introduction
+## Introduction to Avalanche Rewards
 
-This is a user focused loyalty and retention platform. By onboarding missions, you can offer users additional value and increase engagement within your project's ecosystem.
+Avalanche Rewards is a loyalty rewards system designed for projects built on top of the Avalanche blockchain. By onboarding missions to Avalanche Rewards, you can offer users additional value and increase engagement within your project's ecosystem.
 
 ## Onboarding Your Missions
 
-The process for getting your missions live is as follows:
+The process for getting your missions live on Avalanche Rewards is as follows:
 
 1. **Mission Design**: Create your mission using the JSON format described below.
 
@@ -14,7 +14,7 @@ The process for getting your missions live is as follows:
 
 3. **Review Process**: The team at Insomnia Labs will review your submission. We may contact you if we need clarifications or have suggestions to enhance your mission.
 
-4. **Launch**: Upon approval, we'll merge your PR, and your mission will go live.
+4. **Launch**: Upon approval, we'll merge your PR, and your mission will go live on Avalanche Rewards.
 
 ## Mission JSON Structure
 
