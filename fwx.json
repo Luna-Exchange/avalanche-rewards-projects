@@ -1,0 +1,64 @@
+{
+  "name": "FWX",
+  "description": "FWX is a Permissionless Leverage Trading Platform for New Gem Tokens",
+  "imgUrl": "https://pbs.twimg.com/profile_images/1772244053326995456/XpthaJcx_400x400.jpg",
+  "missions": [
+    {
+      "name": "FWX_",
+      "description": "Complete a Liquidity Provision and Leverage Trading on FWX",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1772244053326995456/XpthaJcx_400x400.jpg",
+      "tags": ["DeFi"],
+      "quests": [
+        {
+          "name": "Liquidity Provision",
+          "description": "Provide Liquidity on FWX",
+          "category": "DeFi",
+          "contract_address": "-----------",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 60
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Lend your asset on FWX",
+              "type": "LEND",
+              "description": "Complete a token lend on FWX",
+              "contract_address": "-------------",
+              "method_id": "--------"
+            }
+          ]
+        },
+        {
+          "name": "Leverage Trading",
+          "description": "Trade any token on FWX",
+          "category": "DeFi",
+          "contract_address": "-----------",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 60
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Perform Trade",
+              "type": "TRADE",
+              "description": "Complete a token trade on FWX",
+              "contract_address": "-------------",
+              "method_id": "--------"
+            }
+          ]
+        }
+
+      ],
+      "total_points_reward": 60,
+      "badge": {
+        "name": "FWX Enjoyer",
+        "description": "Awarded for completing liquidity provision and leverage trading on FWX",
+        "imgUrl": "https://pbs.twimg.com/profile_images/1772244053326995456/XpthaJcx_400x400.jpg"
+      }
+    }
+  ]
+}
