@@ -6,14 +6,14 @@
     {
       "name": "FWX_",
       "description": "Complete a Liquidity Provision and Leverage Trading on FWX",
-      "imgUrl": "https://pbs.twimg.com/profile_images/1772244053326995456/XpthaJcx_400x400.jpg",
+      "imgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
       "tags": ["DeFi"],
       "quests": [
         {
           "name": "Liquidity Provision",
-          "description": "Provide Liquidity on FWX",
+          "description": "Provide Liquidity AVAX on FWX",
           "category": "DeFi",
-          "contract_address": "-----------",
+          "contract_address": "0x7F91272ff1A0114743D2df95F5905F9613Fd92b3",
           "rewards": [
             {
               "type": "points",
@@ -22,19 +22,19 @@
           ],
           "tasks": [
             {
-              "name": "Lend your asset on FWX",
+              "name": "Lend AVAX on official market on FWX",
               "type": "LEND",
-              "description": "Complete a token lend on FWX",
-              "contract_address": "-------------",
-              "method_id": "--------"
+              "description": "Complete an AVAX lend on FWX",
+              "contract_address": "0x7F91272ff1A0114743D2df95F5905F9613Fd92b3",
+              "method_id": "e2bbb158"
             }
           ]
         },
         {
           "name": "Leverage Trading",
-          "description": "Trade any token on FWX",
+          "description": "Complete an AVAX trade with long position on FWX",
           "category": "DeFi",
-          "contract_address": "-----------",
+          "contract_address": "0x94732A5319e1feAcc7d08e08Fdc4C2c7f5123143",
           "rewards": [
             {
               "type": "points",
@@ -45,9 +45,9 @@
             {
               "name": "Perform Trade",
               "type": "TRADE",
-              "description": "Complete a token trade on FWX",
-              "contract_address": "-------------",
-              "method_id": "--------"
+              "description": "Complete an AVAX trade with long position on FWX",
+              "contract_address": "0x94732A5319e1feAcc7d08e08Fdc4C2c7f5123143",
+              "method_id": "0x8bf0ef20"
             }
           ]
         }
@@ -57,7 +57,7 @@
       "badge": {
         "name": "FWX Enjoyer",
         "description": "Awarded for completing liquidity provision and leverage trading on FWX",
-        "imgUrl": "https://pbs.twimg.com/profile_images/1772244053326995456/XpthaJcx_400x400.jpg"
+        "imgUrl": "https://img2.pic.in.th/pic/mission2.jpg"
       }
     }
   ]
