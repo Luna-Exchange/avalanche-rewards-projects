@@ -26,7 +26,7 @@
               "type": "LEND",
               "description": "Complete an AVAX lend on FWX",
               "contract_address": "0x7F91272ff1A0114743D2df95F5905F9613Fd92b3",
-              "method_id": "e2bbb158"
+              "method_id": "0xe2bbb158"
             }
           ]
         },
