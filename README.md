@@ -10,7 +10,7 @@ The process for getting your missions live on Avalanche Rewards is as follows:
 
 1. **Mission Design**: Create your mission using the JSON format described below.
 
-2. **Pull Request (PR) Submission**: Once your mission JSON is ready, submit it as a PR to our GitHub repository.
+2. **Pull Request (PR) Submission**: Once your mission JSON is ready, submit it as a PR to our GitHub repository. For partners, use the partners folder; for non-partners, use the non-partners folder.
 
 3. **Review Process**: The team at Insomnia Labs will review your submission. We may contact you if we need clarifications or have suggestions to enhance your mission.
 
