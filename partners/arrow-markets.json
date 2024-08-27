@@ -1,0 +1,61 @@
+{
+    "name": "Arrow Markets",
+    "description": "Arrow Markets democratizes options trading through a hybrid RFQ system with on-chain exchange and settlement.",
+    "imgUrl": "https://x.com/ArrowMarkets/photo",
+    "missions": [
+      {
+        "name": "Arrow Markets_",
+        "description": "Complete liquidity provision and purchasing option on Arrow Markets",
+        "imgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+        "tags": ["DeFi"],
+        "quests": [
+          {
+            "name": "Liquidity Provision",
+            "description": "Provide Liquidity on Trader Joe for the arrow market pool",
+            "category": "DeFi",
+            "contract_address": "0x7F91272ff1A0114743D2df95F5905F9613Fd92b3",
+            "rewards": [
+              {
+                "type": "points",
+                "value": 60
+              }
+            ],
+            "tasks": [
+              {
+                "name": "Provide Liquidity",
+                "type": "POOL",
+                "description": "Provide Liquidity for Arrow Token on Trader Joe",
+                "contract_address": "0xc3311F358AFaD52e13425d41053F6fdCaf0DE6dB"
+              }
+            ]
+          },
+          {
+            "name": "Option Purchase",
+            "description": "Purchase any option on the arrow market platform",
+            "category": "DeFi",
+            "rewards": [
+              {
+                "type": "points",
+                "value": 60
+              }
+            ],
+            "tasks": [
+              {
+                "name": "Perform Trade",
+                "type": "TRADE",
+                "description": "Purchase an option on the arrow market platform"
+              }
+            ]
+          }
+  
+        ],
+        "total_points_reward": 120,
+        "badge": {
+          "name": "Arrow Market Archer",
+          "description": "Awarded for completing liquidity provision and option purchase on Arrow Markets",
+          "imgUrl": "https://img2.pic.in.th/pic/mission2.jpg"
+        }
+      }
+    ]
+  }
+  
