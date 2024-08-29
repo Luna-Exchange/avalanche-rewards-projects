@@ -1,0 +1,77 @@
+{
+  "name": "Balancer",
+  "description": "Balancer is a decentralized automated market maker (AMM) protocol that represents a flexible building block for programmable liquidity.",
+  "imgUrl": "https://raw.githubusercontent.com/balancer/brand-assets/main/logo/circle-container/logo-balancer-black-128x128.svg",
+  "missions": [
+    {
+      "name": "Balancer_SWAP",
+      "description": "Complete a swap on Balancer",
+      "imgUrl": "xx",
+      "tags": ["DeFi"],
+      "quests": [
+        {
+          "name": "First Swap",
+          "description": "Execute your first swap on Balancer",
+          "category": "DeFi",
+          "contract_address": "0x60781C2586D68229fde47564546784ab3fACA982",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Perform Swap",
+              "type": "SWAP",
+              "description": "Complete a token swap on Balancer",
+              "contract_address": "0xE54Ca86531e17Ef3616d22Ca28b0D458b6C89106",
+              "method_id": "0x38ed1739"
+            }
+          ]
+        }
+      ],
+      "total_points_reward": 50,
+      "badge": {
+        "name": "Balancer Trader",
+        "description": "Awarded for completing a swap on Balancer",
+        "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png"
+      }
+    },
+    {
+        "name": "Balancer_LP",
+      "description": "Create an LP position on Balancer",
+      "imgUrl": "xx",
+      "tags": ["DeFi"],
+      "quests": [
+        {
+          "name": "Create LP Position",
+          "description": "Create an LP Position on Balancer",
+          "category": "DeFi",
+          "contract_address": "0x60781C2586D68229fde47564546784ab3fACA982",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 60
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Create LP Position",
+              "type": "SWAP",
+              "description": "Create an LP Position on Balancer",
+              "contract_address": "0xE54Ca86531e17Ef3616d22Ca28b0D458b6C89106",
+              "method_id": "0x38ed1739"
+            }
+          ]
+        }
+      ],
+      "total_points_reward": 60,
+      "badge": {
+        "name": "Balancer LP",
+        "description": "Awarded for completing a swap on Balancer",
+        "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png"
+      }
+    }
+  ]
+}
