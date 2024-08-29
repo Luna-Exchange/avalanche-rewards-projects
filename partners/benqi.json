@@ -1,0 +1,131 @@
+{
+  "name": "BENQI",
+  "description": "Liquid Staking and Algorithmic Liquidity Market Protocol on Avalanche.",
+  "imgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/65980c22ed0a33ec7f2e434c86f2f4f174e4b598/logos/black.svg",
+  "missions": [
+    {
+      "name": "Stake AVAX for sAVAX",
+      "description": "Stake your AVAX for sAVAX in BENQI Liquid Staking.",
+      "imgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/a32319dd92481b92cfaa7cdfe350f5ce8fb5d2f3/sAVAX/token/blue.svg",
+      "projectUrl": "https://staking.benqi.fi",
+      "tags": ["DeFi"],
+      "total_points_reward": 10,
+      "quests": [
+        {
+          "name": "Stake AVAX for sAVAX",
+          "description": "Stake your AVAX for sAVAX in BENQI Liquid Staking.",
+          "category": "DeFi",
+          "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 10
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Stake AVAX for sAVAX",
+              "description": "Stake your AVAX for sAVAX in BENQI Liquid Staking.",
+              "type": "STAKE",
+              "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+              "method_id": "0x5bcb2fc6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deposit sAVAX",
+      "description": "Deposit sAVAX into BENQI Lend & Borrow: Core Markets.",
+      "imgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/a32319dd92481b92cfaa7cdfe350f5ce8fb5d2f3/sAVAX/token/blue.svg",
+      "projectUrl": "https://app.benqi.fi",
+      "tags": ["DeFi"],
+      "total_points_reward": 30,
+      "quests": [
+        {
+          "name": "Deposit sAVAX",
+          "description": "Deposit sAVAX into BENQI Lend & Borrow: Core Markets.",
+          "category": "DeFi",
+          "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 30
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit sAVAX",
+              "description": "Deposit sAVAX into BENQI Lend & Borrow: Core Markets.",
+              "type": "MINT",
+              "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+              "method_id": "0xa0712d68"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deposit AVAX",
+      "description": "Deposit AVAX into BENQI Lend & Borrow: Core Markets.",
+      "imgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/7259a73f73f5fd0f2bb48b1310f7605f002cc51c/lending/tokens/avax.svg",
+      "projectUrl": "https://app.benqi.fi",
+      "tags": ["DeFi"],
+      "total_points_reward": 10,
+      "quests": [
+        {
+          "name": "Deposit AVAX",
+          "description": "Deposit AVAX into BENQI Lend & Borrow: Core Markets.",
+          "category": "DeFi",
+          "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 10
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit AVAX",
+              "description": "Deposit AVAX into BENQI Lend & Borrow: Core Markets.",
+              "type": "MINT",
+              "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+              "method_id": "0x1249c58b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deposit QI",
+      "description": "Deposit QI into BENQI Lend & Borrow: Avalanche Ecosystem Markets.",
+      "imgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/335fa62c8cdec53121b304cb31de4b823a142465/QI/token/black.svg",
+      "projectUrl": "https://app.benqi.fi",
+      "tags": ["DeFi"],
+      "total_points_reward": 10,
+      "quests": [
+        {
+          "name": "Deposit QI",
+          "description": "Deposit QI into BENQI Lend & Borrow: Avalanche Ecosystem Markets.",
+          "category": "DeFi",
+          "contract_address": "0x545356e396350D40cDEa888ad73534517399BF96",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 10
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit QI",
+              "description": "Deposit QI into BENQI Lend & Borrow: Avalanche Ecosystem Markets.",
+              "type": "MINT",
+              "contract_address": "0x545356e396350D40cDEa888ad73534517399BF96",
+              "method_id": "0xa0712d68"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
