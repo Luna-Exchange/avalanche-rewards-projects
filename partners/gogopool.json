@@ -6,6 +6,7 @@
         {
             "name": "Minting ggAVAX",
             "description": "Mint ggAVAX using AVAX.",
+            "imgUrl": "https://pbs.twimg.com/profile_images/1564959265491750912/wtIMjVly_400x400.png",
             "projectUrl": "https://app.gogopool.com/liquid-staking/",
             "tags": [
                 "DeFi"
