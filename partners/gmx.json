@@ -1,0 +1,44 @@
+{
+  "name": "GMX",
+  "description": "GMX is a leading non-custodial on-chain exchange, allowing you to trade BTC, ETH, SOL, AVAX, and other top cryptocurrencies with up to 100x leverage directly from your own wallet.",
+  "imgUrl": "https://github.com/gmx-io/gmx-assets/blob/main/GMX-Assets/PNG/GLP%20COLORED%20DARK.png?raw=true",
+  "missions": [
+    {
+      "name": "GMX Trading",
+      "description": "Perform a leveraged trade and realise >500 USD of trading volume on GMX, to qualify for a reward",
+      "imgUrl": "https://github.com/gmx-io/gmx-assets/blob/main/GMX-Assets/PNG/GLP%20COLORED%20DARK.png?raw=true",
+      "projectUrl": " https://app.gmx.io/",
+      "total_points_reward": 100,
+      "tags": [
+        "DeFi"
+      ],
+      "quests": [
+        {
+          "name": "First Leverage Trade",
+          "description": "Execute your first leveraged trade on BTC on GMX",
+          "category": "DeFi",
+          "contract_address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Perform Leveraged Trade",
+              "type": "TRADE",
+              "description": "Complete your first successful leveraged trade on the BTC market on GMX",
+              "contract_address": "0x11E590f6092D557bF71BaDEd50D81521674F8275",
+              "method_id": "0xac9650d8"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "GMX Community Member",
+        "description": "Awarded for completing your first margin trade on GMX"
+      }
+    }
+  ]
+}
