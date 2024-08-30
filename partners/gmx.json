@@ -8,7 +8,7 @@
       "description": "Perform a leveraged trade and realise >500 USD of trading volume on GMX, to qualify for a reward",
       "imgUrl": "https://github.com/gmx-io/gmx-assets/blob/main/GMX-Assets/PNG/GLP%20COLORED%20DARK.png?raw=true",
       "projectUrl": " https://app.gmx.io/",
-      "total_points_reward": 100,
+      "total_points_reward": 50,
       "tags": [
         "DeFi"
       ],
