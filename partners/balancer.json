@@ -2,17 +2,18 @@
   "name": "Balancer",
   "description": "Balancer is a decentralized automated market maker (AMM) protocol that represents a flexible building block for programmable liquidity.",
   "imgUrl": "https://raw.githubusercontent.com/balancer/brand-assets/main/logo/circle-container/logo-balancer-black-128x128.svg",
+  "project_url": "https://balancer.fi/pools?poolCategories=AVAX_LSTS",
   "missions": [
     {
-      "name": "Balancer_LP",
-      "description": "Create an LP position on Balancer, any pool",
+      "name": "Balancer AVAX LST Chad",
+      "description": "Create an sAVAX or ggAVAX LP position on Balancer,then stake for BAL rewards.",
       "imgUrl": "https://balancer.fi/pools?networks=AVALANCHE",
       "tags": [
         "DeFi"
       ],
       "quests": [
         {
-          "name": "Create LP Position",
+          "name": "Create LP Position for sAVAX or ggAVAX",
           "description": "Create an LP Position on Balancer",
           "category": "DeFi",
           "contract_address": "0x60781C2586D68229fde47564546784ab3fACA982",
@@ -31,17 +32,7 @@
               "method_id": "0xb95cac28"
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Balancer AVAX LST Chad",
-      "description": "Stake sAVAX or ggAVAX LP tokens for rewards on Balancer",
-      "imgUrl": "https://balancer.fi/pools?networks=AVALANCHE",
-      "tags": [
-        "DeFi"
-      ],
-      "quests": [
+        },
         {
           "name": "Stake sAVAX LP",
           "description": "Stake sAVAX/WAVAX LP tokens for rewards on Balancer.  You will have to deposit to acquire LP tokens if you do not already have them.",
