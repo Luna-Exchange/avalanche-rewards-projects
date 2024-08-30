@@ -3,6 +3,7 @@
   "description": "Balancer is a decentralized automated market maker (AMM) protocol that represents a flexible building block for programmable liquidity.",
   "imgUrl": "https://raw.githubusercontent.com/balancer/brand-assets/main/logo/circle-container/logo-balancer-black-128x128.svg",
   "project_url": "https://balancer.fi/pools?poolCategories=AVAX_LSTS",
+  "total_points": 100,
   "missions": [
     {
       "name": "Balancer AVAX LST Chad",
@@ -20,7 +21,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 30
+              "value": 20
             }
           ],
           "tasks": [
