@@ -4,12 +4,12 @@
   "imgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
   "missions": [
     {
-      "name": "Minting aUSD",
-      "description": "Mint aUSD from our platform either with USDC/USDT/AVAX or sAVAX",
-      "imgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
+      "name": "STABLE JACK MISSIONS",
+      "description":"Stablejack is a yield, volatility, and points trading marketplace for any asset.",
+      "imgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
       "projectUrl": "app.stablejack.xyz",
       "tags": ["DeFi"],
-      "total_points_reward": 50,
+      "total_points_reward": 300,
       "quests": [
         {
           "name": "aUSD enjoyor",
@@ -38,21 +38,7 @@
               "method_id": "0x2b08548b"
             }
           ]
-        }
-      ],
-      "badge": {
-        "name": "aUSD Minter",
-        "description": "This certifies that I minted aUSD from Stable Jack"
-      }
-    },
-    {
-      "name": "Minting xAVAX",
-      "description": "Mint xAVAX from our platform either with USDC/USDT/AVAX or sAVAX",
-      "imgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
-      "projectUrl": "app.stablejack.xyz",
-      "tags": ["DeFi"],
-      "total_points_reward": 50,
-      "quests": [
+        },
         {
           "name": "xAVAX enjoyor",
           "description": "Mint xAVAX and enjoy leverage with no liquidation risk",
@@ -80,21 +66,7 @@
               "method_id": "0xf48b8acb"
             }
           ]
-        }
-      ],
-      "badge": {
-        "name": "xAVAX Minter",
-        "description": "This certifies that I minted xAVAX from Stable Jack"
-      }
-    },
-    {
-      "name": "Minting xAVAX and aUSD",
-      "description": "Mint both aUSD and xAVAX from our platform either with USDC/USDT/AVAX or sAVAX",
-      "imgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
-      "projectUrl": "app.stablejack.xyz",
-      "tags": ["DeFi"],
-      "total_points_reward": 50,
-      "quests": [
+        },
         {
           "name": "true jack enjoyor",
           "description": "Mint both xAVAX and aUSD!",
@@ -122,21 +94,7 @@
               "method_id": "0x12953137"
             }
           ]
-        }
-      ],
-      "badge": {
-        "name": "Both tokens Minter",
-        "description": "This certifies that I minted xAVAX and aUSD from Stable Jack"
-      }
-    },
-    {
-      "name": "Deposit aUSD into Rebalance Pool",
-      "description": "Deposit aUSD into Rebalance Pool",
-      "imgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
-      "projectUrl": "app.stablejack.xyz",
-      "tags": ["DeFi"],
-      "total_points_reward": 50,
-      "quests": [
+        },
         {
           "name": "Yield enjoyor",
           "description": "Deposit aUSD into Rebalance Pool and get a 20% APR",
@@ -157,21 +115,7 @@
               "method_id": "0x6e553f65"
             }
           ]
-        }
-      ],
-      "badge": {
-        "name": "Yield enjoyor",
-        "description": "This certifies that I deposited aUSD into Rebalance Pool"
-      }
-    },
-    {
-      "name": "LPing aUSD/USDC within Pharaoh",
-      "description": "Deposit aUSD/USDC to Pharaoh Pool",
-      "imgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
-      "projectUrl": "https://pharaoh.exchange/liquidity/v2/0x1a66208180c20cc893ac5092d0cce95994cb1ae0",
-      "tags": ["DeFi"],
-      "total_points_reward": 50,
-      "quests": [
+        },
         {
           "name": "LP Provider",
           "description": "Deposit aUSD/USDC to Pharaoh Pool",
@@ -192,21 +136,7 @@
               "method_id": "0xe6c620f0"
             }
           ]
-        }
-      ],
-      "badge": {
-        "name": "LP enjoyor",
-        "description": "This certifies that I deposited aUSD into Rebalance Pool"
-      }
-    },
-    {
-      "name": "LPing aUSD/USDC within Trader Joe",
-      "description": "Deposit aUSD/USDC to Trader Joe Pool",
-      "imgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
-      "projectUrl": "https://traderjoexyz.com/avalanche/pool/v22/0xabe7a9dfda35230ff60d1590a929ae0644c47dc1/0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e/1",
-      "tags": ["DeFi"],
-      "total_points_reward": 50,
-      "quests": [
+        },
         {
           "name": "LP Provider",
           "description": "Deposit aUSD/USDC to Trader Joe Pool",
@@ -230,9 +160,10 @@
         }
       ],
       "badge": {
-        "name": "LP enjoyor",
-        "description": "This certifies that I deposited aUSD/USDC into Trader Joe Pool"
+        "name": "Stable jack ",
+        "description": "This certifies that I completed Stable Jack's Mission"
       }
-    }
-  ]
+
 }
+    ]
+  }
