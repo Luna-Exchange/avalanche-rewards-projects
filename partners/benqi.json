@@ -5,7 +5,7 @@
   "missions": [
     {
       "name": "The Benqi missions",
-      "description": "",
+      "description": "Benqi is a DeFi and Web3 protocol that offers lending, borrowing and liquid staking services",
       "imgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/a32319dd92481b92cfaa7cdfe350f5ce8fb5d2f3/sAVAX/token/blue.svg",
       "projectUrl": "https://benqi.fi",
       "tags": ["DeFi"],
