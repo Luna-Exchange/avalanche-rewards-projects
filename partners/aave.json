@@ -39,7 +39,7 @@
       }
     },
     {
-      "name": "AAVE_BORROW_ON_AVALANCHE",
+      "name": "AAVE BORROW ON AVALANCHE",
       "description": "Borrow assets on Aave's protocol on the Avalanche network and earn rewards.",
       "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/hovering-heart-gray.svg",
       "tags": ["DeFi"],
