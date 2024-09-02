@@ -8,7 +8,7 @@
       "description": "Supply assets on Aave's protocol on the Avalanche network and earn rewards.",
       "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "tags": ["DeFi"],
-      "total_points_reward": 50,
+      "total_points_reward": 100,
       "quests": [
         {
           "name": "Supply Asset",
