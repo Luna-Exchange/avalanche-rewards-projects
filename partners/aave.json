@@ -1,0 +1,63 @@
+{
+  "name": "Aave",
+  "description": "Aave is a decentralized finance protocol that allows users to lend and borrow a variety of digital assets on the Avalanche network.",
+  "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Logo/Logomark-purple.svg",
+  "missions": [
+    {
+      "name": "AAVE SUPPLY ON AVALANCHE",
+      "description": "Supply assets on Aave's protocol on the Avalanche network and earn rewards.",
+      "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "tags": ["DeFi"],
+      "total_points_reward": 100,
+      "quests": [
+        {
+          "name": "Supply Asset",
+          "description": "Deposit an asset to Aave on the Avalanche network.",
+          "category": "DeFi",
+          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit Asset",
+              "type": "DEPOSIT",
+              "description": "Deposit an asset to Aave and start earning interest.",
+              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+              "method_id": "0x617ba037"
+            }
+          ]
+        },
+        {
+          "name": "Borrow Asset",
+          "description": "Borrow an asset from Aave on the Avalanche network.",
+          "category": "DeFi",
+          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Borrow Asset",
+              "type": "BORROW",
+              "description": "Borrow an asset using Aave's lending protocol.",
+              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+              "method_id": "0xa415bcad"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Aave Supply Champion",
+        "description": "Awarded for depositing assets on Aave via the Avalanche network.",
+        "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/ronnie-pfp-2.svg"
+      }
+    }
+  ]
+}
