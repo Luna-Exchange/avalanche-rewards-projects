@@ -6,14 +6,14 @@
       {
         "name": "Arrow Markets_",
         "description": "Complete liquidity provision and purchasing option on Arrow Markets",
-        "imgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+        "imgUrl": "",
         "tags": ["DeFi"],
         "quests": [
           {
             "name": "Liquidity Provision",
             "description": "Provide Liquidity on Trader Joe for the arrow market pool",
             "category": "DeFi",
-            "contract_address": "0x7F91272ff1A0114743D2df95F5905F9613Fd92b3",
+            "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
             "rewards": [
               {
                 "type": "points",
@@ -25,7 +25,8 @@
                 "name": "Provide Liquidity",
                 "type": "POOL",
                 "description": "Provide Liquidity for Arrow Token on Trader Joe",
-                "contract_address": "0xc3311F358AFaD52e13425d41053F6fdCaf0DE6dB"
+                "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
+                "method_id": "0x383d15c5"
               }
             ]
           },
@@ -43,7 +44,9 @@
               {
                 "name": "Perform Trade",
                 "type": "TRADE",
-                "description": "Purchase an option on the arrow market platform"
+                "description": "Purchase an option on the arrow market platform",
+                "contract_address":"0xC33867F01E320bB077415cD3592E6B3879AaC45d",
+                "method_id": "0xc593dd27"
               }
             ]
           }
@@ -53,7 +56,7 @@
         "badge": {
           "name": "Arrow Market Archer",
           "description": "Awarded for completing liquidity provision and option purchase on Arrow Markets",
-          "imgUrl": "https://img2.pic.in.th/pic/mission2.jpg"
+          "imgUrl": ""
         }
       }
     ]
