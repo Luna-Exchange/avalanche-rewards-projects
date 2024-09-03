@@ -2,7 +2,7 @@
   "name": "Balancer",
   "description": "Balancer is a decentralized automated market maker (AMM) protocol that represents a flexible building block for programmable liquidity.",
   "imgUrl": "https://raw.githubusercontent.com/balancer/brand-assets/main/logo/circle-container/logo-balancer-black-128x128.svg",
-  "project_url": "https://balancer.fi/pools?poolCategories=AVAX_LSTS",
+  "project_url": "https://balancer.fi",
   "total_points": 100,
   "missions": [
     {
@@ -17,7 +17,7 @@
           "name": "Create LP Position for sAVAX or ggAVAX",
           "description": "Create an LP Position on Balancer",
           "category": "DeFi",
-          "contract_address": "0x60781C2586D68229fde47564546784ab3fACA982",
+          "contract_address": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
           "rewards": [
             {
               "type": "points",
