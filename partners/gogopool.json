@@ -4,13 +4,13 @@
     "imgUrl": "https://pbs.twimg.com/profile_images/1564959265491750912/wtIMjVly_400x400.png",
     "missions": [
         {
-            "name": "Minting ggAVAX",
-            "description": "Mint ggAVAX using AVAX.",
-            "projectUrl": "https://app.gogopool.com/liquid-staking/",
+            "name": "GoGoPool Missions",
+            "description": "Blockchains and Liquid Staking made easy",
+            "projectUrl": "https://gogopool.com/",
             "tags": [
                 "DeFi"
             ],
-            "total_points_reward": 50,
+            "total_points_reward": 300,
             "quests": [
                 {
                     "name": "ggAVAX minter",
@@ -32,22 +32,7 @@
                             "method_id": "0x6e553f65"
                         }
                     ]
-                }
-            ],
-            "badge": {
-                "name": "ggAVAX enjoyer",
-                "description": "Awarded for minting ggAVAX."
-            }
-        },
-        {
-            "name": "Provide ggAVAX liquidity on TraderJoe.",
-            "description": "Deposit ggAVAX/AVAX liquidity into the TraderJoe V2 pool.",
-            "projectUrl": "https://traderjoexyz.com/avalanche/pool/v22/0xa25eaf2906fa1a3a13edac9b9657108af7b703e3/AVAX/5",
-            "tags": [
-                "DeFi"
-            ],
-            "total_points_reward": 50,
-            "quests": [
+                },
                 {
                     "name": "TraderJoe LP Provider",
                     "description": "Deposit ggAVAX/AVAX liquidity into the TraderJoe V2 pool.",
@@ -68,22 +53,7 @@
                             "method_id": "0xa3c7271a"
                         }
                     ]
-                }
-            ],
-            "badge": {
-                "name": "ggAVAX Liqudiity Provider (TJ)",
-                "description": "Awarded for providing liquidity on TraderJoe."
-            }
-        },
-        {
-            "name": "Provide ggAVAX liquidity on Pharaoh.",
-            "description": "Deposit ggAVAX/AVAX liquidity into the Pharaoh pool.",
-            "projectUrl": "https://pharaoh.exchange/liquidity/v2/0x365ac0c19b8171151a10ea1af308c476df18b127",
-            "tags": [
-                "DeFi"
-            ],
-            "total_points_reward": 50,
-            "quests": [
+                },
                 {
                     "name": "Pharaoh LP Provider",
                     "description": "Deposit ggAVAX/AVAX liquidity into the Pharaoh pool.",
@@ -104,22 +74,7 @@
                             "method_id": "0xe6c620f0"
                         }
                     ]
-                }
-            ],
-            "badge": {
-                "name": "ggAVAX Liqudiity Provider (Pharaoh)",
-                "description": "Awarded for providing liquidity on Pharaoh."
-            }
-        },
-        {
-            "name": "Launch a Minipool.",
-            "description": "Create and launch a GoGoPool Minipool.",
-            "projectUrl": "https://app.gogopool.com/create-minipool/",
-            "tags": [
-                "DeFi"
-            ],
-            "total_points_reward": 150,
-            "quests": [
+                },
                 {
                     "name": "Become a Minipool Operator",
                     "description": "Stake AVAX and GGP to create a Minipool.",
@@ -143,8 +98,8 @@
                 }
             ],
             "badge": {
-                "name": "Minipool Operator",
-                "description": "Awarded for being a champion of decentralisation."
+                "name": "GoGoPool Expert",
+                "description": "This certifies that I've completed GoGoPool's Mission."
             }
         }
     ]
