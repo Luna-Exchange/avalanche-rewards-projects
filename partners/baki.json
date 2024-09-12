@@ -1,0 +1,39 @@
+{
+    "name": "BAKI",
+    "description": "Baki is an infinite-liquidity FX protocol allowing splippage free swaps between African currencies by Canza Finance",
+    "imgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fbaki-logo.png?alt=media&token=a6119a49-c63d-49d6-8620-0920dcd29c93",
+    "missions": [
+      {
+        "name": "The Baki missions",
+        "description": "Mint zUSD at 150% overcolleterilzation ratio",
+        "imgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fmintzusd.png?alt=media&token=09326437-cb15-4350-acc3-feb44128f52e",
+        "projectUrl": "https://baki.exchange/",
+        "tags": ["DeFi"],
+        "total_points_reward": 60,
+        "quests": [
+          {
+            "name": "Deposit USDC collateral and mint ZToken",
+            "description": "Deposit USDC collateral and mint ZUSD",
+            "category": "DeFi",
+            "contract_address": "0x1209c35BDA1bC7b9edaF4C2f60Aa034B0530240b",
+            "rewards": [
+              {
+                "type": "points",
+                "value": 60
+              }
+            ],
+            "tasks": [
+              {
+                "name": "Deposit USDC for ZTokens",
+                "description": "Deposit USDC collateral for ZUSD",
+                "type": "Depost and Mint",
+                "contract_address": "0x1209c35BDA1bC7b9edaF4C2f60Aa034B0530240b",
+                "method_id": "0x8e1868f4"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
