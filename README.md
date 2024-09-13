@@ -72,7 +72,8 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
     "type": "MINT, SWAP, STAKE, etc.",
     "description": "Description of the task",
     "contract_address": "The contract address of the token the task is on",
-    "method_id": "The hashed event signature of the function that carries the action for the task"
+    "method_id": "The hashed event signature of the function that carries the action for the task",
+    "chain_id": "The unique identifier of the avalanche subnet where the smart contract is deployed, this defaults to 43114 (Avalanche C-Chain)"
   }
 ]
 ```
@@ -91,46 +92,49 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
 ### NFT Mission: Dokyo
 ```json
 {
-  "name": "Dokyo",
-  "description": "Dokyo is an NFT collection on the Avalanche network, with approximately $30 million in trading volume in January 2024.",
-  "imgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
-  "missions": [
-    {
-      "name": "DOKYO_COLLECTOR",
-      "description": "Complete this NFT collection mission",
-      "imgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
-      "tags": ["NFT"],
-      "quests": [
+    "name": "Dokyo",
+    "description": "Dokyo is an NFT collection on the Avalanche network, with approximately $30 million in trading volume in January 2024.",
+    "imgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
+    "missions": [
         {
-          "name": "Dokyo Genesis",
-          "description": "Acquire your first Dokyo NFT",
-          "category": "NFT",
-          "contract_address": "0x54c800d2331e10467143911aabca092d68bf4166",
-          "rewards": [
-            {
-              "type": "points",
-              "value": 60
+            "name": "DOKYO_COLLECTOR",
+            "description": "Complete this NFT collection mission",
+            "imgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
+            "tags": [
+                "NFT"
+            ],
+            "quests": [
+                {
+                    "name": "Dokyo Genesis",
+                    "description": "Acquire your first Dokyo NFT",
+                    "category": "NFT",
+                    "contract_address": "0x54c800d2331e10467143911aabca092d68bf4166",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 60
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Mint Dokyo",
+                            "type": "MINT",
+                            "description": "Mint your first Dokyo NFT",
+                            "contract_address": "0x54c800d2331e10467143911aabca092d68bf4166",
+                            "method_id": "0xd37c353b",
+                            "chain_id": "43114"
+                        }
+                    ]
+                }
+            ],
+            "total_points_reward": 60,
+            "badge": {
+                "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA7r8VBZTrhn1OZPjJh-8Ac9mV06FA6uupYJVZAnGc7g&s",
+                "name": "Dokyo Collector",
+                "description": "Awarded for completing the Dokyo collection mission"
             }
-          ],
-          "tasks": [
-            {
-              "name": "Mint Dokyo",
-              "type": "MINT",
-              "description": "Mint your first Dokyo NFT",
-              "contract_address": "0x54c800d2331e10467143911aabca092d68bf4166",
-              "method_id": "0xd37c353b"
-            }
-          ]
         }
-      ],
-      "total_points_reward": 60,
-      "badge": {
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA7r8VBZTrhn1OZPjJh-8Ac9mV06FA6uupYJVZAnGc7g&s",
-        "name": "Dokyo Collector",
-        "description": "Awarded for completing the Dokyo collection mission"
-      }
-    }
-  ]
+    ]
 }
 ```
 
@@ -164,7 +168,8 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
               "type": "SWAP",
               "description": "Complete a token swap on Pangolin",
               "contract_address": "0xE54Ca86531e17Ef3616d22Ca28b0D458b6C89106",
-              "method_id": "0x38ed1739"
+              "method_id": "0x38ed1739",
+              "chain_id": "43114"
             }
           ]
         }
