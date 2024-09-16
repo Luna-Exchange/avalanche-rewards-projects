@@ -1,0 +1,85 @@
+{
+  "name": "Pharaoh Exchange",
+  "description": "Pharaoh pairs incentives with concentrated liquidity for next-level capital efficiency",
+  "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+  "missions": [
+    {
+      "name": "PHARAOH_EXCHANGE",
+      "description": "Pharaoh pairs incentives with concentrated liquidity for next-level capital efficiency",
+      "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "projectUrl": "pharaoh.exchange",
+      "tags": ["DeFi"],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Pharaoh Locker",
+          "description": "Create a lock on Pharaoh Exchange and earn voting rewards",
+          "category": "DeFi",
+          "contract_address": "0xAAA3249511DE3E7A5c61FbA8313170c1Bef9A65e",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Create a Lock",
+              "type": "LOCK",
+              "description": "Lock any amount of PHAR on Pharaoh Exchange",
+              "contract_address": "0xAAA3249511DE3E7A5c61FbA8313170c1Bef9A65e",
+              "method_id": "0xb52c05fe"
+            }
+          ]
+        },
+        {
+          "name": "Pharaoh Swap",
+          "description": "Make at least one swap with Pharaoh Exchange Native's Router on Avalanche",
+          "category": "DeFi",
+          "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Make a Swap",
+              "type": "SWAP",
+              "description": "Complete a token swap on Pharaoh Exchange",
+              "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+              "method_id": "0x24856bc3"
+            }
+          ]
+        },
+        {
+          "name": "Pharaoh LPer",
+          "description": "Deposit into Pharaoh Exchange's concentrated liquidity pools",
+          "category": "DeFi",
+          "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Make a deposit",
+              "type": "DEPOSIT",
+              "description": "Deposit into Pharaoh Exchange's concentrated liquidity pools",
+              "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+              "method_id": "0xac9650d8"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Pharaoh Phriend",
+        "description": "Awarded for depositing, voting, or LPing on Pharaoh Exchange",
+        "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png"
+      }
+    }
+  ]
+}
