@@ -196,6 +196,7 @@ When designing your mission, consider the following:
 - **Clarity**: Ensure your descriptions are clear and easy to understand.
 - **Uniqueness**: Highlight what makes your project unique.
 - **Categories**: Remember that tags and categories can only be "NFT", "DeFi", or "Gaming".
+- **Method IDs**: Use `method_id` for a single method and `method_ids` for multiple methods. Choose based on your task requirements.
 
 ## Updating Your Missions
 
