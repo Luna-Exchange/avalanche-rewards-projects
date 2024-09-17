@@ -1,0 +1,90 @@
+{
+  "name": "DFK",
+  "description": "DeFi Kingdoms is a cross-chain, play-to-earn game built on a strong DeFi protocol",
+  "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDmwAGN3msj7cqFbVhBQOfnhRfYcamDhezPYEm2bc9dXrX6eeZeqHPQ-npxQu4tTL6Q&usqp=CAU",
+  "missions": [
+    {
+      "name": "DFK Missions",
+      "description": "DeFi Kingdoms is a cross-chain, play-to-earn game built on a strong DeFi protocol",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDmwAGN3msj7cqFbVhBQOfnhRfYcamDhezPYEm2bc9dXrX6eeZeqHPQ-npxQu4tTL6Q&usqp=CAU",
+      "tags": ["DeFi"],
+      "quests": [
+        {
+          "name": "Hero quest tasks",
+          "description": "Complete hero quest tasks to earn rewards",
+          "category": "DeFi",
+          "contract_address": "",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 60
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Hero Quest fishing",
+              "type": "HERO_QUEST_FISHING",
+              "description": "Complete hero quest fishing",
+              "contract_address": "",
+              "method_id": ""
+            },
+            {
+              "name": "Hero Quest foraging",
+              "type": "HERO_QUEST_FORAGING",
+              "description": "Complete hero quest foraging",
+              "contract_address": "",
+              "method_id": ""
+            },
+            {
+              "name": "Hero Quest gardening",
+              "type": "HERO_QUEST_GARDENING",
+              "description": "Complete hero quest gardening",
+              "contract_address": "",
+              "method_id": ""
+            },
+            {
+              "name": "Hero Quest mining",
+              "type": "HERO_QUEST_MINING",
+              "description": "Complete hero quest mining",
+              "contract_address": "",
+              "method_id": ""
+            }
+          ]
+        },
+        {
+          "name": "Hero hunt tasks",
+          "description": "Complete hero hunt tasks to earn rewards",
+          "category": "DeFi",
+          "contract_address": "",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 60
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Hero Hunt complete",
+              "type": "HERO_HUNT_COMPLETE",
+              "description": "Complete hero hunt",
+              "contract_address": "",
+              "method_id": ""
+            },
+            {
+              "name": "Hero Hunt win",
+              "type": "HERO_HUNT_WIN",
+              "description": "Complete hero hunt win",
+              "contract_address": "",
+              "method_id": ""
+            }
+          ]
+        }
+      ],
+      "total_points_reward": 120,
+      "badge": {
+        "name": "Hero’s Medal",
+        "description": "Awarded for completing DFK gaming missions"
+      }
+    }
+  ]
+}
