@@ -72,8 +72,10 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
     "type": "MINT, SWAP, STAKE, etc.",
     "description": "Description of the task",
     "contract_address": "The contract address of the token the task is on",
+    "chain_id": "The unique identifier of the avalanche subnet where the smart contract is deployed, this defaults to 43114 (Avalanche C-Chain)",
     "method_id": "The hashed event signature of the function that carries the action for the task",
-    "chain_id": "The unique identifier of the avalanche subnet where the smart contract is deployed, this defaults to 43114 (Avalanche C-Chain)"
+    // OR
+    "method_ids": ["0xhashed_event_signature1", "0xhashed_event_signature2"]
   }
 ]
 ```
@@ -141,47 +143,49 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
 ### DeFi Mission: Pangolin
 ```json
 {
-  "name": "Pangolin",
-  "description": "Pangolin is a decentralized exchange (DEX) on the Avalanche network.",
-  "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
-  "missions": [
-    {
-      "name": "PANGOLIN_SWAP",
-      "description": "Complete a swap on Pangolin DEX",
-      "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
-      "tags": ["DeFi"],
-      "quests": [
+    "name": "Pangolin",
+    "description": "Pangolin is a decentralized exchange (DEX) on the Avalanche network.",
+    "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
+    "missions": [
         {
-          "name": "First Swap",
-          "description": "Execute your first swap on Pangolin",
-          "category": "DeFi",
-          "contract_address": "0x60781C2586D68229fde47564546784ab3fACA982",
-          "rewards": [
-            {
-              "type": "points",
-              "value": 60
+            "name": "PANGOLIN_SWAP",
+            "description": "Complete a swap on Pangolin DEX",
+            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
+            "tags": [
+                "DeFi"
+            ],
+            "quests": [
+                {
+                    "name": "First Swap",
+                    "description": "Execute your first swap on Pangolin",
+                    "category": "DeFi",
+                    "contract_address": "0x60781C2586D68229fde47564546784ab3fACA982",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 60
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Perform Swap",
+                            "type": "SWAP",
+                            "description": "Complete a token swap on Pangolin",
+                            "contract_address": "0xE54Ca86531e17Ef3616d22Ca28b0D458b6C89106",
+                            "chain_id": "43114",
+                            "method_ids": ["0xd37c353b", "0x42842e0e"]
+                        }
+                    ]
+                }
+            ],
+            "total_points_reward": 60,
+            "badge": {
+                "name": "Pangolin Trader",
+                "description": "Awarded for completing a swap on Pangolin",
+                "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png"
             }
-          ],
-          "tasks": [
-            {
-              "name": "Perform Swap",
-              "type": "SWAP",
-              "description": "Complete a token swap on Pangolin",
-              "contract_address": "0xE54Ca86531e17Ef3616d22Ca28b0D458b6C89106",
-              "method_id": "0x38ed1739",
-              "chain_id": "43114"
-            }
-          ]
         }
-      ],
-      "total_points_reward": 60,
-      "badge": {
-        "name": "Pangolin Trader",
-        "description": "Awarded for completing a swap on Pangolin",
-        "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png"
-      }
-    }
-  ]
+    ]
 }
 ```
 
@@ -192,6 +196,7 @@ When designing your mission, consider the following:
 - **Clarity**: Ensure your descriptions are clear and easy to understand.
 - **Uniqueness**: Highlight what makes your project unique.
 - **Categories**: Remember that tags and categories can only be "NFT", "DeFi", or "Gaming".
+- **Method IDs**: Use `method_id` for a single method and `method_ids` for multiple methods. Choose based on your task requirements.
 
 ## Updating Your Missions
 
