@@ -1,0 +1,113 @@
+{
+  "name": "Salvor",
+  "description": "NFT marketplace offering P2P NFT lending, where users can also borrow AVAX against their tokens.",
+  "imgUrl": "https://cdn.salvor.io/sitev3/images/SALVORLOGO3.png",
+  "missions": [
+    {
+      "name": "Salvor Missions",
+      "description": "Borrow AVAX against your NFTs and tokens, buy NFTs and stake your ART tokens and The Salvors NFTs to earn a share of the protocol revenue.",
+      "imgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
+      "projectUrl": "https://salvor.io",
+      "tags": ["NFT", "DeFi"],
+      "total_points_reward": 100,
+      "quests": [
+        {
+          "name": "Borrow AVAX",
+          "description": "Borrow against your meme coins or tokens",
+          "category": "DeFi",
+          "contract_address": "0x22E229D14dc80A1eA7cA7637173E8C6C36D60Fe8",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 20
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Borrow AVAX against your meme coins",
+              "description": "Borrow AVAX using your tokens as collateral.",
+              "type": "BORROW",
+              "contract_address": "0x22E229D14dc80A1eA7cA7637173E8C6C36D60Fe8",
+              "method_id": "0x87008a19"
+            }
+          ]
+        },
+        {
+          "name": "Borrow AVAX against your NFTs",
+          "description": "Borrow funds against your NFT on Salvor",
+          "category": "NFT",
+          "contract_address": "0x05c1813ec7beb8bf744ac43fea25cafb650ac966",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 20
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Borrow AVAX",
+              "description": "Borrow AVAX using your NFTs as collateral.",
+              "type": "BORROW",
+              "contract_address": "0x05c1813ec7beb8bf744ac43fea25cafb650ac966",
+              "method_id": "0x870e4c55"
+            }
+          ]
+        },
+        {
+          "name": "Buy NFT",
+          "description": "Buy an NFT",
+          "category": "NFT",
+          "contract_address": "0xd0996694bc687a3c3e5de6332e6e542ad774dd3f",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 20
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Buy NFT",
+              "description": "Buy an NFT on Salvor",
+              "type": "BUY",
+              "contract_address": "0xd0996694bc687a3c3e5de6332e6e542ad774dd3f",
+              "method_id": "0x8c20729a"
+            }
+          ]
+        },
+        {
+          "name": "Stake",
+          "description": "Stake your ART and The Salvor NFTs in Salvor to earn a share of the protocol revenue.",
+          "category": "DeFi",
+          "contract_address": "0x72b73fa1569df9ff1ae9b29cd5b164af6c02ebaa",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 40
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Stake ART",
+              "description": "Stake your ART token to earn a share of the protocol revenue.",
+              "type": "STAKE",
+              "contract_address": "0x72b73fa1569df9ff1ae9b29cd5b164af6c02ebaa",
+              "method_id": "0x4b4c1c47"
+            },
+            {
+              "name": "Stake Salvor NFTs",
+              "description": "Stake your 'The Salvors' NFT to earn a share of the protocol revenue.",
+              "type": "STAKE",
+              "contract_address": "0x72b73fa1569df9ff1ae9b29cd5b164af6c02ebaa",
+              "method_id": "0xf88ec420"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Salvorian",
+        "description": "For those diving deep into the NFT marketplace, using P2P NFT and meme coin lending/borrowing on Avalanche.",
+        "imgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png"
+      }
+    }
+  ]
+}
