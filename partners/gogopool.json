@@ -30,7 +30,7 @@
                             "type": "MINT",
                             "description": "Mint ggAVAX with AVAX from our platform",
                             "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
-                            "method_id": "0x6e553f65"
+                            "method_id": "0xa0d065c3"
                         }
                     ]
                 }
