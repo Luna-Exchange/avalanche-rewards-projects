@@ -1,11 +1,11 @@
 {
   "name": "DFK",
-  "description": "DeFi Kingdoms is a cross-chain, play-to-earn game built on a strong DeFi protocol",
+  "description": "DeFi Kingdoms is a cross-chain fantasy RPG with beautiful pixel art, tokenized resources, featuring Hero NFTs with PvE and PvP gameplay, integrated with a DeFi protocol.",
   "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDmwAGN3msj7cqFbVhBQOfnhRfYcamDhezPYEm2bc9dXrX6eeZeqHPQ-npxQu4tTL6Q&usqp=CAU",
   "missions": [
     {
       "name": "DFK Missions",
-      "description": "DeFi Kingdoms is a cross-chain, play-to-earn game built on a strong DeFi protocol",
+      "description": "DeFi Kingdoms is a cross-chain fantasy RPG with beautiful pixel art, tokenized resources, featuring Hero NFTs with PvE and PvP gameplay, integrated with a DeFi protocol.",
       "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDmwAGN3msj7cqFbVhBQOfnhRfYcamDhezPYEm2bc9dXrX6eeZeqHPQ-npxQu4tTL6Q&usqp=CAU",
       "tags": ["DeFi"],
       "quests": [
@@ -46,6 +46,13 @@
               "name": "Hero Quest mining",
               "type": "HERO_QUEST_MINING",
               "description": "Complete hero quest mining",
+              "contract_address": "",
+              "method_id": ""
+            },
+            {
+              "name": "Hero Quest training",
+              "type": "HERO_QUEST_TRAINING",
+              "description": "Complete hero quest training",
               "contract_address": "",
               "method_id": ""
             }
