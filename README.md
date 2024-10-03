@@ -53,6 +53,7 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
     "description": "Description of the quest",
     "category": "NFT, DeFi, or Gaming",
     "contract_address": "The contract address of the token the quest is on",
+    "frequency":"one_time", // daily for evergreen missions
     "rewards": [
       {
         "type": "points",
@@ -73,6 +74,7 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
     "description": "Description of the task",
     "contract_address": "The contract address of the token the task is on",
     "chain_id": "The unique identifier of the avalanche subnet where the smart contract is deployed, this defaults to 43114 (Avalanche C-Chain)",
+    "metadata": {"threshold":0},
     "method_id": "The hashed event signature of the function that carries the action for the task",
     // OR
     "method_ids": ["0xhashed_event_signature1", "0xhashed_event_signature2"]
@@ -110,6 +112,7 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
                     "name": "Dokyo Genesis",
                     "description": "Acquire your first Dokyo NFT",
                     "category": "NFT",
+                    "frequency":"one_time",
                     "contract_address": "0x54c800d2331e10467143911aabca092d68bf4166",
                     "rewards": [
                         {
@@ -124,6 +127,7 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
                             "description": "Mint your first Dokyo NFT",
                             "contract_address": "0x54c800d2331e10467143911aabca092d68bf4166",
                             "method_id": "0xd37c353b",
+                            "metadata": {"threshold":0},
                             "chain_id": "43114"
                         }
                     ]
