@@ -9,7 +9,7 @@
       "imgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/a32319dd92481b92cfaa7cdfe350f5ce8fb5d2f3/sAVAX/token/blue.svg",
       "projectUrl": "https://benqi.fi",
       "tags": ["DeFi"],
-      "total_points_reward": 60,
+      "total_points_reward": 280,
       "quests": [
         {
           "name": "Stake AVAX for sAVAX",
@@ -92,6 +92,144 @@
               "type": "MINT",
               "contract_address": "0x545356e396350D40cDEa888ad73534517399BF96",
               "method_id": "0xa0712d68"
+            }
+          ]
+        },
+        {
+          "name": "AVAX Boost Deposit >= $1,000",
+          "description": "Deposit equal or more than $1,000 in AVAX or sAVAX",
+          "category": "DeFi",
+          "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 20
+            }
+          ],
+          "tasks": [
+            {
+              "name": "AVAX Boost Deposit  >= $1,000",
+              "description": "Deposit equal or more than $1000 in AVAX or sAVAX",
+              "type": "MINT",
+              "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+              "metadata": {"threshold":1000},
+              "method_id": "0xa0712d68"
+            }
+          ]
+        },
+        {
+          "name": "AVAX Boost Deposit >= $3,000",
+          "description": "Deposit equal or more than $3,000 in AVAX or sAVAX",
+          "category": "DeFi",
+          "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 40
+            }
+          ],
+          "tasks": [
+            {
+              "name": "AVAX Boost Deposit  >= $3,000",
+              "description": "Deposit equal or more than $1000 in AVAX or sAVAX",
+              "type": "MINT",
+              "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+              "metadata": {"threshold":3000},
+              "method_id": "0xa0712d68"
+            }
+          ]
+        },
+        {
+          "name": "AVAX Boost Deposit >= $5,000",
+          "description": "Deposit equal or more than 53000 in AVAX or sAVAX",
+          "category": "DeFi",
+          "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "AVAX Boost Deposit >= $5,000",
+              "description": "Deposit equal or more than $1000 in AVAX or sAVAX",
+              "type": "MINT",
+              "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+              "metadata": {"threshold":5000},
+              "method_id": "0xa0712d68"
+            }
+          ]
+        },
+        {
+          "name": "AVAX Power Staking >= $1,000",
+          "description": "Stake more than $1,000 in AVAX for sAVAX",
+          "category": "DeFi",
+          "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 20
+            }
+          ],
+          "tasks": [
+            {
+              "name": "AVAX Boost Deposit",
+              "description": "Deposit equal or more than $1000 in AVAX or sAVAX",
+              "type": "MINT",
+              "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+              "metadata": {"threshold":1000},
+              "method_id": "0x5bcb2fc6"
+            }
+          ]
+        },
+        {
+          "name": "AVAX Power Staking >= $3,000",
+          "description": "Stake more than $3,000 in AVAX for sAVAX",
+          "category": "DeFi",
+          "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 40
+            }
+          ],
+          "tasks": [
+            {
+              "name": "AVAX Boost Deposit >= $3,000",
+              "description": "Deposit equal or more than $1000 in AVAX or sAVAX",
+              "type": "MINT",
+              "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+              "metadata": {"threshold":3000},
+              "method_id": "0x5bcb2fc6"
+            }
+          ]
+        },
+        {
+          "name": "AVAX Power Staking >= $5,000",
+          "description": "Stake more than $5,000 in AVAX for sAVAX",
+          "category": "DeFi",
+          "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "AVAX Boost Deposit >= $5,000",
+              "description": "Deposit equal or more than $5,000 in AVAX or sAVAX",
+              "type": "MINT",
+              "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+              "metadata": {"threshold":5000},
+              "method_id": "0x5bcb2fc6"
             }
           ]
         }
