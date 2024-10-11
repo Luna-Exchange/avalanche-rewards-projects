@@ -9,7 +9,7 @@
       "imgUrl": "https://storage.googleapis.com/yak/dapp-images/swap-magic-avalanche.jpeg",
       "projectUrl": "yieldyak.com/swap",
       "tags": ["DeFi"],
-      "total_points_reward": 100,
+      "total_points_reward": 210,
       "quests": [
         {
           "name": "Yak Swap",
@@ -50,6 +50,75 @@
               "description": "Deposit into Yield Yak's BTC.b DeltaPrime vault",
               "contract_address": "0xFE55D3eF39A25E55818e1A3900D41F561a75f4ea",
               "method_id": "0xb6b55f25"
+            }
+          ]
+        },
+        {
+          "name": "Yak boost swap >= $1000",
+          "description": "Yak Swap: Make 1 swap of more than $1,000",
+          "category": "DeFi",
+          "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 20
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Yak boost swap >= $1000",
+              "description": "complete a swap of or more than $1,000",
+              "type": "MINT",
+              "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
+              "metadata": {"threshold":1000},
+              "method_id": "0x6bf2df86"
+            }
+          ]
+        },
+        {
+          "name": "Yak boost swap >= $3000",
+          "description": "Yak Swap: Make 1 swap of more than $3,000",
+          "category": "DeFi",
+          "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 40
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Yak boost swap >= $3000",
+              "description": "complete a swap of or more than $3,000",
+              "type": "MINT",
+              "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
+              "metadata": {"threshold":3000},
+              "method_id": "0x6bf2df86"
+            }
+          ]
+        },
+        {
+          "name": "Yak boost swap >= $5000",
+          "description": "Yak Swap: Make 1 swap of more than $5,000",
+          "category": "DeFi",
+          "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Yak boost swap >= $5,000",
+              "description": "complete a swap of or more than $5,000",
+              "type": "MINT",
+              "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
+              "metadata": {"threshold":5000},
+              "method_id": "0x6bf2df86"
             }
           ]
         }
