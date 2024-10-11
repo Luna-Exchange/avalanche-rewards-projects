@@ -1,6 +1,6 @@
 {
   "name": "Core",
-  "description": "Core is a platform for creating and sharing interactive experiences, especially games. It offers a user-friendly interface for developers of all skill levels, promoting community collaboration and innovation.",
+  "description": "Avalanche Core Wallet is a secure, user-friendly wallet for AVAX and other Avalanche tokens. It offers easy asset management, staking, and dApp integration, making it suitable for all users.",
   "imgUrl": "https://th.bing.com/th/id/OIP.X9gVxv_vN0Wy2Nz5DuEqOQHaC9?rs=1&pid=ImgDetMain",
   "missions": [
     {
@@ -29,7 +29,7 @@
               "method_id": ""
             }
           ]
-        },
+        }
       ],
       "total_points_reward": 60,
       "badge": {
