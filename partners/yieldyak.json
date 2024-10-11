@@ -9,7 +9,7 @@
       "imgUrl": "https://storage.googleapis.com/yak/dapp-images/swap-magic-avalanche.jpeg",
       "projectUrl": "yieldyak.com/swap",
       "tags": ["DeFi"],
-      "total_points_reward": 100,
+      "total_points_reward": 210,
       "quests": [
         {
           "name": "Yak Swap",
@@ -122,7 +122,6 @@
             }
           ]
         }
-
       ],
       "badge": {
         "name": "Yakhead",
