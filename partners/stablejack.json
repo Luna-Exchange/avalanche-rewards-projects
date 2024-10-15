@@ -33,7 +33,7 @@
             {
               "name": "Mint aUSD with USDT/USDC/AVAX",
               "type": "MINT",
-              "description": "Mint aUSD with sAVAX from our platform",
+              "description": "Mint aUSD with USDT/USDC/AVAX from our platform",
               "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
               "method_id": "0x2b08548b"
             }
@@ -61,7 +61,7 @@
             {
               "name": "Mint xAVAX with USDT/USDC/AVAX",
               "type": "MINT",
-              "description": "Mint xAVAX with sAVAX from our platform",
+              "description": "Mint xAVAX with USDT/USDC/AVAX from our platform",
               "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
               "method_id": "0xf48b8acb"
             }
