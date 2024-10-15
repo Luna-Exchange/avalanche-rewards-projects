@@ -25,7 +25,8 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
 {
   "name": "Your Brand Name",
   "description": "A concise description of your project",
-  "imgUrl": "A link to your logo or representative image"
+  "featuredImgUrl": "A link to your featured image/logo or representative image. This should have a 16:9 aspect ratio",
+  "bannerImgUrl": "A link to your cover image/banner. This should have a 5:1 aspect ratio"
 }
 ```
 
@@ -96,7 +97,8 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
 {
     "name": "Dokyo",
     "description": "Dokyo is an NFT collection on the Avalanche network, with approximately $30 million in trading volume in January 2024.",
-    "imgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
+    "featuredImgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
+    "bannerImgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
     "missions": [
         {
             "name": "DOKYO_COLLECTOR",
@@ -145,7 +147,8 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
 {
     "name": "Pangolin",
     "description": "Pangolin is a decentralized exchange (DEX) on the Avalanche network.",
-    "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
+    "featuredImgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
+    "bannerImgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
     "missions": [
         {
             "name": "PANGOLIN_SWAP",
