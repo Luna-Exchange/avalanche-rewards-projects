@@ -203,6 +203,7 @@
           "description": "Provide at least $5,000 to Trader Joe Pool",
           "category": "DeFi",
           "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
@@ -224,6 +225,7 @@
           "description": "Provide at least $10,000 to Trader Joe Pool",
           "category": "DeFi",
           "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
@@ -245,6 +247,7 @@
           "description": "Mint at least 50sAVAX form our platform",
           "category": "DeFi",
           "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
