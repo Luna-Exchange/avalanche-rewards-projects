@@ -5,10 +5,13 @@
   "missions": [
     {
       "name": "The Benqi missions",
+      "id": "benqi-missions",
       "description": "Benqi is a DeFi and Web3 protocol that offers lending, borrowing and liquid staking services",
       "imgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/a32319dd92481b92cfaa7cdfe350f5ce8fb5d2f3/sAVAX/token/blue.svg",
       "projectUrl": "https://benqi.fi",
-      "tags": ["DeFi"],
+      "tags": [
+        "DeFi"
+      ],
       "total_points_reward": 280,
       "quests": [
         {
@@ -94,7 +97,20 @@
               "method_id": "0xa0712d68"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "The Benqi daily missions",
+      "id": "benqi-daily-missions",
+      "description": "Benqi is a DeFi and Web3 protocol that offers lending, borrowing and liquid staking services",
+      "imgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/a32319dd92481b92cfaa7cdfe350f5ce8fb5d2f3/sAVAX/token/blue.svg",
+      "projectUrl": "https://benqi.fi",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 280,
+      "quests": [
         {
           "name": "AVAX Boost Deposit >= $1,000",
           "description": "Deposit equal or more than $1,000 in AVAX or sAVAX",
@@ -113,7 +129,9 @@
               "description": "Deposit equal or more than $1000 in AVAX or sAVAX",
               "type": "MINT",
               "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
-              "metadata": {"threshold":1000},
+              "metadata": {
+                "threshold": 1000
+              },
               "method_id": "0xa0712d68"
             }
           ]
@@ -136,7 +154,9 @@
               "description": "Deposit equal or more than $1000 in AVAX or sAVAX",
               "type": "MINT",
               "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
-              "metadata": {"threshold":3000},
+              "metadata": {
+                "threshold": 3000
+              },
               "method_id": "0xa0712d68"
             }
           ]
@@ -159,7 +179,9 @@
               "description": "Deposit equal or more than $1000 in AVAX or sAVAX",
               "type": "MINT",
               "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
-              "metadata": {"threshold":5000},
+              "metadata": {
+                "threshold": 5000
+              },
               "method_id": "0xa0712d68"
             }
           ]
@@ -182,7 +204,9 @@
               "description": "Deposit equal or more than $1000 in AVAX or sAVAX",
               "type": "MINT",
               "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
-              "metadata": {"threshold":1000},
+              "metadata": {
+                "threshold": 1000
+              },
               "method_id": "0x5bcb2fc6"
             }
           ]
@@ -205,7 +229,9 @@
               "description": "Deposit equal or more than $1000 in AVAX or sAVAX",
               "type": "MINT",
               "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
-              "metadata": {"threshold":3000},
+              "metadata": {
+                "threshold": 3000
+              },
               "method_id": "0x5bcb2fc6"
             }
           ]
@@ -228,7 +254,9 @@
               "description": "Deposit equal or more than $5,000 in AVAX or sAVAX",
               "type": "MINT",
               "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
-              "metadata": {"threshold":5000},
+              "metadata": {
+                "threshold": 5000
+              },
               "method_id": "0x5bcb2fc6"
             }
           ]
