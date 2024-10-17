@@ -93,7 +93,7 @@
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 200,
+      "total_points_reward": 325,
       "quests": [
         {
           "name": "Swap at least $1,000 on Pharaoh",
@@ -214,7 +214,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 50
+              "value": 75
             }
           ],
           "tasks": [
