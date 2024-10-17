@@ -7,6 +7,7 @@
     {
       "name": "Arrow Markets",
       "id": "arrow_markets_missions",
+      "frequency": "daily",
       "description": "Complete liquidity provision and purchasing option on Arrow Markets",
       "imgUrl": "",
       "tags": [
@@ -65,6 +66,7 @@
     {
       "name": "Arrow Markets",
       "id": "arrow_markets_daily_missions",
+      "frequency": "daily",
       "description": "Complete liquidity provision and purchasing option on Arrow Markets",
       "imgUrl": "",
       "tags": [
