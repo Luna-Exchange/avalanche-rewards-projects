@@ -40,6 +40,7 @@
     {
       "name": "The Baki missions",
       "id": "the_baki_daily_missions",
+      "frequency": "daily",
       "description": "Mint zUSD at 150% overcolleterilzation ratio",
       "imgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fmintzusd.png?alt=media&token=09326437-cb15-4350-acc3-feb44128f52e",
       "projectUrl": "https://baki.exchange/",
@@ -52,6 +53,7 @@
           "name": "ZToken: Mint at least $1,000 worth",
           "description": "Mint at least $1,000 worth of ZToken in one transaction",
           "category": "DeFi",
+          "frequency": "daily",
           "contract_address": "0x1209c35BDA1bC7b9edaF4C2f60Aa034B0530240b",
           "rewards": [
             {
@@ -73,6 +75,7 @@
           "name": "ZToken: Mint at least $5,000 worth",
           "description": "Mint at least $5,000 worth of ZToken in one transaction",
           "category": "DeFi",
+          "frequency": "daily",
           "contract_address": "0x1209c35BDA1bC7b9edaF4C2f60Aa034B0530240b",
           "rewards": [
             {
