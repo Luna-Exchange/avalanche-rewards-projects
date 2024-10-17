@@ -66,6 +66,7 @@
       "name": "AAVE SUPPLY ON AVALANCHE",
       "description": "Supply assets on Aave's protocol on the Avalanche network and earn rewards.",
       "id": "aave_daily_missions",
+      "frequency": "daily",
       "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "tags": [
         "DeFi"
@@ -76,6 +77,7 @@
           "name": "Lend or Borrow Asset",
           "description": "Lend of Borrow at least $2,500 in one transaction",
           "category": "DeFi",
+          "frequency": "daily",
           "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
           "rewards": [
             {
@@ -97,6 +99,7 @@
           "name": "Lend or Borrow Asset",
           "description": "Lend of Borrow at least $5,000 in one transaction",
           "category": "DeFi",
+          "frequency": "daily",
           "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
           "rewards": [
             {
@@ -118,6 +121,7 @@
           "name": "Lend or Borrow Asset",
           "description": "Lend of Borrow at least $10,000 in one transaction",
           "category": "DeFi",
+          "frequency": "daily",
           "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
           "rewards": [
             {
