@@ -7,7 +7,8 @@
       "name": "FWX",
       "id": "fwx_missions",
       "description": "Complete a Liquidity Provision and Leverage Trading on FWX",
-      "imgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+      "featuredImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+      "bannerImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
       "tags": [
         "DeFi"
       ],
@@ -67,7 +68,8 @@
       "id": "fwx_daily_missions",
       "frequency": "daily",
       "description": "Complete a Liquidity Provision and Leverage Trading on FWX",
-      "imgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+      "featuredImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+      "bannerImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
       "tags": [
         "DeFi"
       ],
