@@ -4,10 +4,14 @@
   "imgUrl": "https://pbs.twimg.com/profile_images/1772244053326995456/XpthaJcx_400x400.jpg",
   "missions": [
     {
-      "name": "FWX_",
+      "name": "FWX",
+      "id": "fwx_missions",
       "description": "Complete a Liquidity Provision and Leverage Trading on FWX",
-      "imgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
-      "tags": ["DeFi"],
+      "featuredImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+      "bannerImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+      "tags": [
+        "DeFi"
+      ],
       "quests": [
         {
           "name": "Liquidity Provision",
@@ -51,9 +55,102 @@
             }
           ]
         }
-
       ],
       "total_points_reward": 120,
+      "badge": {
+        "name": "FWX Enjoyer",
+        "description": "Awarded for completing liquidity provision and leverage trading on FWX",
+        "imgUrl": "https://img2.pic.in.th/pic/mission2.jpg"
+      }
+    },
+    {
+      "name": "FWX",
+      "id": "fwx_daily_missions",
+      "frequency": "daily",
+      "description": "Complete a Liquidity Provision and Leverage Trading on FWX",
+      "featuredImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+      "bannerImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+      "tags": [
+        "DeFi"
+      ],
+      "quests": [
+        {
+          "name": "Liquidity Provision",
+          "description": "Provide at least $2,500 in Liquidity AVAX on FWX in one transaction",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x7F91272ff1A0114743D2df95F5905F9613Fd92b3",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 30
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Liquidity Provision",
+              "description": "Provide at least $2,500 in Liquidity AVAX on FWX in one transaction",
+              "type": "LEND",
+              "contract_address": "0x7F91272ff1A0114743D2df95F5905F9613Fd92b3",
+              "method_id": "0xe2bbb158",
+              "metadata": {
+                "threshold": 2500
+              }
+            }
+          ]
+        },
+        {
+          "name": "Liquidity Provision",
+          "description": "Provide at least $5,000 in Liquidity AVAX on FWX in one transaction",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x94732A5319e1feAcc7d08e08Fdc4C2c7f5123143",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 60
+            }
+          ],
+          "tasks": [
+            {
+              "type": "LEND",
+              "name": "Liquidity Provision",
+              "description": "Provide at least $5,000 in Liquidity AVAX on FWX in one transaction",
+              "contract_address": "0x7F91272ff1A0114743D2df95F5905F9613Fd92b3",
+              "method_id": "0xe2bbb158",
+              "metadata": {
+                "threshold": 5000
+              }
+            }
+          ]
+        },
+        {
+          "name": "Liquidity Provision",
+          "description": "Provide at least $10,000 in Liquidity AVAX on FWX in one transaction",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x7F91272ff1A0114743D2df95F5905F9613Fd92b3",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 135
+            }
+          ],
+          "tasks": [
+            {
+              "type": "LEND",
+              "name": "Liquidity Provision",
+              "description": "Provide at least $10,000 in Liquidity AVAX on FWX in one transaction",
+              "contract_address": "0x7F91272ff1A0114743D2df95F5905F9613Fd92b3",
+              "method_id": "0xe2bbb158",
+              "metadata": {
+                "threshold": 10000
+              }
+            }
+          ]
+        }
+      ],
+      "total_points_reward": 225,
       "badge": {
         "name": "FWX Enjoyer",
         "description": "Awarded for completing liquidity provision and leverage trading on FWX",
