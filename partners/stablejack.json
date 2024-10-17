@@ -1,7 +1,8 @@
 {
   "name": "Stable Jack",
   "description": "Stable Jack is a yield, volatility, and points trading protocol for any asset",
-  "imgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
+  "featuredImgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
+  "bannerImgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
   "missions": [
     {
       "name": "STABLE JACK MISSIONS",
@@ -170,6 +171,7 @@
     {
       "name": "STABLE JACK MISSIONS",
       "id": "stable_jack_daily_missions",
+      "frequency": "daily",
       "description": "Stablejack is a yield, volatility, and points trading marketplace for any asset.",
       "imgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
       "projectUrl": "app.stablejack.xyz",
@@ -182,6 +184,7 @@
           "name": "LP Provider: Provide at least $2,000 to Trader Joe Pool",
           "description": "Provide at least $2,000 to Trader Joe Pool",
           "category": "DeFi",
+          "frequency": "daily",
           "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
           "rewards": [
             {
