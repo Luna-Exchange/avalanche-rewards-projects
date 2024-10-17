@@ -1,14 +1,14 @@
 {
   "name": "Stable Jack",
   "description": "Stable Jack is a yield, volatility, and points trading protocol for any asset",
-  "featuredImgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
-  "bannerImgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
+  "imgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
   "missions": [
     {
       "name": "STABLE JACK MISSIONS",
       "id": "stable_jack_missions",
       "description": "Stablejack is a yield, volatility, and points trading marketplace for any asset.",
-      "imgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
       "projectUrl": "app.stablejack.xyz",
       "tags": [
         "DeFi"
@@ -173,7 +173,8 @@
       "id": "stable_jack_daily_missions",
       "frequency": "daily",
       "description": "Stablejack is a yield, volatility, and points trading marketplace for any asset.",
-      "imgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
       "projectUrl": "app.stablejack.xyz",
       "tags": [
         "DeFi"
