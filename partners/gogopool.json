@@ -44,6 +44,7 @@
     {
       "name": "Minting ggAVAX",
       "description": "Mint ggAVAX using AVAX.",
+      "frequency": "daily",
       "id": "gogopool_daily_missions",
       "imgUrl": "https://pbs.twimg.com/profile_images/1564959265491750912/wtIMjVly_400x400.png",
       "projectUrl": "https://app.gogopool.com/liquid-staking/",
@@ -56,6 +57,7 @@
           "name": "ggAVAX minter",
           "description": "Mint ggAVAX at least $1,000 worth of ggAVAX with AVAX",
           "category": "DeFi",
+          "frequency": "daily",
           "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
           "rewards": [
             {
@@ -77,6 +79,7 @@
           "name": "ggAVAX minter",
           "description": "Mint ggAVAX at least $2,500 worth of ggAVAX with AVAX",
           "category": "DeFi",
+          "frequency": "daily",
           "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
           "rewards": [
             {
@@ -98,6 +101,7 @@
           "name": "ggAVAX minter",
           "description": "Mint ggAVAX at least $5,000 worth of ggAVAX with AVAX",
           "category": "DeFi",
+          "frequency": "daily",
           "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
           "rewards": [
             {
