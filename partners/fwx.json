@@ -129,7 +129,7 @@
           "description": "Provide at least $10,000 in Liquidity AVAX on FWX in one transaction",
           "category": "DeFi",
           "frequency": "daily",
-          "contract_address": "0x7F91272ff1A0114743D2df95F5905F9613Fd92b3", ,
+          "contract_address": "0x7F91272ff1A0114743D2df95F5905F9613Fd92b3",
           "rewards": [
             {
               "type": "points",
