@@ -1,44 +1,44 @@
 {
-    "name": "GoGoPool",
-    "description": "Liquid Staking | Easy Validation | L1 Infrastructure",
-    "imgUrl": "https://pbs.twimg.com/profile_images/1564959265491750912/wtIMjVly_400x400.png",
-    "missions": [
+  "name": "GoGoPool",
+  "description": "Liquid Staking | Easy Validation | L1 Infrastructure",
+  "imgUrl": "https://pbs.twimg.com/profile_images/1564959265491750912/wtIMjVly_400x400.png",
+  "missions": [
+    {
+      "name": "Minting ggAVAX",
+      "description": "Mint ggAVAX using AVAX.",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1564959265491750912/wtIMjVly_400x400.png",
+      "projectUrl": "https://app.gogopool.com/liquid-staking/",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 50,
+      "quests": [
         {
-            "name": "Minting ggAVAX",
-            "description": "Mint ggAVAX using AVAX.",
-            "imgUrl": "https://pbs.twimg.com/profile_images/1564959265491750912/wtIMjVly_400x400.png",
-            "projectUrl": "https://app.gogopool.com/liquid-staking/",
-            "tags": [
-                "DeFi"
-            ],
-            "total_points_reward": 50,
-            "quests": [
-                {
-                    "name": "ggAVAX minter",
-                    "description": "Mint ggAVAX and enjoy the native yield with no lock-up and access to DeFi integrations!",
-                    "category": "DeFi",
-                    "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
-                    "rewards": [
-                        {
-                            "type": "points",
-                            "value": 50
-                        }
-                    ],
-                    "tasks": [
-                        {
-                            "name": "Mint ggAVAX with AVAX",
-                            "type": "MINT",
-                            "description": "Mint ggAVAX with AVAX from our platform",
-                            "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
-                            "method_id": "0xa0d065c3"
-                        }
-                    ]
-                }
-            ],
-            "badge": {
-                "name": "ggAVAX enjoyer",
-                "description": "Awarded for minting ggAVAX"
+          "name": "ggAVAX minter",
+          "description": "Mint ggAVAX and enjoy the native yield with no lock-up and access to DeFi integrations!",
+          "category": "DeFi",
+          "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
             }
+          ],
+          "tasks": [
+            {
+              "name": "Mint ggAVAX with AVAX",
+              "type": "MINT",
+              "description": "Mint ggAVAX with AVAX from our platform",
+              "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
+              "method_id": "0xa0d065c3"
+            }
+          ]
         }
-    ]
+      ],
+      "badge": {
+        "name": "ggAVAX enjoyer",
+        "description": "Awarded for minting ggAVAX"
+      }
+    }
+  ]
 }
