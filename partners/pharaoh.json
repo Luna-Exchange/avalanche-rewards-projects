@@ -88,6 +88,7 @@
     {
       "name": "PHARAOH_EXCHANGE",
       "id": "pharaoh_exchange_daily_missions",
+      "frequency": "daily",
       "description": "Pharaoh pairs incentives with concentrated liquidity for next-level capital efficiency",
       "featuredImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
       "bannerImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
@@ -115,7 +116,10 @@
               "description": "Swap at least $1,000 on Pharaoh Exchange",
               "type": "SWAP",
               "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
-              "method_id": "0x24856bc3"
+              "method_id": "0x24856bc3",
+              "metadata": {
+                "threshold": 1000
+              }
             }
           ]
         },
@@ -136,7 +140,10 @@
               "description": "Swap at least $3,000 on Pharaoh Exchange",
               "type": "SWAP",
               "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
-              "method_id": "0x24856bc3"
+              "method_id": "0x24856bc3",
+              "metadata": {
+                "threshold": 3000
+              }
             }
           ]
         },
@@ -157,7 +164,10 @@
               "description": "Swap at least $7,500 on Pharaoh Exchange",
               "type": "SWAP",
               "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
-              "method_id": "0x24856bc3"
+              "method_id": "0x24856bc3",
+              "metadata": {
+                "threshold": 7500
+              }
             }
           ]
         },
@@ -178,7 +188,10 @@
               "description": "Deposit at least $2,500 into Pharaoh Exchange",
               "type": "DEPOSIT",
               "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
-              "method_id": "0xac9650d8"
+              "method_id": "0xac9650d8",
+              "metadata": {
+                "threshold": 2500
+              }
             }
           ]
         },
@@ -199,7 +212,10 @@
               "description": "Deposit at least $5,000 into Pharaoh Exchange",
               "type": "DEPOSIT",
               "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
-              "method_id": "0xac9650d8"
+              "method_id": "0xac9650d8",
+              "metadata": {
+                "threshold": 5000
+              }
             }
           ]
         },
@@ -220,7 +236,10 @@
               "description": "Deposit at least $10,000 into Pharaoh Exchange",
               "type": "DEPOSIT",
               "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
-              "method_id": "0xac9650d8"
+              "method_id": "0xac9650d8",
+              "metadata": {
+                "threshold": 10000
+              }
             }
           ]
         }
