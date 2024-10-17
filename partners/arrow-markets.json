@@ -1,7 +1,8 @@
 {
   "name": "Arrow Markets",
   "description": "Arrow Markets democratizes options trading through a hybrid RFQ system with on-chain exchange and settlement.",
-  "imgUrl": "https://x.com/ArrowMarkets/photo",
+  "featuredImgUrl": "https://x.com/ArrowMarkets/photo",
+  "bannerImgUrl": "https://x.com/ArrowMarkets/photo",
   "missions": [
     {
       "name": "Arrow Markets",
@@ -74,6 +75,7 @@
           "name": "Liquidity Provision",
           "description": "Provide Liquidity at least $2,000 on Trader Joe for the arrow market pool in one transaction",
           "category": "DeFi",
+          "frequency": "daily",
           "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
           "rewards": [
             {
@@ -95,6 +97,7 @@
           "name": "Liquidity Provision",
           "description": "Provide Liquidity at least $5,000 on Trader Joe for the arrow market pool in one transaction",
           "category": "DeFi",
+          "frequency": "daily",
           "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
           "rewards": [
             {
@@ -117,6 +120,7 @@
           "description": "Provide Liquidity at least $10,000 on Trader Joe for the arrow market pool in one transaction",
           "category": "DeFi",
           "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
