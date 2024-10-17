@@ -5,10 +5,14 @@
   "missions": [
     {
       "name": "PHARAOH_EXCHANGE",
+      "id": "pharaoh_exchange_missions",
       "description": "Pharaoh pairs incentives with concentrated liquidity for next-level capital efficiency",
-      "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "featuredImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "bannerImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
       "projectUrl": "pharaoh.exchange",
-      "tags": ["DeFi"],
+      "tags": [
+        "DeFi"
+      ],
       "total_points_reward": 150,
       "quests": [
         {
@@ -69,6 +73,152 @@
               "name": "Make a deposit",
               "type": "DEPOSIT",
               "description": "Deposit into Pharaoh Exchange's concentrated liquidity pools",
+              "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+              "method_id": "0xac9650d8"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Pharaoh Phriend",
+        "description": "Awarded for depositing, voting, or LPing on Pharaoh Exchange",
+        "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png"
+      }
+    },
+    {
+      "name": "PHARAOH_EXCHANGE",
+      "id": "pharaoh_exchange_daily_missions",
+      "description": "Pharaoh pairs incentives with concentrated liquidity for next-level capital efficiency",
+      "featuredImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "bannerImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "projectUrl": "pharaoh.exchange",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 350,
+      "quests": [
+        {
+          "name": "Pharaoh Swap",
+          "description": "Swap at least $1,000 on Pharaoh Exchange",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Pharaoh Swap",
+              "description": "Swap at least $1,000 on Pharaoh Exchange",
+              "type": "SWAP",
+              "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+              "method_id": "0x24856bc3"
+            }
+          ]
+        },
+        {
+          "name": "Pharaoh Swap",
+          "description": "Swap at least $3,000 on Pharaoh Exchange",
+          "category": "DeFi",
+          "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Pharaoh Swap",
+              "description": "Swap at least $3,000 on Pharaoh Exchange",
+              "type": "SWAP",
+              "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+              "method_id": "0x24856bc3"
+            }
+          ]
+        },
+        {
+          "name": "Pharaoh Swap",
+          "description": "Swap at least $7,500 on Pharaoh Exchange",
+          "category": "DeFi",
+          "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Pharaoh Swap",
+              "description": "Swap at least $7,500 on Pharaoh Exchange",
+              "type": "SWAP",
+              "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+              "method_id": "0x24856bc3"
+            }
+          ]
+        },
+        {
+          "name": "Deposit Pharaoh",
+          "description": "Deposit at least $2,500 into Pharaoh Exchange",
+          "category": "DeFi",
+          "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit Pharaoh",
+              "description": "Deposit at least $2,500 into Pharaoh Exchange",
+              "type": "DEPOSIT",
+              "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+              "method_id": "0xac9650d8"
+            }
+          ]
+        },
+        {
+          "name": "Deposit Pharaoh",
+          "description": "Deposit at least $5,000 into Pharaoh Exchange",
+          "category": "DeFi",
+          "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit Pharaoh",
+              "description": "Deposit at least $5,000 into Pharaoh Exchange",
+              "type": "DEPOSIT",
+              "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+              "method_id": "0xac9650d8"
+            }
+          ]
+        },
+        {
+          "name": "Deposit Pharaoh",
+          "description": "Deposit at least $10,000 into Pharaoh Exchange",
+          "category": "DeFi",
+          "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit Pharaoh",
+              "description": "Deposit at least $10,000 into Pharaoh Exchange",
+              "type": "DEPOSIT",
               "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
               "method_id": "0xac9650d8"
             }
