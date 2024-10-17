@@ -93,7 +93,7 @@
               "description": "Lend of Borrow at least $2,500 in one transaction",
               "type": "BORROW",
               "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
-              "method_id": "0x617ba037",
+              "method_id": "0xa415bcad",
               "metadata": {
                 "threshold": 2500
               }
