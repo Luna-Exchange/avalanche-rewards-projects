@@ -1,14 +1,17 @@
 {
   "name": "Stable Jack",
   "description": "Stable Jack is a yield, volatility, and points trading protocol for any asset",
-  "imgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
+  "featuredImgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
+  "bannerImgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
   "missions": [
     {
       "name": "STABLE JACK MISSIONS",
-      "description":"Stablejack is a yield, volatility, and points trading marketplace for any asset.",
+      "description": "Stablejack is a yield, volatility, and points trading marketplace for any asset.",
       "imgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
       "projectUrl": "app.stablejack.xyz",
-      "tags": ["DeFi"],
+      "tags": [
+        "DeFi"
+      ],
       "total_points_reward": 300,
       "quests": [
         {
@@ -163,7 +166,6 @@
         "name": "Stable jack ",
         "description": "This certifies that I completed Stable Jack's Mission"
       }
-
+    }
+  ]
 }
-    ]
-  }
