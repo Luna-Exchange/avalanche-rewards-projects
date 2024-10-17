@@ -1,15 +1,15 @@
 {
   "name": "LFJ Exchange",
   "description": "LFJ is the leading decentralized exchange on Avalanche, offering low-cost, instant swaps for all tokens across the ecosystem.",
-  "featuredImgUrl": "https://pbs.twimg.com/profile_images/1815754501455855616/6T0PlyLm_400x400.png",
-  "bannerImgUrl": "https://pbs.twimg.com/profile_images/1815754501455855616/6T0PlyLm_400x400.png",
+  "imgUrl": "https://pbs.twimg.com/profile_images/1815754501455855616/6T0PlyLm_400x400.png",
   "projectUrl": "https://lfj.gg/avalanche",
   "missions": [
     {
       "name": "LFJ_JOE_BRO",
       "description": "Experience the best of LFJ",
       "id": "lfj_mission",
-      "imgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
       "tags": [
         "DeFi"
       ],
@@ -79,7 +79,8 @@
       "description": "Experience the best of LFJ",
       "id": "lfj_daily_mission",
       "frequency": "daily",
-      "imgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
       "tags": [
         "DeFi"
       ],
