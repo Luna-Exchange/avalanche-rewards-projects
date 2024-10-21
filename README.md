@@ -55,6 +55,7 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
     "name": "Quest Title",
     "description": "Description of the quest",
     "category": "NFT, DeFi, or Gaming",
+    "frequency":"(optional) daily or one time",
     "contract_address": "The contract address of the token the quest is on",
     "rewards": [
       {
