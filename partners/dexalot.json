@@ -39,6 +39,7 @@
           "name": "Deposit, Trade and Withdraw using Dexalot L1 and C-chain",
           "description": "Deposit assets from C-chain into Dexalot L1, post and execute a limit or market order on Dexalot L1, and withdraw your counter asset from Dexalot L1 back to C-chain",
           "category": "DeFi",
+          "contract_address": "0x1FD108cf42A59c635bD4703b8DbC8a741ff834Be",
           "rewards": [
             {
               "type": "points",
