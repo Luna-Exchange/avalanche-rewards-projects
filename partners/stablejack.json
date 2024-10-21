@@ -199,6 +199,7 @@
               "description": "Provide at least $2,000 to Trader Joe Pool",
               "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
               "method_id": "0xa3c7271a",
+              "type": "DEPOSIT",
               "metadata": {
                 "threshold": 2000
               }
