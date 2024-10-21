@@ -24,9 +24,8 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
 ```json
 {
   "name": "Your Brand Name",
-  "description": "A concise description of your project",
-  "featuredImgUrl": "A link to your featured image/logo or representative image. This should have a 16:9 aspect ratio",
-  "bannerImgUrl": "A link to your cover image/banner. This should have a 5:1 aspect ratio"
+  "description": "A concise description of your project", 
+  "imgUrl": "A link to your representative image."
 }
 ```
 
@@ -35,8 +34,11 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
 "missions": [
   {
     "name": "YOUR_MISSION_NAME",
+    "id": "A unique identifier for the mission",
     "description": "Description of the mission",
-    "imgUrl": "An image representing this mission",
+    "frequency": "This is the frequency of the mission. A mission can either be performed daily or just once. This defaults to one time, but can be set to daily or one time",
+    "featuredImgUrl": "A link to your featured image/logo or representative image. This should have a 16:9 aspect ratio",
+    "bannerImgUrl": "A link to your cover image/banner. This should have a 5:1 aspect ratio"
     "projectUrl": "Link to more information about this project",
     "tags": ["NFT", "DeFi", "Gaming"],
     "total_points_reward": 100,
@@ -74,11 +76,19 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
     "description": "Description of the task",
     "contract_address": "The contract address of the token the task is on",
     "chain_id": "The unique identifier of the avalanche subnet where the smart contract is deployed, this defaults to 43114 (Avalanche C-Chain)",
+    "metadata": { ... }
     "method_id": "The hashed event signature of the function that carries the action for the task",
     // OR
-    "method_ids": ["0xhashed_event_signature1", "0xhashed_event_signature2"]
+    "method_ids": ["0xhashed_event_signature1", "0xhashed_event_signature2"],
   }
 ]
+```
+
+### Metadata
+```json
+"metadata": {
+    "threshold": "This is the threshold amount for the missions. This is applicable especially for daily missions, where the quests are usually weighted"
+}
 ```
 
 ### Badges
@@ -93,17 +103,19 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
 ## Examples
 
 ### NFT Mission: Dokyo
+
 ```json
 {
     "name": "Dokyo",
     "description": "Dokyo is an NFT collection on the Avalanche network, with approximately $30 million in trading volume in January 2024.",
-    "featuredImgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
-    "bannerImgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
+    "imgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
     "missions": [
         {
             "name": "DOKYO_COLLECTOR",
+            "id": "dokyo_missions",
             "description": "Complete this NFT collection mission",
-            "imgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
+            "featuredImgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
+            "bannerImgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
             "tags": [
                 "NFT"
             ],
@@ -112,6 +124,48 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
                     "name": "Dokyo Genesis",
                     "description": "Acquire your first Dokyo NFT",
                     "category": "NFT",
+                    "contract_address": "0x54c800d2331e10467143911aabca092d68bf4166",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 60
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Mint Dokyo",
+                            "type": "MINT",
+                            "description": "Mint your first Dokyo NFT",
+                            "contract_address": "0x54c800d2331e10467143911aabca092d68bf4166",
+                            "method_id": "0xd37c353b",
+                            "chain_id": "43114"
+                        }
+                    ]
+                }
+            ],
+            "total_points_reward": 60,
+            "badge": {
+                "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA7r8VBZTrhn1OZPjJh-8Ac9mV06FA6uupYJVZAnGc7g&s",
+                "name": "Dokyo Collector",
+                "description": "Awarded for completing the Dokyo collection mission"
+            }
+        },
+        {
+            "name": "DOKYO_COLLECTOR",
+            "id": "dokyo_daily_missions",
+            "frequency": "daily",
+            "description": "Complete this NFT collection mission",
+            "featuredImgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
+            "bannerImgUrl": "https://i.seadn.io/s/raw/files/e244879af1a5732c8260f41b414ce8b9.png?auto=format&dpr=1&w=1000",
+            "tags": [
+                "NFT"
+            ],
+            "quests": [
+                {
+                    "name": "Dokyo Genesis",
+                    "description": "Acquire your first Dokyo NFT",
+                    "category": "NFT",
+                    "frequency": "daily",
                     "contract_address": "0x54c800d2331e10467143911aabca092d68bf4166",
                     "rewards": [
                         {
@@ -147,13 +201,13 @@ Your mission JSON is the core of your Avalanche project. Here's a breakdown of i
 {
     "name": "Pangolin",
     "description": "Pangolin is a decentralized exchange (DEX) on the Avalanche network.",
-    "featuredImgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
-    "bannerImgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
+    "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
     "missions": [
         {
             "name": "PANGOLIN_SWAP",
             "description": "Complete a swap on Pangolin DEX",
-            "imgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
+            "featuredImgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
+            "bannerImgUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
             "tags": [
                 "DeFi"
             ],
