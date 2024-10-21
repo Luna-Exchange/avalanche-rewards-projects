@@ -1,24 +1,25 @@
 {
-  "name": "Pharaoh Exchange",
-  "description": "Pharaoh pairs incentives with concentrated liquidity for next-level capital efficiency",
-  "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+  "name": "Stable Jack",
+  "description": "Stable Jack is a yield, volatility, and points trading protocol for any asset",
+  "imgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
   "missions": [
     {
-      "name": "PHARAOH EXCHANGE",
-      "id": "pharaoh_exchange",
-      "description": "Pharaoh pairs incentives with concentrated liquidity for next-level capital efficiency",
-      "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
-      "projectUrl": "pharaoh.exchange",
+      "name": "STABLE JACK MISSIONS",
+      "id": "stable_jack_missions",
+      "description": "Stablejack is a yield, volatility, and points trading marketplace for any asset.",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "projectUrl": "app.stablejack.xyz",
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 150,
+      "total_points_reward": 300,
       "quests": [
         {
-          "name": "Pharaoh Locker",
-          "description": "Create a lock on Pharaoh Exchange and earn voting rewards",
+          "name": "aUSD enjoyor",
+          "description": "Mint aUSD, deposit to rebalance pool and enjoy native yield!",
           "category": "DeFi",
-          "contract_address": "0xAAA3249511DE3E7A5c61FbA8313170c1Bef9A65e",
+          "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
           "rewards": [
             {
               "type": "points",
@@ -27,19 +28,26 @@
           ],
           "tasks": [
             {
-              "name": "Create a Lock",
-              "type": "LOCK",
-              "description": "Lock any amount of PHAR on Pharaoh Exchange",
-              "contract_address": "0xAAA3249511DE3E7A5c61FbA8313170c1Bef9A65e",
-              "method_id": "0xb52c05fe"
+              "name": "Mint aUSD with sAVAX",
+              "type": "MINT",
+              "description": "Mint aUSD with sAVAX from our platform",
+              "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
+              "method_id": "0x382ac5c3"
+            },
+            {
+              "name": "Mint aUSD with USDT/USDC/AVAX",
+              "type": "MINT",
+              "description": "Mint aUSD with sAVAX from our platform",
+              "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
+              "method_id": "0x2b08548b"
             }
           ]
         },
         {
-          "name": "Pharaoh Swap",
-          "description": "Make at least one swap with Pharaoh Exchange Native's Router on Avalanche",
+          "name": "xAVAX enjoyor",
+          "description": "Mint xAVAX and enjoy leverage with no liquidation risk",
           "category": "DeFi",
-          "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+          "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
           "rewards": [
             {
               "type": "points",
@@ -48,19 +56,26 @@
           ],
           "tasks": [
             {
-              "name": "Make a Swap",
-              "type": "SWAP",
-              "description": "Complete a token swap on Pharaoh Exchange",
-              "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
-              "method_id": "0x24856bc3"
+              "name": "Mint xAVAX with sAVAX",
+              "type": "MINT",
+              "description": "Mint xAVAX with sAVAX from our platform",
+              "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
+              "method_id": "0xccb6379d"
+            },
+            {
+              "name": "Mint xAVAX with USDT/USDC/AVAX",
+              "type": "MINT",
+              "description": "Mint xAVAX with sAVAX from our platform",
+              "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
+              "method_id": "0xf48b8acb"
             }
           ]
         },
         {
-          "name": "Pharaoh LPer",
-          "description": "Deposit into Pharaoh Exchange's concentrated liquidity pools",
+          "name": "true jack enjoyor",
+          "description": "Mint both xAVAX and aUSD!",
           "category": "DeFi",
-          "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+          "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
           "rewards": [
             {
               "type": "points",
@@ -69,82 +84,159 @@
           ],
           "tasks": [
             {
-              "name": "Make a deposit",
+              "name": "Mint both with sAVAX",
+              "type": "MINT",
+              "description": "Mint both with sAVAX from our platform",
+              "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
+              "method_id": "0x6a3790ed"
+            },
+            {
+              "name": "Mint both with USDT/USDC/AVAX",
+              "type": "MINT",
+              "description": "Mint both with USDT/USDC/AVAX from our platform",
+              "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
+              "method_id": "0x12953137"
+            }
+          ]
+        },
+        {
+          "name": "Yield enjoyor",
+          "description": "Deposit aUSD into Rebalance Pool and get a 20% APR",
+          "category": "DeFi",
+          "contract_address": "0x0363a3deBe776de575C36F524b7877dB7dd461Db",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit aUSD into Rebalance Pool",
+              "type": "STAKE",
+              "description": "Deposit aUSD into Rebalance Pool",
+              "contract_address": "0x0363a3deBe776de575C36F524b7877dB7dd461Db",
+              "method_id": "0x6e553f65"
+            }
+          ]
+        },
+        {
+          "name": "LP Provider",
+          "description": "Deposit aUSD/USDC to Pharaoh Pool",
+          "category": "DeFi",
+          "contract_address": "0x1a66208180c20cc893ac5092d0cce95994cb1ae0",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit aUSD/USDC to Pharaoh Pool",
               "type": "DEPOSIT",
-              "description": "Deposit into Pharaoh Exchange's concentrated liquidity pools",
-              "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
-              "method_id": "0xac9650d8"
+              "description": "Deposit aUSD into Rebalance Pool",
+              "contract_address": "0x1a66208180c20cc893ac5092d0cce95994cb1ae0",
+              "method_id": "0xe6c620f0"
+            }
+          ]
+        },
+        {
+          "name": "LP Provider",
+          "description": "Deposit aUSD/USDC to Trader Joe Pool",
+          "category": "DeFi",
+          "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit aUSD/USDC to Trader Joe Pool",
+              "type": "DEPOSIT",
+              "description": "Deposit aUSD/USDC to Trader Joe Pool",
+              "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+              "method_id": "0xa3c7271a"
             }
           ]
         }
       ],
       "badge": {
-        "name": "Pharaoh Phriend",
-        "description": "Awarded for depositing, voting, or LPing on Pharaoh Exchange",
-        "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png"
+        "name": "Stable jack ",
+        "description": "This certifies that I completed Stable Jack's Mission"
       }
     },
     {
-      "name": "PHARAOH EXCHANGE",
-      "id": "pharaoh_exchange_daily",
-      "description": "Pharaoh pairs incentives with concentrated liquidity for next-level capital efficiency",
-      "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
-      "projectUrl": "pharaoh.exchange",
+      "name": "STABLE JACK MISSIONS",
+      "id": "stable_jack_daily_missions",
+      "frequency": "daily",
+      "description": "Stablejack is a yield, volatility, and points trading marketplace for any asset.",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "projectUrl": "app.stablejack.xyz",
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 325,
+      "total_points_reward": 175,
       "quests": [
         {
-          "name": "Swap at least $1,000 on Pharaoh",
-          "description": "Make one swap of at least $1,000 on Pharaoh Exchange",
+          "name": "LP Provider: Provide at least $2,000 to Trader Joe Pool",
+          "description": "Provide at least $2,000 to Trader Joe Pool",
           "category": "DeFi",
           "frequency": "daily",
-          "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4", ,
+          "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
           "rewards": [
             {
               "type": "points",
-              "value": 25
+              "value": 20
             }
           ],
           "tasks": [
             {
-              "name": "Swap at least $1,000 on Pharaoh",
-              "description": "Make one swap of at least $1,000 on Pharaoh Exchange",
-              "type": "SWAP",
-              "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
-              "method_id": "0x24856bc3"
+              "name": "LP Provider: Provide at least $2,000 to Trader Joe Pool",
+              "description": "Provide at least $2,000 to Trader Joe Pool",
+              "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+              "method_id": "0xa3c7271a",
+              "type": "DEPOSIT",
+              "metadata": {
+                "threshold": 2000
+              }
             }
           ]
         },
         {
-          "name": "Swap at least $1,000 on Pharaoh",
-          "description": "Make one swap of at least $1,000 on Pharaoh Exchange",
+          "name": "LP Provider: Provide at least $5,000 to Trader Joe Pool",
+          "description": "Provide at least $5,000 to Trader Joe Pool",
           "category": "DeFi",
+          "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
           "frequency": "daily",
-          "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
           "rewards": [
             {
               "type": "points",
-              "value": 50
+              "value": 30
             }
           ],
           "tasks": [
             {
-              "name": "Swap at least $1,000 on Pharaoh",
-              "description": "Make one swap of at least $1,000 on Pharaoh Exchange",
-              "type": "SWAP",
-              "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
-              "method_id": "0x24856bc3"
+              "name": "LP Provider: Provide at least $5,000 to Trader Joe Pool",
+              "description": "Provide at least $5,000 to Trader Joe Pool",
+              "type": "DEPOSIT",
+              "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+              "method_id": "0xa3c7271a",
+              "metadata": {
+                "threshold": 5000
+              }
             }
           ]
         },
         {
-          "name": "Swap at least $7,500 on Pharaoh",
-          "description": "Make one swap of at least $7,500 on Pharaoh Exchange",
+          "name": "LP Provider: Provide at least $10,000 to Trader Joe Pool",
+          "description": "Provide at least $10,000 to Trader Joe Pool",
           "category": "DeFi",
+          "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
           "frequency": "daily",
-          "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
           "rewards": [
             {
               "type": "points",
@@ -153,20 +245,23 @@
           ],
           "tasks": [
             {
-              "name": "Swap at least $7,500 on Pharaoh Exchange",
-              "description": "Make one swap of at least $7,500 on Pharaoh Exchange",
-              "type": "SWAP",
-              "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
-              "method_id": "0x24856bc3"
+              "name": "LP Provider: Provide at least $10,000 to Trader Joe Pool",
+              "description": "Provide at least $10,000 to Trader Joe Pool",
+              "type": "DEPOSIT",
+              "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+              "method_id": "0xa3c7271a",
+              "metadata": {
+                "threshold": 10000
+              }
             }
           ]
         },
         {
-          "name": "Deposit at least $2,500 on Pharaoh Exchange",
-          "description": "Make a deposit of at least $2,500 on Pharaoh Exchange",
+          "name": "Mint at least 50sAVAX",
+          "description": "Mint at least 50sAVAX form our platform",
           "category": "DeFi",
+          "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
           "frequency": "daily",
-          "contract_address": "0xAAA3249511DE3E7A5c61FbA8313170c1Bef9A65e",
           "rewards": [
             {
               "type": "points",
@@ -175,63 +270,21 @@
           ],
           "tasks": [
             {
-              "name": "Deposit at least $2,500 on Pharaoh Exchange",
-              "description": "Make a deposit of at least $2,500 on Pharaoh Exchange",
-              "type": "DEPOSIT",
-              "contract_address": "0xAAA3249511DE3E7A5c61FbA8313170c1Bef9A65e",
-              "method_id": "0xb52c05fe"
-            }
-          ]
-        },
-        {
-          "name": "Deposit at least $5,000 on Pharaoh Exchange",
-          "description": "Make a deposit of at least $5,000 on Pharaoh Exchange",
-          "category": "DeFi",
-          "frequency": "daily",
-          "contract_address": "0xAAA3249511DE3E7A5c61FbA8313170c1Bef9A65e",
-          "rewards": [
-            {
-              "type": "points",
-              "value": 50
-            }
-          ],
-          "tasks": [
-            {
-              "name": "Deposit at least $5,000 on Pharaoh Exchange",
-              "description": "Make a deposit of at least $5,000 on Pharaoh Exchange",
-              "type": "DEPOSIT",
-              "contract_address": "0xAAA3249511DE3E7A5c61FbA8313170c1Bef9A65e",
-              "method_id": "0xb52c05fe"
-            }
-          ]
-        },
-        {
-          "name": "Deposit at least $10,000 on Pharaoh Exchange",
-          "description": "Make a deposit of at least $10,000 on Pharaoh Exchange",
-          "category": "DeFi",
-          "frequency": "daily",
-          "contract_address": "0xAAA3249511DE3E7A5c61FbA8313170c1Bef9A65e",
-          "rewards": [
-            {
-              "type": "points",
-              "value": 75
-            }
-          ],
-          "tasks": [
-            {
-              "name": "Deposit at least $10,000 on Pharaoh Exchange",
-              "description": "Make a deposit of at least $10,000 on Pharaoh Exchange",
-              "type": "DEPOSIT",
-              "contract_address": "0xAAA3249511DE3E7A5c61FbA8313170c1Bef9A65e",
-              "method_id": "0xb52c05fe"
+              "name": "Mint at least 50sAVAX",
+              "description": "Mint at least 50sAVAX from our platform",
+              "type": "MINT",
+              "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+              "method_id": "0xa3c7271a",
+              "metadata": {
+                "threshold": 50
+              }
             }
           ]
         }
       ],
       "badge": {
-        "name": "Pharaoh Phriend",
-        "description": "Awarded for depositing, voting, or LPing on Pharaoh Exchange",
-        "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png"
+        "name": "Stable jack ",
+        "description": "This certifies that I completed Stable Jack's Mission"
       }
     }
   ]
