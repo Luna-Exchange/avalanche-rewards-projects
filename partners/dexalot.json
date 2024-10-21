@@ -5,8 +5,10 @@
   "missions": [
     {
       "name": "Trading on Dexalot",
+      "id": "dexalot-missions",
+      "featuredImgUrl": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo_256x256.png",
+      "bannerImgUrl": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo_256x256.png",
       "description": "Complete a series of actions involving swapping, deposits, and trades across Dexalot's C-chain and L1 subnet.",
-      "imgUrl": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo_256x256.png",
       "projectUrl": "https://app.dexalot.com/",
       "tags": ["DeFi"],
       "total_points_reward": 100,
