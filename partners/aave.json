@@ -5,9 +5,13 @@
   "missions": [
     {
       "name": "AAVE SUPPLY ON AVALANCHE",
+      "id": "aave_missions",
       "description": "Supply assets on Aave's protocol on the Avalanche network and earn rewards.",
-      "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "tags": ["DeFi"],
+      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "tags": [
+        "DeFi"
+      ],
       "total_points_reward": 100,
       "quests": [
         {
@@ -49,6 +53,100 @@
               "description": "Borrow an asset using Aave's lending protocol.",
               "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
               "method_id": "0xa415bcad"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Aave Supply Champion",
+        "description": "Awarded for depositing assets on Aave via the Avalanche network.",
+        "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/ronnie-pfp-2.svg"
+      }
+    },
+    {
+      "name": "AAVE SUPPLY ON AVALANCHE",
+      "description": "Supply assets on Aave's protocol on the Avalanche network and earn rewards.",
+      "id": "aave_daily_missions",
+      "frequency": "daily",
+      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 250,
+      "quests": [
+        {
+          "name": "Lend or Borrow Asset",
+          "description": "Lend of Borrow at least $2,500 in one transaction",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Lend or Borrow Asset",
+              "description": "Lend of Borrow at least $2,500 in one transaction",
+              "type": "BORROW",
+              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+              "method_id": "0xa415bcad",
+              "metadata": {
+                "threshold": 2500
+              }
+            }
+          ]
+        },
+        {
+          "name": "Lend or Borrow Asset",
+          "description": "Lend of Borrow at least $5,000 in one transaction",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 75
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Lend or Borrow Asset",
+              "description": "Lend of Borrow at least $5,000 in one transaction",
+              "type": "BORROW",
+              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+              "method_id": "0xa415bcad",
+              "metadata": {
+                "threshold": 5000
+              }
+            }
+          ]
+        },
+        {
+          "name": "Lend or Borrow Asset",
+          "description": "Lend of Borrow at least $10,000 in one transaction",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 150
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Lend or Borrow Asset",
+              "description": "Lend of Borrow at least $10,000 in one transaction",
+              "type": "BORROW",
+              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+              "method_id": "0xa415bcad",
+              "metadata": {
+                "threshold": 10000
+              }
             }
           ]
         }
