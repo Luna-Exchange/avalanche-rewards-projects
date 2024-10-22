@@ -7,8 +7,8 @@
       "name": "The Benqi missions",
       "id": "benqi-missions",
       "description": "Benqi is a DeFi and Web3 protocol that offers lending, borrowing and liquid staking services",
-      "featuredImgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/a32319dd92481b92cfaa7cdfe350f5ce8fb5d2f3/sAVAX/token/blue.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/a32319dd92481b92cfaa7cdfe350f5ce8fb5d2f3/sAVAX/token/blue.svg",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
       "projectUrl": "https://benqi.fi",
       "tags": [
         "DeFi"
@@ -106,8 +106,8 @@
       "id": "benqi-daily-missions",
       "frequency": "daily",
       "description": "Benqi is a DeFi and Web3 protocol that offers lending, borrowing and liquid staking services",
-      "featuredImgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/a32319dd92481b92cfaa7cdfe350f5ce8fb5d2f3/sAVAX/token/blue.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/a32319dd92481b92cfaa7cdfe350f5ce8fb5d2f3/sAVAX/token/blue.svg",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
       "projectUrl": "https://benqi.fi",
       "tags": [
         "DeFi"
