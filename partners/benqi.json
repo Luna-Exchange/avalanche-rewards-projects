@@ -4,16 +4,16 @@
   "imgUrl": "https://raw.githubusercontent.com/Benqi-fi/assets/65980c22ed0a33ec7f2e434c86f2f4f174e4b598/logos/black.svg",
   "missions": [
     {
-      "name": "The Benqi missions",
-      "id": "benqi-missions",
-      "description": "Benqi is a DeFi and Web3 protocol that offers lending, borrowing and liquid staking services",
+      "name": "Stake AVAX for sAVAX",
+      "id": "stake_avax_for_savax",
+      "description": "Stake AVAX for sAVAX",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
       "projectUrl": "https://benqi.fi",
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 280,
+      "total_points_reward": 20,
       "quests": [
         {
           "name": "Stake AVAX for sAVAX",
@@ -23,7 +23,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 10
+              "value": 20
             }
           ],
           "tasks": [
@@ -35,7 +35,21 @@
               "method_id": "0x5bcb2fc6"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Deposit sAVAX",
+      "id": "deposit_savax",
+      "description": "Deposit sAVAX",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
+      "projectUrl": "https://benqi.fi",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 60,
+      "quests": [
         {
           "name": "Deposit sAVAX",
           "description": "Deposit sAVAX into BENQI Lend & Borrow: Core Markets.",
@@ -44,7 +58,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 30
+              "value": 60
             }
           ],
           "tasks": [
@@ -56,7 +70,21 @@
               "method_id": "0xa0712d68"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Deposit AVAX",
+      "id": "deposit_avax",
+      "description": "Deposit AVAX",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
+      "projectUrl": "https://benqi.fi",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 20,
+      "quests": [
         {
           "name": "Deposit AVAX",
           "description": "Deposit AVAX into BENQI Lend & Borrow: Core Markets.",
@@ -65,7 +93,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 10
+              "value": 20
             }
           ],
           "tasks": [
@@ -77,7 +105,21 @@
               "method_id": "0x1249c58b"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Deposit QI",
+      "id": "deposit_qi",
+      "description": "Deposit Qi",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
+      "projectUrl": "https://benqi.fi",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 20,
+      "quests": [
         {
           "name": "Deposit QI",
           "description": "Deposit QI into BENQI Lend & Borrow: Avalanche Ecosystem Markets.",
@@ -86,7 +128,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 10
+              "value": 20
             }
           ],
           "tasks": [
