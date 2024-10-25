@@ -18,7 +18,7 @@
           "name": "Pharaoh Locker",
           "description": "Create a lock on Pharaoh Exchange and earn voting rewards",
           "category": "DeFi",
-          "contract_address": "0xAAA3249511DE3E7A5c61FbA8313170c1Bef9A65e",
+          "contract_address": "0xAAAEa1fB9f3DE3F70E89f37B69Ab11B47eb9Ce6F",
           "rewards": [
             {
               "type": "points",
@@ -30,7 +30,7 @@
               "name": "Create a Lock",
               "type": "LOCK",
               "description": "Lock any amount of PHAR on Pharaoh Exchange",
-              "contract_address": "0xAAA3249511DE3E7A5c61FbA8313170c1Bef9A65e",
+              "contract_address": "0xAAAEa1fB9f3DE3F70E89f37B69Ab11B47eb9Ce6F",
               "method_id": "0xb52c05fe"
             }
           ]
