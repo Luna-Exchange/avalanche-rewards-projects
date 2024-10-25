@@ -93,7 +93,7 @@
       "quests": [
         {
           "name": "Liquidity Provision",
-          "description": "Provide Liquidity at least $2,000 on Trader Joe for the arrow market pool in one transaction",
+          "description": "Provide Liquidity at least $2,500 on Trader Joe for the arrow market pool in one transaction",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
@@ -106,12 +106,12 @@
           "tasks": [
             {
               "name": "Liquidity Provision",
-              "description": "Provide Liquidity at least $2,000 on Trader Joe for the arrow market pool in one transaction",
+              "description": "Provide Liquidity at least $2,500 on Trader Joe for the arrow market pool in one transaction",
               "type": "POOL",
               "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
               "method_id": "0x383d15c5",
               "metadata": {
-                "threshold": 2000
+                "threshold": 2500
               }
             }
           ]
