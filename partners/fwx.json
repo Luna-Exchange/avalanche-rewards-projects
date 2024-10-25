@@ -4,9 +4,9 @@
   "imgUrl": "https://pbs.twimg.com/profile_images/1772244053326995456/XpthaJcx_400x400.jpg",
   "missions": [
     {
-      "name": "FWX",
-      "id": "fwx_missions",
-      "description": "Complete a Liquidity Provision and Leverage Trading on FWX",
+      "name": "Liquidity Provision",
+      "id": "fwx_lp_missions",
+      "description": "Complete a Liquidity Provision on FWX",
       "featuredImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
       "bannerImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
       "tags": [
@@ -21,19 +21,37 @@
           "rewards": [
             {
               "type": "points",
-              "value": 60
+              "value": 100
             }
           ],
           "tasks": [
             {
-              "name": "Lend AVAX on official market on FWX",
+              "name": "Provide Liquidity AVAX market on FWX",
               "type": "LEND",
               "description": "Complete an AVAX lend on FWX",
               "contract_address": "0x7F91272ff1A0114743D2df95F5905F9613Fd92b3",
               "method_id": "0xe2bbb158"
             }
           ]
-        },
+        }
+      ],
+      "total_points_reward": 100,
+      "badge": {
+        "name": "FWX Enjoyer",
+        "description": "Awarded for completing liquidity provision and leverage trading on FWX",
+        "imgUrl": "https://img2.pic.in.th/pic/mission2.jpg"
+      }
+    },
+    {
+      "name": "Leverage Trading",
+      "id": "fwx_lt_missions",
+      "description": "Complete a Leverage Trading on FWX",
+      "featuredImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+      "bannerImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+      "tags": [
+        "DeFi"
+      ],
+      "quests": [
         {
           "name": "Leverage Trading",
           "description": "Complete an AVAX trade with long position on FWX",
@@ -42,7 +60,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 60
+              "value": 100
             }
           ],
           "tasks": [
@@ -56,7 +74,7 @@
           ]
         }
       ],
-      "total_points_reward": 120,
+      "total_points_reward": 100,
       "badge": {
         "name": "FWX Enjoyer",
         "description": "Awarded for completing liquidity provision and leverage trading on FWX",
@@ -65,7 +83,7 @@
     },
     {
       "name": "FWX",
-      "id": "fwx_daily_missions",
+      "id": "fwx_lp_daily_missions",
       "frequency": "daily",
       "description": "Complete a Liquidity Provision and Leverage Trading on FWX",
       "featuredImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
@@ -83,7 +101,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 30
+              "value": 25
             }
           ],
           "tasks": [
@@ -108,7 +126,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 60
+              "value": 50
             }
           ],
           "tasks": [
@@ -133,7 +151,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 135
+              "value": 75
             }
           ],
           "tasks": [
@@ -150,7 +168,7 @@
           ]
         }
       ],
-      "total_points_reward": 225,
+      "total_points_reward": 150,
       "badge": {
         "name": "FWX Enjoyer",
         "description": "Awarded for completing liquidity provision and leverage trading on FWX",
