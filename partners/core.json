@@ -40,7 +40,7 @@
     },
     {
       "name": "Avalanche core Missions",
-      "description": "Keep be a validator on any project",
+      "description": "Be a validator on any project",
       "id": "avalanche_core_daily_missions",
       "frequency": "daily",
       "imgUrl": "https://th.bing.com/th/id/OIP.X9gVxv_vN0Wy2Nz5DuEqOQHaC9?rs=1&pid=ImgDetMain",
@@ -48,7 +48,7 @@
       "quests": [
         {
           "name": "Validation Vanguard" ,
-          "description": "Keep be a validator on any project",
+          "description": "Be a validator on any project",
           "category": "DeFi",
           "contract_address": "",
           "rewards": [
