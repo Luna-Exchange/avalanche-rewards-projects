@@ -7,7 +7,9 @@
       "name": "Avalanche core Missions",
       "description": "Be a validator on any project",
       "id": "avalanche_core_validator_missions",
-      "imgUrl": "https://th.bing.com/th/id/OIP.X9gVxv_vN0Wy2Nz5DuEqOQHaC9?rs=1&pid=ImgDetMain",
+      "frequency": "daily",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmWBtZQymLyAehhEJb1YYNwXZx7ydYegRLdxJojpGrEKAq",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme6R5rjg3rVfoTu53Wtrjq6HjVdFWzjfKz3NVWtz4HCcv",
       "tags": ["DeFi"],
       "quests": [
         {
@@ -43,7 +45,8 @@
       "description": "Be a validator on any project",
       "id": "avalanche_core_daily_validator_missions",
       "frequency": "daily",
-      "imgUrl": "https://th.bing.com/th/id/OIP.X9gVxv_vN0Wy2Nz5DuEqOQHaC9?rs=1&pid=ImgDetMain",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmWBtZQymLyAehhEJb1YYNwXZx7ydYegRLdxJojpGrEKAq",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme6R5rjg3rVfoTu53Wtrjq6HjVdFWzjfKz3NVWtz4HCcv",
       "tags": ["DeFi"],
       "quests": [
         {
