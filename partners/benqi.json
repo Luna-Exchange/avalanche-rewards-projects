@@ -5,7 +5,7 @@
   "missions": [
     {
       "name": "Stake AVAX for sAVAX",
-      "id": "stake_avax_for_savax",
+      "id": "benqi_stake_avax_for_savax",
       "description": "Stake AVAX for sAVAX",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
@@ -40,7 +40,7 @@
     },
     {
       "name": "Deposit sAVAX",
-      "id": "deposit_savax",
+      "id": "benqi_deposit_savax",
       "description": "Deposit sAVAX",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Deposit AVAX",
-      "id": "deposit_avax",
+      "id": "benqi_deposit_avax",
       "description": "Deposit AVAX",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
@@ -110,7 +110,7 @@
     },
     {
       "name": "Deposit QI",
-      "id": "deposit_qi",
+      "id": "benqi_deposit_qi",
       "description": "Deposit Qi",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
