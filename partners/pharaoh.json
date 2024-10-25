@@ -7,7 +7,8 @@
       "name": "Pharaoh Locker",
       "id": "pharaoh_exchange_locker_missions",
       "description": "Create a lock on Pharaoh Exchange and earn voting rewards",
-      "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "featuredImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "bannerImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
       "projectUrl": "pharaoh.exchange",
       "tags": [
         "DeFi"
@@ -46,7 +47,8 @@
       "name": "Pharaoh Swap",
       "id": "pharaoh_exchange_swap_missions",
       "description": "Swap tokens on Pharaoh Exchange's native router",
-      "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "featuredImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "bannerImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
       "projectUrl": "pharaoh.exchange",
       "tags": [
         "DeFi"
@@ -85,7 +87,8 @@
       "name": "Pharaoh LPer",
       "id": "pharaoh_exchange_lper_missions",
       "description": "Deposit into Pharaoh Exchange's concentrated liquidity pools",
-      "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "featuredImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "bannerImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
       "projectUrl": "pharaoh.exchange",
       "tags": [
         "DeFi"
@@ -125,7 +128,8 @@
       "frequency": "daily",
       "id": "pharaoh_exchange_daily_swap_missions",
       "description": "Make a swap on Pharaoh Exchange's native router",
-      "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "featuredImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "bannerImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
       "projectUrl": "pharaoh.exchange",
       "tags": [
         "DeFi"
@@ -219,7 +223,8 @@
       "id": "pharaoh_exchange_daily_lper_missions",
       "frequency": "daily",
       "description": "Deposit into Pharaoh Exchange's concentrated liquidity pools",
-      "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "featuredImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "bannerImgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
       "projectUrl": "pharaoh.exchange",
       "tags": [
         "DeFi"
