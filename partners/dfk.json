@@ -4,10 +4,12 @@
   "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDmwAGN3msj7cqFbVhBQOfnhRfYcamDhezPYEm2bc9dXrX6eeZeqHPQ-npxQu4tTL6Q&usqp=CAU",
   "missions": [
     {
-      "name": "DFK Missions",
-      "description": "DeFi Kingdoms is a cross-chain fantasy RPG with beautiful pixel art, tokenized resources, featuring Hero NFTs with PvE and PvP gameplay, integrated with a DeFi protocol.",
+      "name": "Hero Quests",
+      "description": "Complete hero quests to earn rewards",
       "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDmwAGN3msj7cqFbVhBQOfnhRfYcamDhezPYEm2bc9dXrX6eeZeqHPQ-npxQu4tTL6Q&usqp=CAU",
-      "tags": ["DeFi"],
+      "tags": [
+        "DeFi"
+      ],
       "quests": [
         {
           "name": "Hero quest tasks",
@@ -57,7 +59,22 @@
               "method_id": ""
             }
           ]
-        },
+        }
+      ],
+      "total_points_reward": 120,
+      "badge": {
+        "name": "Hero’s Medal",
+        "description": "Awarded for completing DFK gaming missions"
+      }
+    },
+    {
+      "name": "Hero Hunts",
+      "description": "DeFi Kingdoms is a cross-chain fantasy RPG with beautiful pixel art, tokenized resources, featuring Hero NFTs with PvE and PvP gameplay, integrated with a DeFi protocol.",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDmwAGN3msj7cqFbVhBQOfnhRfYcamDhezPYEm2bc9dXrX6eeZeqHPQ-npxQu4tTL6Q&usqp=CAU",
+      "tags": [
+        "DeFi"
+      ],
+      "quests": [
         {
           "name": "Hero hunt tasks",
           "description": "Complete hero hunt tasks to earn rewards",
