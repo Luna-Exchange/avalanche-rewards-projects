@@ -4,26 +4,26 @@
   "imgUrl": "https://drive.google.com/file/d/19VW-14SHJF0GZU9UcOKTRdaH9l9YNLQn/view?usp=sharing",
   "missions": [
     {
-      "name": "STABLE JACK MISSIONS",
-      "id": "stable_jack_missions",
-      "description": "Stablejack is a yield, volatility, and points trading marketplace for any asset.",
+      "name": "aUSD enjoyor",
+      "id": "stable_jack_mint_ausd_mission",
+      "description": "Mint aUSD with sAVAX/USDT/USDC/AVAX",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
       "projectUrl": "app.stablejack.xyz",
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 300,
+      "total_points_reward": 100,
       "quests": [
         {
           "name": "aUSD enjoyor",
-          "description": "Mint aUSD, deposit to rebalance pool and enjoy native yield!",
+          "description": "Mint aUSD with sAVAX from our platform",
           "category": "DeFi",
           "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
           "rewards": [
             {
               "type": "points",
-              "value": 50
+              "value": 100
             }
           ],
           "tasks": [
@@ -42,7 +42,25 @@
               "method_id": "0x2b08548b"
             }
           ]
-        },
+        }
+      ],
+      "badge": {
+        "name": "Stable jack ",
+        "description": "This certifies that I completed Stable Jack's Mission"
+      }
+    },
+    {
+      "name": "xAVAX enjoyor",
+      "id": "stable_jack_mint_xavax_missions",
+      "description": "Mint xAVAX",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "projectUrl": "app.stablejack.xyz",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 100,
+      "quests": [
         {
           "name": "xAVAX enjoyor",
           "description": "Mint xAVAX and enjoy leverage with no liquidation risk",
@@ -51,7 +69,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 50
+              "value": 100
             }
           ],
           "tasks": [
@@ -70,7 +88,25 @@
               "method_id": "0xf48b8acb"
             }
           ]
-        },
+        }
+      ],
+      "badge": {
+        "name": "Stable jack ",
+        "description": "This certifies that I completed Stable Jack's Mission"
+      }
+    },
+    {
+      "name": "STABLE JACK MISSIONS",
+      "id": "stable_jack_ausdxavax_mint_missions",
+      "description": "Mint xAVAX and aUSD",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "projectUrl": "app.stablejack.xyz",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 100,
+      "quests": [
         {
           "name": "true jack enjoyor",
           "description": "Mint both xAVAX and aUSD!",
@@ -79,26 +115,44 @@
           "rewards": [
             {
               "type": "points",
-              "value": 50
+              "value": 100
             }
           ],
           "tasks": [
             {
-              "name": "Mint both with sAVAX",
+              "name": "Mint both xAVAX and aUSD with sAVAX",
               "type": "MINT",
-              "description": "Mint both with sAVAX from our platform",
+              "description": "Mint both xAVAX and aUSD with sAVAX from our platform",
               "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
               "method_id": "0x6a3790ed"
             },
             {
-              "name": "Mint both with USDT/USDC/AVAX",
+              "name": "Mint both xAVAX and aUSD with USDT/USDC/AVAX",
               "type": "MINT",
-              "description": "Mint both with USDT/USDC/AVAX from our platform",
+              "description": "Mint both xAVAX and aUSD with USDT/USDC/AVAX from our platform",
               "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
               "method_id": "0x12953137"
             }
           ]
-        },
+        }
+      ],
+      "badge": {
+        "name": "Stable jack ",
+        "description": "This certifies that I completed Stable Jack's Mission"
+      }
+    },
+    {
+      "name": "STABLE JACK MISSIONS",
+      "id": "stable_jack_missions",
+      "description": "Deposit aUSD into Rebalance Pool",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "projectUrl": "app.stablejack.xyz",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 100,
+      "quests": [
         {
           "name": "Yield enjoyor",
           "description": "Deposit aUSD into Rebalance Pool and get a 20% APR",
@@ -107,7 +161,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 50
+              "value": 100
             }
           ],
           "tasks": [
@@ -119,7 +173,25 @@
               "method_id": "0x6e553f65"
             }
           ]
-        },
+        }
+      ],
+      "badge": {
+        "name": "Stable jack ",
+        "description": "This certifies that I completed Stable Jack's Mission"
+      }
+    },
+    {
+      "name": "STABLE JACK MISSIONS",
+      "id": "stable_jack_missions",
+      "description": "Deposit aUSD/USDC into the Pharaoh Pool",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
+      "projectUrl": "app.stablejack.xyz",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 100,
+      "quests": [
         {
           "name": "LP Provider",
           "description": "Deposit aUSD/USDC to Pharaoh Pool",
@@ -128,7 +200,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 50
+              "value": 100
             }
           ],
           "tasks": [
@@ -138,27 +210,6 @@
               "description": "Deposit aUSD into Rebalance Pool",
               "contract_address": "0x1a66208180c20cc893ac5092d0cce95994cb1ae0",
               "method_id": "0xe6c620f0"
-            }
-          ]
-        },
-        {
-          "name": "LP Provider",
-          "description": "Deposit aUSD/USDC to Trader Joe Pool",
-          "category": "DeFi",
-          "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
-          "rewards": [
-            {
-              "type": "points",
-              "value": 50
-            }
-          ],
-          "tasks": [
-            {
-              "name": "Deposit aUSD/USDC to Trader Joe Pool",
-              "type": "DEPOSIT",
-              "description": "Deposit aUSD/USDC to Trader Joe Pool",
-              "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
-              "method_id": "0xa3c7271a"
             }
           ]
         }
@@ -172,7 +223,7 @@
       "name": "STABLE JACK MISSIONS",
       "id": "stable_jack_daily_missions",
       "frequency": "daily",
-      "description": "Stablejack is a yield, volatility, and points trading marketplace for any asset.",
+      "description": "LP Provider",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme5QHsZFXnfXNXVEFhqtXSHnvP98WsYCkE6KMuvZ5Gi6j",
       "projectUrl": "app.stablejack.xyz",
@@ -190,7 +241,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 20
+              "value": 25
             }
           ],
           "tasks": [
@@ -215,7 +266,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 30
+              "value": 50
             }
           ],
           "tasks": [
@@ -240,7 +291,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 100
+              "value": 76
             }
           ],
           "tasks": [
