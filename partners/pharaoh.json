@@ -4,12 +4,15 @@
   "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
   "missions": [
     {
-      "name": "PHARAOH_EXCHANGE",
-      "description": "Pharaoh pairs incentives with concentrated liquidity for next-level capital efficiency",
+      "name": "Pharaoh Locker",
+      "id": "pharaoh_exchange_locker_missions",
+      "description": "Create a lock on Pharaoh Exchange and earn voting rewards",
       "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
       "projectUrl": "pharaoh.exchange",
-      "tags": ["DeFi"],
-      "total_points_reward": 150,
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 100,
       "quests": [
         {
           "name": "Pharaoh Locker",
@@ -19,7 +22,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 50
+              "value": 100
             }
           ],
           "tasks": [
@@ -31,16 +34,34 @@
               "method_id": "0xb52c05fe"
             }
           ]
-        },
+        }
+      ],
+      "badge": {
+        "name": "Pharaoh Phriend",
+        "description": "Awarded for depositing, voting, or LPing on Pharaoh Exchange",
+        "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png"
+      }
+    },
+    {
+      "name": "Pharaoh Swap",
+      "id": "pharaoh_exchange_swap_missions",
+      "description": "Swap tokens on Pharaoh Exchange's native router",
+      "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "projectUrl": "pharaoh.exchange",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 100,
+      "quests": [
         {
           "name": "Pharaoh Swap",
-          "description": "Make at least one swap with Pharaoh Exchange Native's Router on Avalanche",
+          "description": "Make at least one swap with Pharaoh Exchange's native Router on Avalanche",
           "category": "DeFi",
           "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
           "rewards": [
             {
               "type": "points",
-              "value": 50
+              "value": 100
             }
           ],
           "tasks": [
@@ -52,7 +73,25 @@
               "method_id": "0x24856bc3"
             }
           ]
-        },
+        }
+      ],
+      "badge": {
+        "name": "Pharaoh Phriend",
+        "description": "Awarded for depositing, voting, or LPing on Pharaoh Exchange",
+        "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png"
+      }
+    },
+    {
+      "name": "Pharaoh LPer",
+      "id": "pharaoh_exchange_lper_missions",
+      "description": "Deposit into Pharaoh Exchange's concentrated liquidity pools",
+      "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "projectUrl": "pharaoh.exchange",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 100,
+      "quests": [
         {
           "name": "Pharaoh LPer",
           "description": "Deposit into Pharaoh Exchange's concentrated liquidity pools",
@@ -61,7 +100,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 50
+              "value": 100
             }
           ],
           "tasks": [
@@ -71,6 +110,100 @@
               "description": "Deposit into Pharaoh Exchange's concentrated liquidity pools",
               "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
               "method_id": "0xac9650d8"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Pharaoh Phriend",
+        "description": "Awarded for depositing, voting, or LPing on Pharaoh Exchange",
+        "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png"
+      }
+    },
+    {
+      "name": "Pharaoh Swap",
+      "frequency": "daily",
+      "id": "pharaoh_exchange_daily_swap_missions",
+      "description": "Make a swap on Pharaoh Exchange's native router",
+      "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "projectUrl": "pharaoh.exchange",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Pharaoh Swap",
+          "description": "Make at least one swap of at least $2,500 on Pharaoh Exchange's native Router",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Make a Swap",
+              "type": "SWAP",
+              "description": "Make at least one swap of at least $2,500 on Pharaoh Exchange's native Router",
+              "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+              "method_id": "0x24856bc3",
+              "metadata": {
+                "threshold": 2500
+              }
+            }
+          ]
+        },
+        {
+          "name": "Pharaoh Swap",
+          "description": "Make at least one swap of at least $5,000 on Pharaoh Exchange's native Router",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Make a Swap",
+              "type": "SWAP",
+              "description": "Make at least one swap of at least $5,000 on Pharaoh Exchange's native Router",
+              "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+              "method_id": "0x24856bc3",
+              "metadata": {
+                "threshold": 5000
+              }
+            }
+          ]
+        },
+        {
+          "name": "Pharaoh Swap",
+          "description": "Make at least one swap of at least $10,000 on Pharaoh Exchange's native Router",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 75
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Make a Swap",
+              "type": "SWAP",
+              "description": "Make at least one swap of at least $10,000 on Pharaoh Exchange's native Router",
+              "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
+              "method_id": "0x24856bc3",
+              "metadata": {
+                "threshold": 10000
+              }
             }
           ]
         }
