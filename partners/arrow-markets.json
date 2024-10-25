@@ -4,9 +4,11 @@
   "imgUrl": "https://x.com/ArrowMarkets/photo",
   "missions": [
     {
-      "name": "Arrow Markets_",
+      "name": "Arrow Markets",
       "description": "Purchase any option on the arrow market platform",
-      "imgUrl": "",
+      "id": "arrow_markets_options_missions",
+      "featuredImgUrl": "https://x.com/ArrowMarkets/photo",
+      "bannerImgUrl": "https://x.com/ArrowMarkets/photo",
       "tags": [
         "DeFi"
       ],
@@ -41,8 +43,10 @@
     },
     {
       "name": "Arrow Markets_",
+      "id": "arrow_markets_lq_missions",
       "description": "Complete liquidity provision and purchasing option on Arrow Markets",
-      "imgUrl": "",
+      "featuredImgUrl": "https://x.com/ArrowMarkets/photo",
+      "bannerImgUrl": "https://x.com/ArrowMarkets/photo",
       "tags": [
         "DeFi"
       ],
@@ -69,7 +73,101 @@
           ]
         }
       ],
-      "total_points_reward": 120,
+      "total_points_reward": 100,
+      "badge": {
+        "name": "Arrow Market Archer",
+        "description": "Awarded for completing liquidity provision and option purchase on Arrow Markets",
+        "imgUrl": ""
+      }
+    },
+    {
+      "name": "Arrow Markets",
+      "id": "arrow_markets_daily_lq_missions",
+      "frequency": "daily",
+      "description": "Complete liquidity provision and purchasing option on Arrow Markets",
+      "featuredImgUrl": "https://x.com/ArrowMarkets/photo",
+      "bannerImgUrl": "https://x.com/ArrowMarkets/photo",
+      "tags": [
+        "DeFi"
+      ],
+      "quests": [
+        {
+          "name": "Liquidity Provision",
+          "description": "Provide Liquidity at least $2,000 on Trader Joe for the arrow market pool in one transaction",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Liquidity Provision",
+              "description": "Provide Liquidity at least $2,000 on Trader Joe for the arrow market pool in one transaction",
+              "type": "POOL",
+              "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
+              "method_id": "0x383d15c5",
+              "metadata": {
+                "threshold": 2000
+              }
+            }
+          ]
+        },
+        {
+          "name": "Liquidity Provision",
+          "description": "Provide Liquidity at least $5,000 on Trader Joe for the arrow market pool in one transaction",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Liquidity Provision",
+              "description": "Provide Liquidity at least $5,000 on Trader Joe for the arrow market pool in one transaction",
+              "type": "POOL",
+              "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
+              "method_id": "0x383d15c5",
+              "metadata": {
+                "threshold": 5000
+              }
+            }
+          ]
+        },
+        {
+          "name": "Liquidity Provision",
+          "description": "Provide Liquidity at least $10,000 on Trader Joe for the arrow market pool in one transaction",
+          "category": "DeFi",
+          "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 75
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Liquidity Provision",
+              "description": "Provide Liquidity at least $10,000 on Trader Joe for the arrow market pool in one transaction",
+              "type": "POOL",
+              "contract_address": "0x18556da13313f3532c54711497a8fedac273220e",
+              "method_id": "0x383d15c5",
+              "metadata": {
+                "threshold": 10000
+              }
+            }
+          ]
+        }
+      ],
+      "total_points_reward": 150,
       "badge": {
         "name": "Arrow Market Archer",
         "description": "Awarded for completing liquidity provision and option purchase on Arrow Markets",
