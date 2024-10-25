@@ -5,7 +5,8 @@
   "missions": [
     {
       "name": "Avalanche core Missions",
-      "description": "Avalanche Core Wallet is a secure, user-friendly wallet for AVAX and other Avalanche tokens",
+      "description": "Be a validator on any project",
+      "id": "avalanche_core_missions",
       "imgUrl": "https://th.bing.com/th/id/OIP.X9gVxv_vN0Wy2Nz5DuEqOQHaC9?rs=1&pid=ImgDetMain",
       "tags": ["DeFi"],
       "quests": [
@@ -17,7 +18,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 60
+              "value": 10
             }
           ],
           "tasks": [
@@ -31,7 +32,43 @@
           ]
         }
       ],
-      "total_points_reward": 60,
+      "total_points_reward": 10,
+      "badge": {
+        "name": "Verification Hero",
+        "description": "Awarded for being a validator"
+      }
+    },
+    {
+      "name": "Avalanche core Missions",
+      "description": "Keep be a validator on any project",
+      "id": "avalanche_core_daily_missions",
+      "frequency": "daily",
+      "imgUrl": "https://th.bing.com/th/id/OIP.X9gVxv_vN0Wy2Nz5DuEqOQHaC9?rs=1&pid=ImgDetMain",
+      "tags": ["DeFi"],
+      "quests": [
+        {
+          "name": "Validation Vanguard" ,
+          "description": "Keep be a validator on any project",
+          "category": "DeFi",
+          "contract_address": "",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Validation Vanguard",
+              "type": "VALIDATION",
+              "description": "Be a validator on any project",
+              "contract_address": "",
+              "method_id": ""
+            }
+          ]
+        }
+      ],
+      "total_points_reward": 50,
       "badge": {
         "name": "Verification Hero",
         "description": "Awarded for being a validator"
