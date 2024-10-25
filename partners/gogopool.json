@@ -6,14 +6,14 @@
     {
       "name": "Minting ggAVAX",
       "description": "Mint ggAVAX using AVAX.",
-      "id": "gogopool_missions",
+      "id": "gogopool_minter_missions",
       "featuredImgUrl": "https://pbs.twimg.com/profile_images/1564959265491750912/wtIMjVly_400x400.png",
       "bannerImgUrl": "https://pbs.twimg.com/profile_images/1564959265491750912/wtIMjVly_400x400.png",
       "projectUrl": "https://app.gogopool.com/liquid-staking/",
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 50,
+      "total_points_reward": 100,
       "quests": [
         {
           "name": "ggAVAX minter",
@@ -23,7 +23,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 50
+              "value": 100
             }
           ],
           "tasks": [
@@ -46,18 +46,18 @@
       "name": "Minting ggAVAX",
       "description": "Mint ggAVAX using AVAX.",
       "frequency": "daily",
-      "id": "gogopool_daily_missions",
+      "id": "gogopool_daily_minter_missions",
       "featuredImgUrl": "https://pbs.twimg.com/profile_images/1564959265491750912/wtIMjVly_400x400.png",
       "bannerImgUrl": "https://pbs.twimg.com/profile_images/1564959265491750912/wtIMjVly_400x400.png",
       "projectUrl": "https://app.gogopool.com/liquid-staking/",
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 200,
+      "total_points_reward": 150,
       "quests": [
         {
           "name": "ggAVAX minter",
-          "description": "Mint ggAVAX at least $1,000 worth of ggAVAX with AVAX",
+          "description": "Mint ggAVAX at least $2,500 worth of ggAVAX with AVAX",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
@@ -71,15 +71,18 @@
             {
               "name": "Mint ggAVAX with AVAX",
               "type": "MINT",
-              "description": "Mint ggAVAX at least $1,000 worth of ggAVAX with AVAX",
+              "description": "Mint ggAVAX at least $2,500 worth of ggAVAX with AVAX",
               "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
-              "method_id": "0xa0d065c3"
+              "method_id": "0xa0d065c3",
+              "metadata": {
+                "threshold": 2500
+              }
             }
           ]
         },
         {
           "name": "ggAVAX minter",
-          "description": "Mint ggAVAX at least $2,500 worth of ggAVAX with AVAX",
+          "description": "Mint ggAVAX at least $5,000 worth of ggAVAX with AVAX",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
@@ -93,22 +96,25 @@
             {
               "name": "Mint ggAVAX with AVAX",
               "type": "MINT",
-              "description": "Mint ggAVAX at least $2,500 worth of ggAVAX with AVAX",
+              "description": "Mint ggAVAX at least $5,000 worth of ggAVAX with AVAX",
               "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
-              "method_id": "0xa0d065c3"
+              "method_id": "0xa0d065c3",
+              "metadata": {
+                "threshold": 5000
+              }
             }
           ]
         },
         {
           "name": "ggAVAX minter",
-          "description": "Mint ggAVAX at least $5,000 worth of ggAVAX with AVAX",
+          "description": "Mint ggAVAX at least $10,000 worth of ggAVAX with AVAX",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
           "rewards": [
             {
               "type": "points",
-              "value": 125
+              "value": 75
             }
           ],
           "tasks": [
@@ -117,7 +123,10 @@
               "name": "Mint ggAVAX with AVAX",
               "description": "Mint ggAVAX at least $5,000 worth of ggAVAX with AVAX",
               "contract_address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
-              "method_id": "0xa0d065c3"
+              "method_id": "0xa0d065c3",
+              "metadata": {
+                "threshold": 10000
+              }
             }
           ]
         }
