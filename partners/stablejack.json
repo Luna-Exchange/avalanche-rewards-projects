@@ -259,7 +259,7 @@
       }
     },
     {
-      "name": "STABLE JACK MISSIONS",
+      "name": "LP Provider",
       "id": "stable_jack_lp_mint_daily_missions",
       "frequency": "daily",
       "description": "LP Provider",
