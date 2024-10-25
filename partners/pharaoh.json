@@ -105,7 +105,7 @@
           ],
           "tasks": [
             {
-              "name": "Make a deposit",
+              "name": "Deposit into Pharaoh Exchange's LP",
               "type": "DEPOSIT",
               "description": "Deposit into Pharaoh Exchange's concentrated liquidity pools",
               "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
@@ -201,6 +201,100 @@
               "description": "Make at least one swap of at least $10,000 on Pharaoh Exchange's native Router",
               "contract_address": "0x22C81c051a134c81Ce370D82Fa26975aE9D100B4",
               "method_id": "0x24856bc3",
+              "metadata": {
+                "threshold": 10000
+              }
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Pharaoh Phriend",
+        "description": "Awarded for depositing, voting, or LPing on Pharaoh Exchange",
+        "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png"
+      }
+    },
+    {
+      "name": "Pharaoh LPer",
+      "id": "pharaoh_exchange_daily_lper_missions",
+      "frequency": "daily",
+      "description": "Deposit into Pharaoh Exchange's concentrated liquidity pools",
+      "imgUrl": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/misc/pharlogo.png",
+      "projectUrl": "pharaoh.exchange",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Pharaoh LPer",
+          "description": "Deposit at least $2,500 into Pharaoh Exchange's concentrated liquidity pools",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit into Pharaoh Exchange's LP",
+              "type": "DEPOSIT",
+              "description": "Deposit at least $2,500 into Pharaoh Exchange's concentrated liquidity pools",
+              "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+              "method_id": "0xac9650d8",
+              "metadata": {
+                "threshold": 2500
+              }
+            }
+          ]
+        },
+        {
+          "name": "Pharaoh LPer",
+          "description": "Deposit at least $5,000 into Pharaoh Exchange's concentrated liquidity pools",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit into Pharaoh Exchange's LP",
+              "type": "DEPOSIT",
+              "description": "Deposit at least $5,000 into Pharaoh Exchange's concentrated liquidity pools",
+              "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+              "method_id": "0xac9650d8",
+              "metadata": {
+                "threshold": 5000
+              }
+            }
+          ]
+        },
+        {
+          "name": "Pharaoh LPer",
+          "description": "Deposit at least $10,000 into Pharaoh Exchange's concentrated liquidity pools",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 75
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit into Pharaoh Exchange's LP",
+              "type": "DEPOSIT",
+              "description": "Deposit at least $10,000 into Pharaoh Exchange's concentrated liquidity pools",
+              "contract_address": "0xAAA78E8C4241990B4ce159E105dA08129345946A",
+              "method_id": "0xac9650d8",
               "metadata": {
                 "threshold": 10000
               }
