@@ -7,7 +7,7 @@
       "name": "Avalanche core Missions",
       "description": "Be a validator on any project",
       "id": "avalanche_core_validator_missions",
-      "frequency": "daily",
+      "frequency": "one_time",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmWBtZQymLyAehhEJb1YYNwXZx7ydYegRLdxJojpGrEKAq",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme6R5rjg3rVfoTu53Wtrjq6HjVdFWzjfKz3NVWtz4HCcv",
       "tags": ["DeFi"],
