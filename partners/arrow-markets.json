@@ -4,7 +4,7 @@
   "imgUrl": "https://x.com/ArrowMarkets/photo",
   "missions": [
     {
-      "name": "Arrow Markets",
+      "name": "Arrow markets option purchase",
       "description": "Purchase any option on the arrow market platform",
       "id": "arrow_markets_options_missions",
       "featuredImgUrl": "https://x.com/ArrowMarkets/photo",
@@ -17,6 +17,7 @@
           "name": "Option Purchase",
           "description": "Purchase any option on the arrow market platform",
           "category": "DeFi",
+          "contract_address": "0xC33867F01E320bB077415cD3592E6B3879AaC45d",
           "rewards": [
             {
               "type": "points",
@@ -38,7 +39,6 @@
       "badge": {
         "name": "Arrow Market Archer",
         "description": "Awarded for completing liquidity provision and option purchase on Arrow Markets",
-        "imgUrl": ""
       }
     },
     {
