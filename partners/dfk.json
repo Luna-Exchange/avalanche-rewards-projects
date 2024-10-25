@@ -5,8 +5,10 @@
   "missions": [
     {
       "name": "Hero Quests",
+      "id": "dfk_hero_quests",
       "description": "Complete hero quests to earn rewards",
-      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDmwAGN3msj7cqFbVhBQOfnhRfYcamDhezPYEm2bc9dXrX6eeZeqHPQ-npxQu4tTL6Q&usqp=CAU",
+      "bannerImgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDmwAGN3msj7cqFbVhBQOfnhRfYcamDhezPYEm2bc9dXrX6eeZeqHPQ-npxQu4tTL6Q&usqp=CAU",
+      "featuredImgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDmwAGN3msj7cqFbVhBQOfnhRfYcamDhezPYEm2bc9dXrX6eeZeqHPQ-npxQu4tTL6Q&usqp=CAU",
       "tags": [
         "DeFi"
       ],
@@ -19,7 +21,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 60
+              "value": 100
             }
           ],
           "tasks": [
@@ -61,7 +63,7 @@
           ]
         }
       ],
-      "total_points_reward": 120,
+      "total_points_reward": 100,
       "badge": {
         "name": "Hero’s Medal",
         "description": "Awarded for completing DFK gaming missions"
@@ -69,8 +71,10 @@
     },
     {
       "name": "Hero Hunts",
+      "id": "dfk_hero_hunts",
       "description": "DeFi Kingdoms is a cross-chain fantasy RPG with beautiful pixel art, tokenized resources, featuring Hero NFTs with PvE and PvP gameplay, integrated with a DeFi protocol.",
-      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDmwAGN3msj7cqFbVhBQOfnhRfYcamDhezPYEm2bc9dXrX6eeZeqHPQ-npxQu4tTL6Q&usqp=CAU",
+      "bannerImgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDmwAGN3msj7cqFbVhBQOfnhRfYcamDhezPYEm2bc9dXrX6eeZeqHPQ-npxQu4tTL6Q&usqp=CAU",
+      "featuredImgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDmwAGN3msj7cqFbVhBQOfnhRfYcamDhezPYEm2bc9dXrX6eeZeqHPQ-npxQu4tTL6Q&usqp=CAU",
       "tags": [
         "DeFi"
       ],
@@ -83,7 +87,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 60
+              "value": 100
             }
           ],
           "tasks": [
@@ -104,7 +108,7 @@
           ]
         }
       ],
-      "total_points_reward": 120,
+      "total_points_reward": 100,
       "badge": {
         "name": "Hero’s Medal",
         "description": "Awarded for completing DFK gaming missions"
