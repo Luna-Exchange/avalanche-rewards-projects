@@ -489,7 +489,7 @@
               "metadata": {
                 "threshold": 2500,
                 "partner": "aave",
-                "tokenId": "binance-bitcoin"
+                "tokenId": "usdc"
               }
             }
           ]
@@ -516,7 +516,7 @@
               "metadata": {
                 "threshold": 5000,
                 "partner": "aave",
-                "tokenId": "binance-bitcoin"
+                "tokenId": "usdc"
               }
             }
           ]
@@ -543,7 +543,7 @@
               "metadata": {
                 "threshold": 10000,
                 "partner": "aave",
-                "tokenId": "binance-bitcoin"
+                "tokenId": "usdc"
               }
             }
           ]
