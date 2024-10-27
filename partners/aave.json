@@ -549,6 +549,101 @@
           ]
         }
       ]
+    },
+    {
+      "name": "AAVE MAINTAIN USDT BALANCE",
+      "id": "aave_daily_maintain_usdt",
+      "description": "Maintain Balance: Maintain USDT balance in Avalanche Lending pool",
+      "frequency": "daily",
+      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Maintain a balance of more than $2500 worth of USDT in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $2500 worth of USDT in Avalanche Lending pool",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $2500 worth of USDT in Avalanche Lending pool",
+              "type": "DAILY_BALANCE",
+              "description": "Maintain a balance of more than $2500 worth of USDT in Avalanche Lending pool",
+              "contract_address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+              "method_id": "",
+              "metadata": {
+                "threshold": 2500,
+                "partner": "aave",
+                "tokenId": "usdt"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Maintain a balance of more than $5000 worth of USDT in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $5000 worth of USDT in Avalanche Lending pool",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $5000 worth of USDT in Avalanche Lending pool",
+              "type": "DAILY_BALANCE",
+              "description": "Maintain a balance of more than $5000 worth of USDT in Avalanche Lending pool",
+              "contract_address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+              "method_id": "",
+              "metadata": {
+                "threshold": 5000,
+                "partner": "aave",
+                "tokenId": "usdt"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Maintain a balance of more than $10000 worth of USDT in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $10000 worth of USDT in Avalanche Lending pool",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 75
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $5000 worth of USDT in Avalanche Lending pool",
+              "type": "DAILY_BALANCE",
+              "description": "Maintain a balance of more than $5000 worth of USDT in Avalanche Lending pool",
+              "contract_address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+              "method_id": "",
+              "metadata": {
+                "threshold": 10000,
+                "partner": "aave",
+                "tokenId": "usdt"
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
