@@ -299,6 +299,196 @@
           ]
         }
       ]
+    },
+    {
+      "name": "LFJ Maintain balance in the AUSD - USDC pool",
+      "description": "LFJ Maintain balance in the AUSD - USDC pool",
+      "id": "lfj_daily_maintain_ausd_usdc_mission",
+      "frequency": "daily",
+      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Maintain a balance of more than $2500 in AUSD - USDC pool",
+          "description": "Maintain a balance of more than $2500 in AUSD - USDC pool",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $2500 in AUSD - USDC pool",
+              "type": "DAILY_BALANCE",
+              "description": "Maintain a balance of more than $2500 in AUSD - USDC pool",
+              "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
+              "method_id": "",
+              "metadata": {
+                "threshold": 2500,
+                "partner": "lfj",
+                "poolAddress": "0x8573F98175D816d520248B5fACF40D309B1c9ceE"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Maintain a balance of more than $5,000 in AUSD - USDC pool",
+          "description": "Maintain a balance of more than $5000 in AUSD - USDC pool",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $5000 in AUSD - USDC pool",
+              "description": "Maintain a balance of more than $5000 in AUSD - USDC pool",
+              "type": "DAILY_BALANCE",
+              "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
+              "method_id": "0xb6b55f25",
+              "metadata": {
+                "threshold": 5000,
+                "partner": "lfj",
+                "poolAddress": "0x8573F98175D816d520248B5fACF40D309B1c9ceE"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Maintain a balance of more than $10000 in AUSD - USDC pool",
+          "description": "Maintain a balance of more than $10000 in AUSD - USDC pool",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 75
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $10000 in AUSD - USDC pool",
+              "description": "Maintain a balance of more than $10000 in AUSD - USDC pool",
+              "type": "DAILY_BALANCE",
+              "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
+              "method_id": "0xb6b55f25",
+              "metadata": {
+                "threshold": 10000,
+                "partner": "lfj",
+                "poolAddress": "0x8573F98175D816d520248B5fACF40D309B1c9ceE"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LFJ Maintain balance in the AUSD - USDT pool",
+      "description": "LFJ Maintain balance in the AUSD - USDT pool",
+      "id": "lfj_daily_maintain_ausd_usdt_mission",
+      "frequency": "daily",
+      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Maintain a balance of more than $2500 in AUSD - USDT pool",
+          "description": "Maintain a balance of more than $2500 in AUSD - USDT pool",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $2500 in AUSD - USDT pool",
+              "type": "DAILY_BALANCE",
+              "description": "Maintain a balance of more than $2500 in AUSD - USDT pool",
+              "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
+              "method_id": "",
+              "metadata": {
+                "threshold": 2500,
+                "partner": "lfj",
+                "poolAddress": "0xcEC377285AbF370FDf872625D2742252656d631a"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Maintain a balance of more than $5,000 in AUSD - USDT pool",
+          "description": "Maintain a balance of more than $5000 in AUSD - USDT pool",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $5000 in AUSD - USDT pool",
+              "description": "Maintain a balance of more than $5000 in AUSD - USDT pool",
+              "type": "DAILY_BALANCE",
+              "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
+              "method_id": "0xb6b55f25",
+              "metadata": {
+                "threshold": 5000,
+                "partner": "lfj",
+                "poolAddress": "0xcEC377285AbF370FDf872625D2742252656d631a"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Maintain a balance of more than $10000 in AUSD - USDT pool",
+          "description": "Maintain a balance of more than $10000 in AUSD - USDT pool",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 75
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $10000 in AUSD - USDT pool",
+              "description": "Maintain a balance of more than $10000 in AUSD - USDT pool",
+              "type": "DAILY_BALANCE",
+              "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
+              "method_id": "0xb6b55f25",
+              "metadata": {
+                "threshold": 10000,
+                "partner": "lfj",
+                "poolAddress": "0xcEC377285AbF370FDf872625D2742252656d631a"
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
