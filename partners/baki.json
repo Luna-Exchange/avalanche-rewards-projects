@@ -4,8 +4,8 @@
   "imgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fbaki-logo.png?alt=media&token=a6119a49-c63d-49d6-8620-0920dcd29c93",
   "missions": [
     {
-      "name": "The Baki missions",
-      "id": "the_baki_mint_missions",
+      "name": "BAKI DEPOSITS",
+      "id": "baki_deposit_missions",
       "description": "Mint zUSD at 150% overcolleterilzation ratio",
       "featuredImgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fmintzusd.png?alt=media&token=09326437-cb15-4350-acc3-feb44128f52e",
       "bannerImgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fmintzusd.png?alt=media&token=09326437-cb15-4350-acc3-feb44128f52e",
@@ -39,8 +39,8 @@
       ]
     },
     {
-      "name": "The Baki missions",
-      "id": "the_baki_daily_mint_missions",
+      "name": "MINT ZTokens DAILY ",
+      "id": "the_baki_daily_mint_ztokens_missions",
       "frequency": "daily",
       "description": "Mint zUSD at 150% overcolleterilzation ratio",
       "featuredImgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fmintzusd.png?alt=media&token=09326437-cb15-4350-acc3-feb44128f52e",
@@ -71,7 +71,7 @@
               "contract_address": "0x1209c35BDA1bC7b9edaF4C2f60Aa034B0530240b",
               "method_id": "0x8e1868f4",
               "metadata": {
-                "threshold": 1000
+                "threshold": 2500
               }
             }
           ]
