@@ -7,8 +7,8 @@
       "name": "YIELD YAK SWAP",
       "id": "yield_yak_swap_missions",
       "description": "Use Yak Swap",
-      "featuredImgUrl": "https://storage.googleapis.com/yak/dapp-images/swap-magic-avalanche.jpeg",
-      "bannerImgUrl": "https://storage.googleapis.com/yak/dapp-images/swap-magic-avalanche.jpeg",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmabVFKrpVm7tZ43bqp8rxrhmbHno6vfxhr6amPeU7ZFc1",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPwhu4sRt5LA5f6BAGWt2yhC8sbvpJ8uUvDNXCr535myi",
       "projectUrl": "yieldyak.com/swap",
       "tags": [
         "DeFi"
@@ -46,8 +46,8 @@
       "name": "YIELD YAK DEPOSIT",
       "id": "yield_yak_deposit_missions",
       "description": "Make a deposit on Yield Yak",
-      "featuredImgUrl": "https://storage.googleapis.com/yak/dapp-images/swap-magic-avalanche.jpeg",
-      "bannerImgUrl": "https://storage.googleapis.com/yak/dapp-images/swap-magic-avalanche.jpeg",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmabVFKrpVm7tZ43bqp8rxrhmbHno6vfxhr6amPeU7ZFc1",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPwhu4sRt5LA5f6BAGWt2yhC8sbvpJ8uUvDNXCr535myi",
       "projectUrl": "yieldyak.com/avalanche/yield/0x8889Da43CeE581068C695A2c256Ba2D514608F4A/",
       "tags": [
         "DeFi"
@@ -86,8 +86,8 @@
       "id": "yield_yak_daily_swaps",
       "frequency": "daily",
       "description": "Use Yak Swap",
-      "featuredImgUrl": "https://storage.googleapis.com/yak/dapp-images/swap-magic-avalanche.jpeg",
-      "bannerImgUrl": "https://storage.googleapis.com/yak/dapp-images/swap-magic-avalanche.jpeg",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmabVFKrpVm7tZ43bqp8rxrhmbHno6vfxhr6amPeU7ZFc1",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPwhu4sRt5LA5f6BAGWt2yhC8sbvpJ8uUvDNXCr535myi",
       "projectUrl": "yieldyak.com/swap",
       "tags": [
         "DeFi"
@@ -179,8 +179,8 @@
       "name": "YIELD YAK DAILY DEPOSIT",
       "id": "yield_yak_daily_deposit_mission",
       "description": "Make a daily deposit on Yield Yak",
-      "featuredImgUrl": "https://storage.googleapis.com/yak/dapp-images/swap-magic-avalanche.jpeg",
-      "bannerImgUrl": "https://storage.googleapis.com/yak/dapp-images/swap-magic-avalanche.jpeg",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmabVFKrpVm7tZ43bqp8rxrhmbHno6vfxhr6amPeU7ZFc1",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPwhu4sRt5LA5f6BAGWt2yhC8sbvpJ8uUvDNXCr535myi",
       "projectUrl": "yieldyak.com/avalanche/yield/0x8889Da43CeE581068C695A2c256Ba2D514608F4A/",
       "tags": [
         "DeFi"

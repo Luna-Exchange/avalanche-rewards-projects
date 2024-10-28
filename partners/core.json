@@ -8,8 +8,8 @@
       "description": "Be a validator on any project",
       "id": "avalanche_core_validator_missions",
       "frequency": "one_time",
-      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmWBtZQymLyAehhEJb1YYNwXZx7ydYegRLdxJojpGrEKAq",
-      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme6R5rjg3rVfoTu53Wtrjq6HjVdFWzjfKz3NVWtz4HCcv",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmULxrQsay3oPqfAbE4TZJP2TWqnNQWpZdjT1mVfSYpynB",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmQXEiKzNYxtJx4Amr4VyPh3UPipdaxoBF7mzPkfGxvg3f",
       "tags": ["DeFi"],
       "quests": [
         {
@@ -45,8 +45,8 @@
       "description": "Be a validator on any project",
       "id": "avalanche_core_daily_validator_missions",
       "frequency": "daily",
-      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmWBtZQymLyAehhEJb1YYNwXZx7ydYegRLdxJojpGrEKAq",
-      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/Qme6R5rjg3rVfoTu53Wtrjq6HjVdFWzjfKz3NVWtz4HCcv",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmULxrQsay3oPqfAbE4TZJP2TWqnNQWpZdjT1mVfSYpynB",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmQXEiKzNYxtJx4Amr4VyPh3UPipdaxoBF7mzPkfGxvg3f",
       "tags": ["DeFi"],
       "quests": [
         {
