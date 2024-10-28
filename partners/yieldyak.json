@@ -163,7 +163,7 @@
               "type": "SWAP",
               "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
               "metadata": {
-                "threshold": 5000
+                "threshold": 10000
               },
               "method_id": "0x6bf2df86"
             }
