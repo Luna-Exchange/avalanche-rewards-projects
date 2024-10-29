@@ -4,11 +4,12 @@
   "imgUrl": "https://pbs.twimg.com/profile_images/1772244053326995456/XpthaJcx_400x400.jpg",
   "missions": [
     {
-      "name": "FWX LIQUIDITY PROVISION",
+      "name": "LIQUIDITY PROVISION",
       "id": "fwx_liquidity_provision_mission",
       "description": "Complete a Liquidity Provision and Leverage Trading on FWX",
       "featuredImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
       "bannerImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+      "projectUrl": "https://fwx.finance/",
       "tags": [
         "DeFi"
       ],
@@ -43,11 +44,12 @@
       }
     },
     {
-      "name": "FWX Leverage trading",
+      "name": "Leverage trading",
       "id": "fwx_leverage_trading_mission",
       "description": "Complete leverage Trading on FWX",
       "featuredImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
       "bannerImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+      "projectUrl": "https://fwx.finance/",
       "tags": [
         "DeFi"
       ],
@@ -82,12 +84,13 @@
       }
     },
     {
-      "name": "FWX LIQUIDITY PROVISION",
+      "name": "DAILY LIQUIDITY PROVISION",
       "id": "fwx_daily_liquidity_missions",
       "frequency": "daily",
       "description": "Complete a Liquidity Provision and Leverage Trading on FWX",
       "featuredImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
       "bannerImgUrl": "https://img5.pic.in.th/file/secure-sv1/mission1.jpg",
+      "projectUrl": "https://fwx.finance/",
       "tags": [
         "DeFi"
       ],

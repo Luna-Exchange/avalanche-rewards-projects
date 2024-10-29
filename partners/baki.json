@@ -7,8 +7,8 @@
       "name": "BAKI DEPOSITS",
       "id": "baki_deposit_missions",
       "description": "Mint zUSD at 150% overcolleterilzation ratio",
-      "featuredImgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fmintzusd.png?alt=media&token=09326437-cb15-4350-acc3-feb44128f52e",
-      "bannerImgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fmintzusd.png?alt=media&token=09326437-cb15-4350-acc3-feb44128f52e",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmZfZ5ruTh9AJWhUew7TFVn3Kebj13PhCvw7rTrRuRd79a",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmRzRH3NdrRNZqhrjm4JcyyWmkZp9dhjys6hpgZk4W8m3L",
       "projectUrl": "https://baki.exchange/",
       "tags": [
         "DeFi"
@@ -43,8 +43,8 @@
       "id": "the_baki_daily_mint_ztokens_missions",
       "frequency": "daily",
       "description": "Mint zUSD at 150% overcolleterilzation ratio",
-      "featuredImgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fmintzusd.png?alt=media&token=09326437-cb15-4350-acc3-feb44128f52e",
-      "bannerImgUrl": "https://firebasestorage.googleapis.com/v0/b/canza-2794a.appspot.com/o/logos%2Fmintzusd.png?alt=media&token=09326437-cb15-4350-acc3-feb44128f52e",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmZfZ5ruTh9AJWhUew7TFVn3Kebj13PhCvw7rTrRuRd79a",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmRzRH3NdrRNZqhrjm4JcyyWmkZp9dhjys6hpgZk4W8m3L",
       "projectUrl": "https://baki.exchange/",
       "tags": [
         "DeFi"
