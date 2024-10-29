@@ -4,12 +4,16 @@
   "imgUrl": "https://cdn.salvor.io/sitev3/images/SALVORLOGO3.png",
   "missions": [
     {
-      "name": "Salvor Missions",
-      "description": "Borrow AVAX against your NFTs and tokens, buy NFTs and stake your ART tokens and The Salvors NFTs to earn a share of the protocol revenue.",
-      "imgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
-      "projectUrl": "https://salvor.io",
-      "tags": ["NFT", "DeFi"],
+      "name": "Borrow AVAX against your meme coins or tokens",
+      "id": "salvor_borrow_against_meme_coins",
+      "description": "Borrow against your meme coins or tokens",
+      "featuredImgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
+      "bannerImgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
+      "projectUrl": "https://salvor.io/",
       "total_points_reward": 100,
+      "tags": [
+        "DeFi"
+      ],
       "quests": [
         {
           "name": "Borrow AVAX",
@@ -31,7 +35,25 @@
               "method_id": "0x87008a19"
             }
           ]
-        },
+        }
+      ],
+      "badge": {
+        "name": "Meme coin salvorian",
+        "description": "For those diving deep into the meme coin lending/borrowing on Avalanche."
+      }
+    },
+    {
+      "name": "Borrow AVAX against your NFTs",
+      "id": "salvor_borrow_against_nfts",
+      "description": "Borrow AVAX against your NFTs",
+      "featuredImgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
+      "bannerImgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
+      "projectUrl": "https://salvor.io/",
+      "total_points_reward": 100,
+      "tags": [
+        "DeFi", "NFT"
+      ],
+      "quests": [
         {
           "name": "Borrow AVAX against your NFTs",
           "description": "Borrow funds against your NFT on Salvor",
@@ -52,7 +74,25 @@
               "method_id": "0x870e4c55"
             }
           ]
-        },
+        }
+      ],
+      "badge": {
+        "name": "NFT salvorian",
+        "description": "For those diving deep into the NFT lending/borrowing on Avalanche."
+      }
+    },
+    {
+      "name": "Buy an NFT ",
+      "id": "salvor_buy_nfts",
+      "description": "Buy an NFT ",
+      "featuredImgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
+      "bannerImgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
+      "projectUrl": "https://salvor.io/",
+      "total_points_reward": 100,
+      "tags": [
+        "DeFi", "NFT"
+      ],
+      "quests": [
         {
           "name": "Buy NFT",
           "description": "Buy an NFT",
@@ -73,7 +113,25 @@
               "method_id": "0x8c20729a"
             }
           ]
-        },
+        }
+      ],
+      "badge": {
+        "name": "NFT salvorian",
+        "description": "For those diving deep into the NFT buying on Avalanche."
+      }
+    },
+    {
+      "name": "Stake your art",
+      "id": "salvor_stake_arts",
+      "description": "Stake your ART and The Salvor NFTs in Salvor to earn a share of the protocol revenue.",
+      "featuredImgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
+      "bannerImgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
+      "projectUrl": "https://salvor.io/",
+      "total_points_reward": 100,
+      "tags": [
+        "DeFi", "NFT"
+      ],
+      "quests": [
         {
           "name": "Stake",
           "description": "Stake your ART and The Salvor NFTs in Salvor to earn a share of the protocol revenue.",
@@ -104,9 +162,8 @@
         }
       ],
       "badge": {
-        "name": "Salvorian",
-        "description": "For those diving deep into the NFT marketplace, using P2P NFT and meme coin lending/borrowing on Avalanche.",
-        "imgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png"
+        "name": "Staking salvorian",
+        "description": "For those diving deep into the staking on Avalanche."
       }
     }
   ]
