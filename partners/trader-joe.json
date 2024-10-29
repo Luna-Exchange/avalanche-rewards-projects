@@ -8,11 +8,12 @@
       "name": "JOE Token Swap",
       "description": "Perform a Swap: Buy Joe Tokens",
       "id": "lfj_swap_token",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
       "tags": [
         "DeFi"
       ],
+      "projectUrl": "https://lfj.gg/avalanche",
       "total_points_reward": 80,
       "badge": {
         "name": "A True Joe Bro",
@@ -57,8 +58,9 @@
       "name": "Stake JOE Token",
       "description": "Experience the best of LFJ",
       "id": "lfj_stake_joe",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche",
       "tags": [
         "DeFi"
       ],
@@ -93,12 +95,13 @@
       ]
     },
     {
-      "name": "LFJ daily swaps",
+      "name": "Daily swaps",
       "description": "LFJ daily swaps",
       "id": "lfj_daily_swaps_mission",
       "frequency": "daily",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche",
       "tags": [
         "DeFi"
       ],
@@ -212,12 +215,13 @@
       ]
     },
     {
-      "name": "LFJ daily stakes",
-      "description": "LFJ daily stakes",
+      "name": "Daily stakes",
+      "description": "Daily stakes",
       "id": "lfj_daily_stakes_mission",
       "frequency": "daily",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche",
       "tags": [
         "DeFi"
       ],
@@ -301,12 +305,13 @@
       ]
     },
     {
-      "name": "LFJ Maintain balance in the AUSD - USDC pool",
+      "name": "Maintain balance in the AUSD - USDC pool",
       "description": "LFJ Maintain balance in the AUSD - USDC pool",
       "id": "lfj_daily_maintain_ausd_usdc_mission",
       "frequency": "daily",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche",
       "tags": [
         "DeFi"
       ],
@@ -402,12 +407,13 @@
       ]
     },
     {
-      "name": "LFJ Maintain balance in the AUSD - USDT pool",
-      "description": "LFJ Maintain balance in the AUSD - USDT pool",
+      "name": "Maintain balance in the AUSD - USDT pool",
+      "description": "Maintain balance in the AUSD - USDT pool",
       "id": "lfj_daily_maintain_ausd_usdt_mission",
       "frequency": "daily",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche",
       "tags": [
         "DeFi"
       ],
@@ -503,12 +509,13 @@
       ]
     },
     {
-      "name": "LFJ Maintain balance in the GGAVAX - AVAX pool",
-      "description": "LFJ Maintain balance in the GGAVAX - AVAX pool",
+      "name": "Maintain balance in the GGAVAX - AVAX pool",
+      "description": "Maintain balance in the GGAVAX - AVAX pool",
       "id": "lfj_daily_maintain_ggavax_avax_mission",
       "frequency": "daily",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche",
       "tags": [
         "DeFi"
       ],
@@ -604,12 +611,13 @@
       ]
     },
     {
-      "name": "LFJ Maintain balance in the SAVAX - AVAX pool",
+      "name": "Maintain balance in the SAVAX - AVAX pool",
       "description": "LFJ Maintain balance in the SAVAX - AVAX pool",
       "id": "lfj_daily_maintain_savax_avax_mission",
       "frequency": "daily",
-      "featuredImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
-      "bannerImgUrl": "https://i.imghippo.com/files/C6eSH1725012265.png",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche",
       "tags": [
         "DeFi"
       ],
