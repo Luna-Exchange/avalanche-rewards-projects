@@ -269,7 +269,7 @@
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 175,
+      "total_points_reward": 150,
       "quests": [
         {
           "name": "LP Provider: Provide at least $2,500 to Trader Joe Pool",
@@ -346,6 +346,50 @@
             }
           ]
         },
+        {
+          "name": "Mint at least 50sAVAX",
+          "description": "Mint at least 50sAVAX form our platform",
+          "category": "DeFi",
+          "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Mint at least 50sAVAX",
+              "description": "Mint at least 50sAVAX from our platform",
+              "type": "MINT",
+              "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+              "method_id": "0xa3c7271a",
+              "metadata": {
+                "threshold": 50
+              }
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Stable jack ",
+        "description": "This certifies that I completed Stable Jack's Mission"
+      }
+    },
+    {
+      "name": "Mint Savax",
+      "id": "mint_savax_stable_jack_lp_mint_daily_missions",
+      "frequency": "daily",
+      "description": "Mint sAVAX Daily",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmTYwBmRjAD2q6cCHPUfM3MUQMbbT2LucHEhNwTWtYVZmz",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmdEjn1LBFHVvYjWa4sn8SPGvoknddiMyMKZ6kUoqRnJJM",
+      "projectUrl": "https://app.stablejack.xyz/",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 25,
+      "quests": [
         {
           "name": "Mint at least 50sAVAX",
           "description": "Mint at least 50sAVAX form our platform",
