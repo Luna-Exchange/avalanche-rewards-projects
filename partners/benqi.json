@@ -412,6 +412,96 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Benqi daily stakes (tests)",
+      "id": "benqi_daily_missions_stake_test",
+      "frequency": "daily",
+      "description": "Benqi is a DeFi and Web3 protocol that offers lending, borrowing and liquid staking services",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
+      "projectUrl": "https://benqi.fi",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "AVAX Power: Stake at least $25",
+          "description": "Stake at least $25 in AVAX for sAVAX",
+          "category": "DeFi",
+          "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "AVAX Power: Stake at least $25",
+              "description": "Stake at least $25 in AVAX for sAVAX",
+              "type": "MINT",
+              "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+              "metadata": {
+                "threshold": 25
+              },
+              "method_id": "0x5bcb2fc6"
+            }
+          ]
+        },
+        {
+          "name": "AVAX Power: Stake at least $50",
+          "description": "Stake at least $50 in AVAX for sAVAX",
+          "category": "DeFi",
+          "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "AVAX Power: Stake at least $50",
+              "description": "Stake at least $50 in AVAX for sAVAX",
+              "type": "MINT",
+              "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+              "metadata": {
+                "threshold": 50
+              },
+              "method_id": "0x5bcb2fc6"
+            }
+          ]
+        },
+        {
+          "name": "AVAX Power: Stake at least $100",
+          "description": "Stake at least $100 in AVAX for sAVAX",
+          "category": "DeFi",
+          "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 75
+            }
+          ],
+          "tasks": [
+            {
+              "name": "AVAX Power: Stake at least $100",
+              "description": "Stake at least $100 in AVAX for sAVAX",
+              "type": "MINT",
+              "contract_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+              "metadata": {
+                "threshold": 100
+              },
+              "method_id": "0x5bcb2fc6"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
