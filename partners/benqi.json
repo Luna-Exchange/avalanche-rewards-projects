@@ -170,8 +170,8 @@
           ],
           "tasks": [
             {
-              "name": "AVAX Boost: Deposit at Least $1,000",
-              "description": "Deposit at least $1,000 in AVAX or sAVAX",
+              "name": "AVAX Boost: Deposit at Least $2,500",
+              "description": "Deposit at least $2,500 in AVAX or sAVAX",
               "type": "MINT",
               "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
               "metadata": {
@@ -195,8 +195,8 @@
           ],
           "tasks": [
             {
-              "name": "AVAX Boost: Deposit at Least $3,000",
-              "description": "Deposit at least $3,000 in AVAX or sAVAX",
+              "name": "AVAX Boost: Deposit at Least $5,000",
+              "description": "Deposit at least $5,000 in AVAX or sAVAX",
               "type": "MINT",
               "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
               "metadata": {
@@ -220,12 +220,102 @@
           ],
           "tasks": [
             {
-              "name": "AVAX Boost: Deposit at Least $5,000",
-              "description": "Deposit at least $5,000 in AVAX or sAVAX",
+              "name": "AVAX Boost: Deposit at Least $10,000",
+              "description": "Deposit at least $10,000 in AVAX or sAVAX",
               "type": "MINT",
               "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
               "metadata": {
                 "threshold": 10000
+              },
+              "method_id": "0xa0712d68"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Benqi daily deposits (tests)",
+      "id": "benqi_daily_missions_deposit_test",
+      "frequency": "daily",
+      "description": "Benqi is a DeFi and Web3 protocol that offers lending, borrowing and liquid staking services",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
+      "projectUrl": "https://benqi.fi",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "AVAX Boost: Deposit at Least $25",
+          "description": "Deposit at least $25 in AVAX or sAVAX",
+          "category": "DeFi",
+          "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "AVAX Boost: Deposit at Least $25",
+              "description": "Deposit at least $25 in AVAX or sAVAX",
+              "type": "MINT",
+              "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+              "metadata": {
+                "threshold": 25
+              },
+              "method_id": "0xa0712d68"
+            }
+          ]
+        },
+        {
+          "name": "AVAX Boost: Deposit at Least $50",
+          "description": "Deposit at least $50 in AVAX or sAVAX",
+          "category": "DeFi",
+          "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "AVAX Boost: Deposit at Least $50",
+              "description": "Deposit at least $50 in AVAX or sAVAX",
+              "type": "MINT",
+              "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+              "metadata": {
+                "threshold": 50
+              },
+              "method_id": "0xa0712d68"
+            }
+          ]
+        },
+        {
+          "name": "AVAX Boost: Deposit at Least $100",
+          "description": "Deposit at least $100 in AVAX or sAVAX",
+          "category": "DeFi",
+          "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 75
+            }
+          ],
+          "tasks": [
+            {
+              "name": "AVAX Boost: Deposit at Least $100",
+              "description": "Deposit at least $100 in AVAX or sAVAX",
+              "type": "MINT",
+              "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+              "metadata": {
+                "threshold": 100
               },
               "method_id": "0xa0712d68"
             }
