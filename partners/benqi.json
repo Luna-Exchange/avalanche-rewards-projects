@@ -80,6 +80,7 @@
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
       "projectUrl": "https://benqi.fi",
+      "frequency": "daily",
       "tags": [
         "DeFi"
       ],
@@ -90,6 +91,7 @@
           "description": "SAVAX Boost: Deposit at Least $2,500 sAVAX",
           "category": "DeFi",
           "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
@@ -114,6 +116,7 @@
           "description": "SAVAX Boost: Deposit at Least $5,000 sAVAX",
           "category": "DeFi",
           "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
@@ -138,6 +141,7 @@
           "description": "SAVAX Boost: Deposit at Least $10,000 sAVAX",
           "category": "DeFi",
           "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
@@ -165,6 +169,7 @@
       "description": "Deposit sAVAX",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
+      "frequency": "daily",
       "projectUrl": "https://benqi.fi",
       "tags": [
         "DeFi"
@@ -176,6 +181,7 @@
           "description": "SAVAX Boost: Deposit at Least $2,500 sAVAX",
           "category": "DeFi",
           "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
@@ -200,6 +206,7 @@
           "description": "SAVAX Boost: Deposit at Least $50 sAVAX",
           "category": "DeFi",
           "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
@@ -224,6 +231,7 @@
           "description": "SAVAX Boost: Deposit at Least $100 sAVAX",
           "category": "DeFi",
           "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
@@ -252,6 +260,7 @@
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
       "projectUrl": "https://benqi.fi",
+      "frequency": "daily",
       "tags": [
         "DeFi"
       ],
@@ -262,6 +271,7 @@
           "description": "AVAX Boost: Deposit at Least $2,500 AVAX",
           "category": "DeFi",
           "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
@@ -286,6 +296,7 @@
           "description": "AVAX Boost: Deposit at Least $5,000 AVAX",
           "category": "DeFi",
           "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
@@ -310,6 +321,7 @@
           "description": "AVAX Boost: Deposit at Least $10,000 AVAX",
           "category": "DeFi",
           "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
@@ -338,6 +350,7 @@
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
       "projectUrl": "https://benqi.fi",
+      "frequency": "daily",
       "tags": [
         "DeFi"
       ],
@@ -348,6 +361,7 @@
           "description": "AVAX Boost: Deposit at Least $25 AVAX",
           "category": "DeFi",
           "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
@@ -372,6 +386,7 @@
           "description": "AVAX Boost: Deposit at Least $50 AVAX",
           "category": "DeFi",
           "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
@@ -396,6 +411,7 @@
           "description": "AVAX Boost: Deposit at Least $100 AVAX",
           "category": "DeFi",
           "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+          "frequency": "daily",
           "rewards": [
             {
               "type": "points",
