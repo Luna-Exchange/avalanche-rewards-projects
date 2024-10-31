@@ -962,6 +962,7 @@
               "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
               "method_id": "0x474cf53d",
               "metadata": {
+                "isNotNativeToken": true,
                 "threshold": 2500
               }
             }
@@ -987,6 +988,7 @@
               "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
               "method_id": "0x474cf53d",
               "metadata": {
+                "isNotNativeToken": true,
                 "threshold": 5000
               }
             }
@@ -1012,6 +1014,7 @@
               "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
               "method_id": "0x474cf53d",
               "metadata": {
+                "isNotNativeToken": true,
                 "threshold": 10000
               }
             }
