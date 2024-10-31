@@ -254,9 +254,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $5000 worth of AVAX in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $10,000 worth of AVAX in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $5000 worth of AVAX in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $10,000 worth of AVAX in Avalanche Lending pool",
               "contract_address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
               "method_id": "",
               "metadata": {
@@ -350,9 +350,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $5000 worth of sAVAX in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $10,000 worth of sAVAX in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $5000 worth of sAVAX in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $10,000 worth of sAVAX in Avalanche Lending pool",
               "contract_address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
               "method_id": "",
               "metadata": {
@@ -379,8 +379,8 @@
       "total_points_reward": 150,
       "quests": [
         {
-          "name": "Maintain a balance of more than $2500 worth of BTC.B in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $2500 worth of BTC.B in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $2,500 worth of BTC.B in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $2,500 worth of BTC.B in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x8ffDf2DE812095b1D19CB146E4c004587C0A0692",
@@ -392,9 +392,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $2500 worth of BTC.B in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $2,500 worth of BTC.B in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $2500 worth of BTC.B in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $2,500 worth of BTC.B in Avalanche Lending pool",
               "contract_address": "0x8ffDf2DE812095b1D19CB146E4c004587C0A0692",
               "method_id": "",
               "metadata": {
@@ -406,8 +406,8 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $5000 worth of BTC.B in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $5000 worth of BTC.B in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $5,000 worth of BTC.B in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $5,000 worth of BTC.B in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x8ffDf2DE812095b1D19CB146E4c004587C0A0692",
@@ -419,9 +419,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $5000 worth of BTC.B in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $5,000 worth of BTC.B in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $5000 worth of BTC.B in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $5,000 worth of BTC.B in Avalanche Lending pool",
               "contract_address": "0x8ffDf2DE812095b1D19CB146E4c004587C0A0692",
               "method_id": "",
               "metadata": {
@@ -433,8 +433,8 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $10000 worth of BTC.B in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $10000 worth of BTC.B in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $10,000 worth of BTC.B in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $10,000 worth of BTC.B in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x8ffDf2DE812095b1D19CB146E4c004587C0A0692",
@@ -446,9 +446,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $5000 worth of BTC.B in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $10,000 worth of BTC.B in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $5000 worth of BTC.B in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $10,000 worth of BTC.B in Avalanche Lending pool",
               "contract_address": "0x8ffDf2DE812095b1D19CB146E4c004587C0A0692",
               "method_id": "",
               "metadata": {
@@ -542,9 +542,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $5000 worth of USDC in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $10,000 worth of USDC in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $5000 worth of USDC in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $10,000 worth of USDC in Avalanche Lending pool",
               "contract_address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
               "method_id": "",
               "metadata": {
@@ -598,8 +598,8 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $5000 worth of USDT in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $5000 worth of USDT in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $5,000 worth of USDT in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $5,000 worth of USDT in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
@@ -611,9 +611,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $5000 worth of USDT in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $5,000 worth of USDT in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $5000 worth of USDT in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $50,00 worth of USDT in Avalanche Lending pool",
               "contract_address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
               "method_id": "",
               "metadata": {
@@ -625,8 +625,8 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $10000 worth of USDT in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $10000 worth of USDT in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $10,000 worth of USDT in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $10,000 worth of USDT in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
@@ -638,9 +638,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $5000 worth of USDT in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $10,000 worth of USDT in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $5000 worth of USDT in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $10,000 worth of USDT in Avalanche Lending pool",
               "contract_address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
               "method_id": "",
               "metadata": {
@@ -872,7 +872,8 @@
               "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
               "method_id": "0xe74f7b85",
               "metadata": {
-                "threshold": 2500
+                "threshold": 2500,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -893,11 +894,12 @@
             {
               "name": "Borrow Asset",
               "type": "BORROW",
-              "description": "Borrow Asset: Borrow more than $5,000 in one transaction on the avalanche network",
+              "description": "Borrow Asset: Borrow more than $5,000 worth of AVAX in one transaction on the avalanche network",
               "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
               "method_id": "0xe74f7b85",
               "metadata": {
-                "threshold": 5000
+                "threshold": 5000,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -922,7 +924,8 @@
               "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
               "method_id": "0xe74f7b85",
               "metadata": {
-                "threshold": 10000
+                "threshold": 10000,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -962,7 +965,6 @@
               "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
               "method_id": "0x474cf53d",
               "metadata": {
-                "isNotNativeToken": true,
                 "threshold": 2500
               }
             }
@@ -984,11 +986,10 @@
             {
               "name": "Supply Asset",
               "type": "SUPPLY",
-              "description": "Supply Asset: Supply more than $5,000 in one transaction on the avalanche network",
+              "description": "Supply Asset: Lend more than $5,000 worth of AVAX in one transaction",
               "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
               "method_id": "0x474cf53d",
               "metadata": {
-                "isNotNativeToken": true,
                 "threshold": 5000
               }
             }
@@ -1014,7 +1015,6 @@
               "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
               "method_id": "0x474cf53d",
               "metadata": {
-                "isNotNativeToken": true,
                 "threshold": 10000
               }
             }
