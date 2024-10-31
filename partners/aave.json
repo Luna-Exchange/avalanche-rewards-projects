@@ -664,79 +664,183 @@
         "DeFi"
       ],
       "frequency": "daily",
-      "total_points_reward": 100,
+      "total_points_reward": 150,
       "quests": [
         {
           "name": "Supply Asset",
-          "description": "Supply Asset: Deposit an asset to Aave on the Avalanche network.",
+          "description": "Supply Asset: Supply more than $2500 in one transaction on the avalanche network",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
           "rewards": [
             {
               "type": "points",
-              "value": 100
+              "value": 25
             }
           ],
           "tasks": [
             {
-              "name": "Deposit Asset",
+              "name": "Supply Asset",
               "type": "STAKE",
-              "description": "Deposit an asset to Aave and start earning interest.",
+              "description": "Supply Asset: Supply more than $2500 in one transaction on the avalanche network",
               "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
               "method_id": "0x617ba037",
               "metadata": {
-                "isNotNativeToken": true
+                "isNotNativeToken": true,
+                "threshold": 2500
+              }
+            }
+          ]
+        },
+        {
+          "name": "Supply Asset",
+          "description": "Supply Asset: Supply more than $5000 in one transaction on the avalanche network",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Supply Asset",
+              "type": "STAKE",
+              "description": "Supply Asset: Supply more than $5000 in one transaction on the avalanche network",
+              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+              "method_id": "0x617ba037",
+              "metadata": {
+                "isNotNativeToken": true,
+                "threshold": 5000
+              }
+            }
+          ]
+        },
+        {
+          "name": "Supply Asset",
+          "description": "Supply Asset: Supply more than $10000 in one transaction on the avalanche network",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 70
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Supply Asset",
+              "type": "STAKE",
+              "description": "Supply Asset: Supply more than $10000 in one transaction on the avalanche network",
+              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+              "method_id": "0x617ba037",
+              "metadata": {
+                "isNotNativeToken": true,
+                "threshold": 10000
               }
             }
           ]
         }
       ]
     },
+
+
+
     {
       "name": "AAVE DAILY BORROW ASSET",
-      "id": "aave_daily_borrow_asset",
-      "description": "Borrow Asset: Borrow an asset from Aave on the Avalanche network.",
+      "id": "aave_borrow_daily_asset",
+      "description": "Borrow Asset: Borrow an asset to Aave on the Avalanche network.",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "projectUrl": "https://aave.com/",
-      "frequency":"daily",
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 100,
+      "frequency": "daily",
+      "total_points_reward": 150,
       "quests": [
         {
           "name": "Borrow Asset",
-          "description": "Borrow an asset from Aave on the Avalanche network.",
+          "description": "Borrow Asset: Borrow more than $2500 in one transaction on the avalanche network",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
           "rewards": [
             {
               "type": "points",
-              "value": 100
+              "value": 25
             }
           ],
           "tasks": [
             {
               "name": "Borrow Asset",
               "type": "BORROW",
-              "description": "Borrow an asset using Aave's lending protocol.",
+              "description": "Borrow Asset: Borrow more than $2500 in one transaction on the avalanche network",
               "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
               "method_id": "0xa415bcad",
               "metadata": {
-                "isNotNativeToken": true
+                "isNotNativeToken": true,
+                "threshold": 2500
+              }
+            }
+          ]
+        },
+        {
+          "name": "Borrow Asset",
+          "description": "Borrow Asset: Borrow more than $5000 in one transaction on the avalanche network",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Borrow Asset",
+              "type": "BORROW",
+              "description": "Borrow Asset: Borrow more than $5000 in one transaction on the avalanche network",
+              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+              "method_id": "0xa415bcad",
+              "metadata": {
+                "isNotNativeToken": true,
+                "threshold": 5000
+              }
+            }
+          ]
+        },
+        {
+          "name": "Borrow Asset",
+          "description": "Borrow Asset: Borrow more than $10000 in one transaction on the avalanche network",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 70
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Borrow Asset",
+              "type": "BORROW",
+              "description": "Borrow Asset: Borrow more than $10000 in one transaction on the avalanche network",
+              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+              "method_id": "0xa415bcad",
+              "metadata": {
+                "isNotNativeToken": true,
+                "threshold": 10000
               }
             }
           ]
         }
-      ],
-      "badge": {
-        "name": "Aave Borrow Champion",
-        "description": "Awarded for borrowing assets on Aave via the Avalanche network.",
-        "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/ronnie-pfp-2.svg"
-      }
+      ]
     }
   ]
 }
