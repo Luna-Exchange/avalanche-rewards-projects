@@ -550,7 +550,8 @@
               "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
               "method_id": "0xa0712d68",
               "metadata": {
-                "threshold": 2500
+                "threshold": 2500,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -575,7 +576,8 @@
               "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
               "method_id": "0xa0712d68",
               "metadata": {
-                "threshold": 5000
+                "threshold": 5000,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -600,7 +602,8 @@
               "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
               "method_id": "0xa0712d68",
               "metadata": {
-                "threshold": 10000
+                "threshold": 10000,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -640,7 +643,8 @@
               "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
               "method_id": "0xa0712d68",
               "metadata": {
-                "threshold": 25
+                "threshold": 25,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -665,7 +669,8 @@
               "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
               "method_id": "0xa0712d68",
               "metadata": {
-                "threshold": 50
+                "threshold": 50,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -690,7 +695,8 @@
               "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
               "method_id": "0xa0712d68",
               "metadata": {
-                "threshold": 100
+                "threshold": 100,
+                "isNotNativeToken": true
               }
             }
           ]
