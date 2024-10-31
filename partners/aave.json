@@ -746,9 +746,6 @@
         }
       ]
     },
-
-
-
     {
       "name": "AAVE DAILY BORROW ASSET",
       "id": "aave_borrow_daily_asset",
