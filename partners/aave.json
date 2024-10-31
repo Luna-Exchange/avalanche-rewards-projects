@@ -761,7 +761,7 @@
       "quests": [
         {
           "name": "Borrow Asset",
-          "description": "Borrow Asset: Borrow more than $2500 in one transaction on the avalanche network",
+          "description": "Borrow Asset: Borrow more than $2,500 in one transaction on the avalanche network",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
@@ -775,7 +775,7 @@
             {
               "name": "Borrow Asset",
               "type": "BORROW",
-              "description": "Borrow Asset: Borrow more than $2500 in one transaction on the avalanche network",
+              "description": "Borrow Asset: Borrow more than $2,500 in one transaction on the avalanche network",
               "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
               "method_id": "0xa415bcad",
               "metadata": {
@@ -787,7 +787,7 @@
         },
         {
           "name": "Borrow Asset",
-          "description": "Borrow Asset: Borrow more than $5000 in one transaction on the avalanche network",
+          "description": "Borrow Asset: Borrow more than $5,000 in one transaction on the avalanche network",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
@@ -801,7 +801,7 @@
             {
               "name": "Borrow Asset",
               "type": "BORROW",
-              "description": "Borrow Asset: Borrow more than $5000 in one transaction on the avalanche network",
+              "description": "Borrow Asset: Borrow more than $5,000 in one transaction on the avalanche network",
               "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
               "method_id": "0xa415bcad",
               "metadata": {
@@ -813,7 +813,7 @@
         },
         {
           "name": "Borrow Asset",
-          "description": "Borrow Asset: Borrow more than $10000 in one transaction on the avalanche network",
+          "description": "Borrow Asset: Borrow more than $10,000 in one transaction on the avalanche network",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
@@ -827,7 +827,7 @@
             {
               "name": "Borrow Asset",
               "type": "BORROW",
-              "description": "Borrow Asset: Borrow more than $10000 in one transaction on the avalanche network",
+              "description": "Borrow Asset: Borrow more than $10,000 in one transaction on the avalanche network",
               "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
               "method_id": "0xa415bcad",
               "metadata": {
