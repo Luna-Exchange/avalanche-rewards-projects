@@ -94,7 +94,6 @@
         }
       ]
     },
-
     {
       "name": "Daily swaps (AVAX)",
       "description": "LFJ daily swaps (AVAX)",
@@ -338,7 +337,6 @@
         }
       ]
     },
-
     {
       "name": "Daily stakes",
       "description": "Daily stakes",
@@ -372,7 +370,8 @@
               "contract_address": "0x1a731B2299E22FbAC282E7094EdA41046343Cb51",
               "method_id": "0xb6b55f25",
               "metadata": {
-                "threshold": 2500
+                "threshold": 2500,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -397,7 +396,8 @@
               "contract_address": "0x1a731B2299E22FbAC282E7094EdA41046343Cb51",
               "method_id": "0xb6b55f25",
               "metadata": {
-                "threshold": 5000
+                "threshold": 5000,
+                "isNotNativeToken": true
               }
             }
           ]
@@ -422,7 +422,8 @@
               "contract_address": "0x1a731B2299E22FbAC282E7094EdA41046343Cb51",
               "method_id": "0xb6b55f25",
               "metadata": {
-                "threshold": 10000
+                "threshold": 10000,
+                "isNotNativeToken": true
               }
             }
           ]
