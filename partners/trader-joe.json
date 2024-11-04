@@ -94,6 +94,7 @@
         }
       ]
     },
+
     {
       "name": "Daily swaps (AVAX)",
       "description": "LFJ daily swaps (AVAX)",
@@ -337,6 +338,7 @@
         }
       ]
     },
+
     {
       "name": "Daily stakes",
       "description": "Daily stakes",
@@ -427,6 +429,7 @@
         }
       ]
     },
+
     {
       "name": "Maintain balance in the AUSD - USDC pool",
       "description": "LFJ Maintain balance in the AUSD - USDC pool",
