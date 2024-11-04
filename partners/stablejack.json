@@ -407,7 +407,7 @@
               "name": "Mint at least 50 xAVAX",
               "description": "Mint at least 50 xAVAX from our platform",
               "type": "MINT",
-              "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+              "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
               "method_id": "0xa3c7271a",
               "metadata": {
                 "threshold": 50
