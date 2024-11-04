@@ -110,7 +110,7 @@
       "quests": [
         {
           "name": "Swap JOE Tokens",
-          "description": "Swap at least $2,500 worth of JOE Tokens",
+          "description": "Swap at least $2,500 worth of JOE Tokens using AVAX",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -123,7 +123,7 @@
           "tasks": [
             {
               "name": "Swap JOE Tokens",
-              "description": "Swap at least $2,500 worth of JOE Tokens",
+              "description": "Swap at least $2,500 worth of JOE Tokens using AVAX",
               "type": "SWAP",
               "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
               "method_ids": [
@@ -145,7 +145,7 @@
         },
         {
           "name": "Swap JOE Tokens",
-          "description": "Swap at least $5,000 worth of JOE Tokens",
+          "description": "Swap at least $5,000 worth of JOE Tokens using AVAX",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -158,7 +158,7 @@
           "tasks": [
             {
               "name": "Swap JOE Tokens",
-              "description": "Swap at least $5,000 worth of JOE Tokens",
+              "description": "Swap at least $5,000 worth of JOE Tokens using AVAX",
               "type": "SWAP",
               "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
               "method_ids": [
@@ -180,7 +180,7 @@
         },
         {
           "name": "Swap JOE Tokens",
-          "description": "Swap at least $10,000 worth of JOE Tokens",
+          "description": "Swap at least $10,000 worth of JOE Tokens using AVAX",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -193,7 +193,7 @@
           "tasks": [
             {
               "name": "Swap JOE Tokens",
-              "description": "Swap at least $10,000 worth of JOE Tokens",
+              "description": "Swap at least $10,000 worth of JOE Tokens using AVAX",
               "type": "SWAP",
               "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
               "method_ids": [
@@ -230,7 +230,7 @@
       "quests": [
         {
           "name": "Swap JOE Tokens",
-          "description": "Swap at least $2,500 worth of JOE Tokens",
+          "description": "Swap at least $2,500 worth of JOE Tokens using a non-native token (not AVAX)",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -243,7 +243,7 @@
           "tasks": [
             {
               "name": "Swap JOE Tokens",
-              "description": "Swap at least $2,500 worth of JOE Tokens",
+              "description": "Swap at least $2,500 worth of JOE Tokens using a non-native token (not AVAX)",
               "type": "SWAP",
               "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
               "method_ids": [
@@ -266,7 +266,7 @@
         },
         {
           "name": "Swap JOE Tokens",
-          "description": "Swap at least $5,000 worth of JOE Tokens",
+          "description": "Swap at least $5,000 worth of JOE Tokens using a non-native token (not AVAX)",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -279,7 +279,7 @@
           "tasks": [
             {
               "name": "Swap JOE Tokens",
-              "description": "Swap at least $5,000 worth of JOE Tokens",
+              "description": "Swap at least $5,000 worth of JOE Tokens using a non-native token (not AVAX)",
               "type": "SWAP",
               "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
               "method_ids": [
@@ -302,7 +302,7 @@
         },
         {
           "name": "Swap JOE Tokens",
-          "description": "Swap at least $10,000 worth of JOE Tokens",
+          "description": "Swap at least $10,000 worth of JOE Tokens using a non-native token (not AVAX)",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -315,7 +315,7 @@
           "tasks": [
             {
               "name": "Swap JOE Tokens",
-              "description": "Swap at least $10,000 worth of JOE Tokens",
+              "description": "Swap at least $10,000 worth of JOE Tokens using a non-native token (not AVAX)",
               "type": "SWAP",
               "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
               "method_ids": [
