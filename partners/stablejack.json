@@ -379,7 +379,7 @@
     },
     {
       "name": "Mint xAVAX",
-      "id": "mint_savax_stable_jack_lp_mint_daily_missions",
+      "id": "mint_xavax_daily_missions",
       "frequency": "daily",
       "description": "Mint xAVAX Daily",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmTYwBmRjAD2q6cCHPUfM3MUQMbbT2LucHEhNwTWtYVZmz",
@@ -405,21 +405,19 @@
           "tasks": [
             {
               "name": "Mint at least 50 xAVAX",
-              "description": "Mint at least 50 xAVAX from our platform",
+              "description": "Mint at least 50 xAVAX from our platform in one transaction",
               "type": "MINT",
-              "contract_address": "0x013b34DBA0d6c9810F530534507144a8646E3273",
-              "method_id": "0xa3c7271a",
+              "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
+              "method_ids":["0xccb6379d","0xf48b8acb"] ,
               "metadata": {
-                "threshold": 50
+                "threshold": 50,
+                "checkFirstTransfer":true,
+                "isNotNativeToken":true
               }
             }
           ]
         }
-      ],
-      "badge": {
-        "name": "Stable jack ",
-        "description": "This certifies that I completed Stable Jack's Mission"
-      }
+      ]
     }
   ]
 }
