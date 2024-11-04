@@ -95,13 +95,13 @@
       ]
     },
     {
-      "name": "Daily swaps",
-      "description": "LFJ daily swaps",
-      "id": "lfj_daily_swaps_mission",
+      "name": "Daily swaps (AVAX)",
+      "description": "LFJ daily swaps (AVAX)",
+      "id": "lfj_daily_avax_swaps_mission",
       "frequency": "daily",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
-      "projectUrl": "https://lfj.gg/avalanche",
+      "projectUrl": "https://lfj.gg/avalanche/trade",
       "tags": [
         "DeFi"
       ],
@@ -208,6 +208,129 @@
               ],
               "metadata": {
                 "threshold": 10000
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Daily swaps (Not AVAX)",
+      "description": "LFJ daily swaps (Not AVAX)",
+      "id": "lfj_daily_not_avax_swaps_mission",
+      "frequency": "daily",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
+      "projectUrl": "https://lfj.gg/avalanche/trade",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Swap JOE Tokens",
+          "description": "Swap at least $2,500 worth of JOE Tokens",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Swap JOE Tokens",
+              "description": "Swap at least $2,500 worth of JOE Tokens",
+              "type": "SWAP",
+              "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+              "method_ids": [
+                "0xb066ea7c",
+                "0xe038e6dc",
+                "0x9ab6156b",
+                "0x1a24f9a9",
+                "0x2a443fae",
+                "0x4b801870",
+                "0x2075ad22",
+                "0x3dc8f8ec",
+                "0x92fe8e70"
+              ],
+              "metadata": {
+                "threshold": 2500,
+                "isNotNativeToken": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Swap JOE Tokens",
+          "description": "Swap at least $5,000 worth of JOE Tokens",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Swap JOE Tokens",
+              "description": "Swap at least $5,000 worth of JOE Tokens",
+              "type": "SWAP",
+              "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+              "method_ids": [
+                "0xb066ea7c",
+                "0xe038e6dc",
+                "0x9ab6156b",
+                "0x1a24f9a9",
+                "0x2a443fae",
+                "0x4b801870",
+                "0x2075ad22",
+                "0x3dc8f8ec",
+                "0x92fe8e70"
+              ],
+              "metadata": {
+                "threshold": 5000,
+                "isNotNativeToken": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "Swap JOE Tokens",
+          "description": "Swap at least $10,000 worth of JOE Tokens",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 75
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Swap JOE Tokens",
+              "description": "Swap at least $10,000 worth of JOE Tokens",
+              "type": "SWAP",
+              "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+              "method_ids": [
+                "0xb066ea7c",
+                "0xe038e6dc",
+                "0x9ab6156b",
+                "0x1a24f9a9",
+                "0x2a443fae",
+                "0x4b801870",
+                "0x2075ad22",
+                "0x3dc8f8ec",
+                "0x92fe8e70"
+              ],
+              "metadata": {
+                "threshold": 10000,
+                "isNotNativeToken": true
               }
             }
           ]
