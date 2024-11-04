@@ -348,7 +348,7 @@
         },
         {
           "name": "Mint at least 50 xAVAX",
-          "description": "Mint at least 50 xAVAX form our platform",
+          "description": "Mint at least 50 xAVAX from our platform",
           "category": "DeFi",
           "contract_address": "0x934cf521743903D27e388d7E8517c636f3Cc4D54",
           "frequency": "daily",
