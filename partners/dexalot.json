@@ -9,7 +9,7 @@
       "featuredImgUrl": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo_256x256.png",
       "bannerImgUrl": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo_256x256.png",
       "description": "Swap tokens on the C-chain using Dexalot's Simple Swap feature.",
-      "projectUrl": "https://app.dexalot.com/",
+      "projectUrl": "https://app.dexalot.com/swap/",
       "tags": [
         "DeFi"
       ],
@@ -49,7 +49,7 @@
       "featuredImgUrl": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo_256x256.png",
       "bannerImgUrl": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo_256x256.png",
       "description": "Deposit assets on Dexalot's L1 subnet and trade on the on-chain order book.",
-      "projectUrl": "https://app.dexalot.com/",
+      "projectUrl": "https://app.dexalot.com/trade/",
       "tags": [
         "DeFi"
       ],
@@ -73,7 +73,10 @@
               "description": "Deposit assets from C-chain to Dexalot's L1 subnet.",
               "chain_id": "43114",
               "contract_address": "0x1FD108cf42A59c635bD4703b8DbC8a741ff834Be",
-              "method_id": "0xab875026"
+              "method_id": "0xab875026",
+              "metadata": {
+                "chain_id": "43114"
+              }
             },
             {
               "name": "Post and Execute Order",
@@ -81,7 +84,10 @@
               "description": "Post a limit or market order and execute a trade on the on-chain order book on Dexalot L1.",
               "chain_id": "432204",
               "contract_address": "0x09383137C1eEe3E1A8bc781228E4199f6b4A9bbf",
-              "method_id": "0xae233dd3"
+              "method_id": "0xae233dd3",
+              "metadata": {
+                "chain_id": "432204"
+              }
             },
             {
               "name": "Perform Withdrawal",
@@ -89,7 +95,10 @@
               "description": "Withdraw your traded assets from Dexalot L1 back to the C-chain.",
               "chain_id": "432204",
               "contract_address": "0xa5C079C1986E2335d83fA2d7282e162958e515D5",
-              "method_id": "0x54058e7a"
+              "method_id": "0x54058e7a",
+              "metadata": {
+                "chain_id": "432204"
+              }
             }
           ]
         }
@@ -105,7 +114,7 @@
       "featuredImgUrl": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo_256x256.png",
       "bannerImgUrl": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo_256x256.png",
       "description": "Purchase GUN tokens using USDC on the Simple Swap screen from C-chain, and have the GUN tokens automatically deposited in GUN L1.",
-      "projectUrl": "https://app.dexalot.com/",
+      "projectUrl": "https://app.dexalot.com/trade/",
       "tags": [
         "DeFi"
       ],
