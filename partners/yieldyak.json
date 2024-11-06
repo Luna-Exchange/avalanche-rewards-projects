@@ -95,8 +95,8 @@
       "total_points_reward": 150,
       "quests": [
         {
-          "name": "Yak Swap: Make 1 swap of more than $2500 between USDC and sAVAX",
-          "description": "Yak Swap: Make 1 swap of more than $2500 between USDC and sAVAX",
+          "name": "Yak Swap: Make 1 swap of more than $2,500 between USDC and sAVAX",
+          "description": "Yak Swap: Make 1 swap of more than $2,500 between USDC and sAVAX",
           "category": "DeFi",
           "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
           "frequency": "daily",
@@ -108,8 +108,8 @@
           ],
           "tasks": [
             {
-              "name": "Yak Swap: Make 1 swap of more than $2500 between USDC and sAVAX",
-              "description": "Yak Swap: Make 1 swap of more than $2500 between USDC and sAVAX",
+              "name": "Yak Swap: Make 1 swap of more than $2,500 between USDC and sAVAX",
+              "description": "Yak Swap: Make 1 swap of more than $2,500 between USDC and sAVAX",
               "type": "SWAP",
               "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
               "metadata": {
@@ -121,8 +121,8 @@
           ]
         },
         {
-          "name": "Yak Swap: Make 1 swap of more than $5000 between USDC and sAVAX",
-          "description": "Yak Swap: Make 1 swap of more than $5000 between USDC and sAVAX",
+          "name": "Yak Swap: Make 1 swap of more than $5,000 between USDC and sAVAX",
+          "description": "Yak Swap: Make 1 swap of more than $5,000 between USDC and sAVAX",
           "category": "DeFi",
           "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
           "frequency": "daily",
@@ -134,8 +134,8 @@
           ],
           "tasks": [
             {
-              "name": "Yak Swap: Make 1 swap of more than $5000 between USDC and sAVAX",
-              "description": "Yak Swap: Make 1 swap of more than $5000 between USDC and sAVAX",
+              "name": "Yak Swap: Make 1 swap of more than $5,000 between USDC and sAVAX",
+              "description": "Yak Swap: Make 1 swap of more than $5,000 between USDC and sAVAX",
               "type": "SWAP",
               "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
               "metadata": {
@@ -147,8 +147,8 @@
           ]
         },
         {
-          "name": "Yak Swap: Make 1 swap of more than $10000 between USDC and sAVAX",
-          "description": "Yak Swap: Make 1 swap of more than $10000 between USDC and sAVAX",
+          "name": "Yak Swap: Make 1 swap of more than $10,000 between USDC and sAVAX",
+          "description": "Yak Swap: Make 1 swap of more than $10,000 between USDC and sAVAX",
           "category": "DeFi",
           "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
           "frequency": "daily",
@@ -160,8 +160,8 @@
           ],
           "tasks": [
             {
-              "name": "Yak Swap: Make 1 swap of more than $10000 between USDC and sAVAX",
-              "description": "Yak Swap: Make 1 swap of more than $10000 between USDC and sAVAX",
+              "name": "Yak Swap: Make 1 swap of more than $10,000 between USDC and sAVAX",
+              "description": "Yak Swap: Make 1 swap of more than $10,000 between USDC and sAVAX",
               "type": "SWAP",
               "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
               "metadata": {
@@ -188,8 +188,8 @@
       "total_points_reward": 150,
       "quests": [
         {
-          "name": "Yak Swap: Make 1 swap of more than $2500 between USDC and AVAX",
-          "description": "Yak Swap: Make 1 swap of more than $2500 between USDC and AVAX",
+          "name": "Yak Swap: Make 1 swap of more than $2,500 between USDC and AVAX",
+          "description": "Yak Swap: Make 1 swap of more than $2,500 between USDC and AVAX",
           "category": "DeFi",
           "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
           "frequency": "daily",
@@ -201,8 +201,8 @@
           ],
           "tasks": [
             {
-              "name": "Yak Swap: Make 1 swap of more than $2500 between USDC and AVAX",
-              "description": "Yak Swap: Make 1 swap of more than $2500 between USDC and AVAX",
+              "name": "Yak Swap: Make 1 swap of more than $2,500 between USDC and AVAX",
+              "description": "Yak Swap: Make 1 swap of more than $2,500 between USDC and AVAX",
               "type": "SWAP",
               "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
               "metadata": {
@@ -214,8 +214,8 @@
           ]
         },
         {
-          "name": "Yak Swap: Make 1 swap of more than $5000 between USDC and AVAX",
-          "description": "Yak Swap: Make 1 swap of more than $5000 between USDC and AVAX",
+          "name": "Yak Swap: Make 1 swap of more than $5,000 between USDC and AVAX",
+          "description": "Yak Swap: Make 1 swap of more than $5,000 between USDC and AVAX",
           "category": "DeFi",
           "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
           "frequency": "daily",
@@ -227,8 +227,8 @@
           ],
           "tasks": [
             {
-              "name": "Yak Swap: Make 1 swap of more than $5000 between USDC and AVAX",
-              "description": "Yak Swap: Make 1 swap of more than $5000 between USDC and AVAX",
+              "name": "Yak Swap: Make 1 swap of more than $5,000 between USDC and AVAX",
+              "description": "Yak Swap: Make 1 swap of more than $5,000 between USDC and AVAX",
               "type": "SWAP",
               "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
               "metadata": {
@@ -240,8 +240,8 @@
           ]
         },
         {
-          "name": "Yak Swap: Make 1 swap of more than $10000 between USDC and AVAX",
-          "description": "Yak Swap: Make 1 swap of more than $10000 between USDC and AVAX",
+          "name": "Yak Swap: Make 1 swap of more than $10,000 between USDC and AVAX",
+          "description": "Yak Swap: Make 1 swap of more than $10,000 between USDC and AVAX",
           "category": "DeFi",
           "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
           "frequency": "daily",
@@ -253,8 +253,8 @@
           ],
           "tasks": [
             {
-              "name": "Yak Swap: Make 1 swap of more than $10000 between USDC and AVAX",
-              "description": "Yak Swap: Make 1 swap of more than $10000 between USDC and AVAX",
+              "name": "Yak Swap: Make 1 swap of more than $10,000 between USDC and AVAX",
+              "description": "Yak Swap: Make 1 swap of more than $10,000 between USDC and AVAX",
               "type": "SWAP",
               "contract_address": "0xC4729E56b831d74bBc18797e0e17A295fA77488c",
               "metadata": {

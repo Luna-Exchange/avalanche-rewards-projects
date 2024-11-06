@@ -750,8 +750,8 @@
       "total_points_reward": 150,
       "quests": [
         {
-          "name": "Maintain a balance of more than $2500 in SAVAX - AVAX pool",
-          "description": "Maintain a balance of more than $2500 in SAVAX - AVAX pool",
+          "name": "Maintain a balance of more than $2,500 in SAVAX - AVAX pool",
+          "description": "Maintain a balance of more than $2,500 in SAVAX - AVAX pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
@@ -763,9 +763,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $2500 in SAVAX - AVAX pool",
+              "name": "Maintain a balance of more than $2,500 in SAVAX - AVAX pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $2500 in SAVAX - AVAX pool",
+              "description": "Maintain a balance of more than $2,500 in SAVAX - AVAX pool",
               "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
               "method_id": "",
               "metadata": {
@@ -780,7 +780,7 @@
         },
         {
           "name": "Maintain a balance of more than $5,000 in SAVAX - AVAX pool",
-          "description": "Maintain a balance of more than $5000 in SAVAX - AVAX pool",
+          "description": "Maintain a balance of more than $5,000 in SAVAX - AVAX pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
@@ -792,8 +792,8 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $5000 in SAVAX - AVAX pool",
-              "description": "Maintain a balance of more than $5000 in SAVAX - AVAX pool",
+              "name": "Maintain a balance of more than $5,000 in SAVAX - AVAX pool",
+              "description": "Maintain a balance of more than $5,000 in SAVAX - AVAX pool",
               "type": "DAILY_BALANCE",
               "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
               "method_id": "0xb6b55f25",
@@ -808,8 +808,8 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $10000 in SAVAX - AVAX pool",
-          "description": "Maintain a balance of more than $10000 in SAVAX - AVAX pool",
+          "name": "Maintain a balance of more than $10,000 in SAVAX - AVAX pool",
+          "description": "Maintain a balance of more than $10,000 in SAVAX - AVAX pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
@@ -821,8 +821,8 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $10000 in SAVAX - AVAX pool",
-              "description": "Maintain a balance of more than $10000 in GSAVAX - AVAX pool",
+              "name": "Maintain a balance of more than $10,000 in SAVAX - AVAX pool",
+              "description": "Maintain a balance of more than $10,000 in GSAVAX - AVAX pool",
               "type": "DAILY_BALANCE",
               "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
               "method_id": "0xb6b55f25",
