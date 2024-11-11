@@ -13,7 +13,7 @@
       "tags": [
         "DeFi"
       ],
-      "projectUrl": "https://lfj.gg/avalanche",
+      "projectUrl": "https://lfj.gg/avalanche/trade",
       "total_points_reward": 80,
       "badge": {
         "name": "A True Joe Bro",
@@ -60,7 +60,7 @@
       "id": "lfj_stake_joe",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
-      "projectUrl": "https://lfj.gg/avalanche",
+      "projectUrl": "https://lfj.gg/avalanche/stake/sjoe",
       "tags": [
         "DeFi"
       ],
@@ -344,7 +344,7 @@
       "frequency": "daily",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
-      "projectUrl": "https://lfj.gg/avalanche",
+      "projectUrl": "https://lfj.gg/avalanche/stake/sjoe",
       "tags": [
         "DeFi"
       ],
@@ -437,7 +437,7 @@
       "frequency": "daily",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
-      "projectUrl": "https://lfj.gg/avalanche",
+      "projectUrl": "https://lfj.gg/avalanche/pool/v22/0x00000000efe302beaa2b3e6e1b18d08d69a9012a/0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e/1",
       "tags": [
         "DeFi"
       ],
@@ -539,7 +539,7 @@
       "frequency": "daily",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
-      "projectUrl": "https://lfj.gg/avalanche",
+      "projectUrl": "https://lfj.gg/avalanche/pool/v22/0x00000000efe302beaa2b3e6e1b18d08d69a9012a/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7/1",
       "tags": [
         "DeFi"
       ],
@@ -641,7 +641,7 @@
       "frequency": "daily",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
-      "projectUrl": "https://lfj.gg/avalanche",
+      "projectUrl": "https://lfj.gg/avalanche/pool/v22/0xa25eaf2906fa1a3a13edac9b9657108af7b703e3/AVAX/5",
       "tags": [
         "DeFi"
       ],
@@ -743,15 +743,15 @@
       "frequency": "daily",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
       "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
-      "projectUrl": "https://lfj.gg/avalanche",
+      "projectUrl": "https://lfj.gg/avalanche/pool/v22/0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be/AVAX/5",
       "tags": [
         "DeFi"
       ],
       "total_points_reward": 150,
       "quests": [
         {
-          "name": "Maintain a balance of more than $2500 in SAVAX - AVAX pool",
-          "description": "Maintain a balance of more than $2500 in SAVAX - AVAX pool",
+          "name": "Maintain a balance of more than $2,500 in SAVAX - AVAX pool",
+          "description": "Maintain a balance of more than $2,500 in SAVAX - AVAX pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
@@ -763,9 +763,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $2500 in SAVAX - AVAX pool",
+              "name": "Maintain a balance of more than $2,500 in SAVAX - AVAX pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $2500 in SAVAX - AVAX pool",
+              "description": "Maintain a balance of more than $2,500 in SAVAX - AVAX pool",
               "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
               "method_id": "",
               "metadata": {
@@ -780,7 +780,7 @@
         },
         {
           "name": "Maintain a balance of more than $5,000 in SAVAX - AVAX pool",
-          "description": "Maintain a balance of more than $5000 in SAVAX - AVAX pool",
+          "description": "Maintain a balance of more than $5,000 in SAVAX - AVAX pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
@@ -792,8 +792,8 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $5000 in SAVAX - AVAX pool",
-              "description": "Maintain a balance of more than $5000 in SAVAX - AVAX pool",
+              "name": "Maintain a balance of more than $5,000 in SAVAX - AVAX pool",
+              "description": "Maintain a balance of more than $5,000 in SAVAX - AVAX pool",
               "type": "DAILY_BALANCE",
               "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
               "method_id": "0xb6b55f25",
@@ -808,8 +808,8 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $10000 in SAVAX - AVAX pool",
-          "description": "Maintain a balance of more than $10000 in SAVAX - AVAX pool",
+          "name": "Maintain a balance of more than $10,000 in SAVAX - AVAX pool",
+          "description": "Maintain a balance of more than $10,000 in SAVAX - AVAX pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
@@ -821,8 +821,8 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $10000 in SAVAX - AVAX pool",
-              "description": "Maintain a balance of more than $10000 in GSAVAX - AVAX pool",
+              "name": "Maintain a balance of more than $10,000 in SAVAX - AVAX pool",
+              "description": "Maintain a balance of more than $10,000 in GSAVAX - AVAX pool",
               "type": "DAILY_BALANCE",
               "contract_address": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
               "method_id": "0xb6b55f25",

@@ -97,8 +97,8 @@
       "total_points_reward": 150,
       "quests": [
         {
-          "name": "Maintain a balance of more than $2500 worth of AVAX in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $2500 worth of AVAX in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $2,500 worth of AVAX in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $2,500 worth of AVAX in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
@@ -110,9 +110,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $2500 worth of AVAX in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $2,500 worth of AVAX in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $2500 worth of AVAX in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $2,500 worth of AVAX in Avalanche Lending pool",
               "contract_address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
               "method_id": "",
               "metadata": {
@@ -124,8 +124,8 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $5000 worth of AVAX in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $5000 worth of AVAX in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $5,000 worth of AVAX in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $5,000 worth of AVAX in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
@@ -137,9 +137,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $5000 worth of AVAX in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $5,000 worth of AVAX in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $5000 worth of AVAX in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $5,000 worth of AVAX in Avalanche Lending pool",
               "contract_address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
               "method_id": "",
               "metadata": {
@@ -151,8 +151,8 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $10000 worth of AVAX in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $10000 worth of AVAX in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $10,000 worth of AVAX in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $10,000 worth of AVAX in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
@@ -193,8 +193,8 @@
       "total_points_reward": 150,
       "quests": [
         {
-          "name": "Maintain a balance of more than $2500 worth of sAVAX in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $2500 worth of sAVAX in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $2,500 worth of sAVAX in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $2,500 worth of sAVAX in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
@@ -206,9 +206,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $2500 worth of sAVAX in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $2,500 worth of sAVAX in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $2500 worth of sAVAX in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $2,500 worth of sAVAX in Avalanche Lending pool",
               "contract_address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
               "method_id": "",
               "metadata": {
@@ -220,8 +220,8 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $5000 worth of sAVAX in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $5000 worth of sAVAX in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $5,000 worth of sAVAX in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $5,000 worth of sAVAX in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
@@ -233,9 +233,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $5000 worth of sAVAX in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $5,000 worth of sAVAX in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $5000 worth of sAVAX in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $5,000 worth of sAVAX in Avalanche Lending pool",
               "contract_address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
               "method_id": "",
               "metadata": {
@@ -247,8 +247,8 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $10000 worth of sAVAX in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $10000 worth of sAVAX in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $10,000 worth of sAVAX in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $10,000 worth of sAVAX in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
@@ -385,8 +385,8 @@
       "total_points_reward": 150,
       "quests": [
         {
-          "name": "Maintain a balance of more than $2500 worth of USDC in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $2500 worth of USDC in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $2,500 worth of USDC in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $2,500 worth of USDC in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
@@ -398,9 +398,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $2500 worth of USDC in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $2,500 worth of USDC in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $2500 worth of USDC in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $2,500 worth of USDC in Avalanche Lending pool",
               "contract_address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
               "method_id": "",
               "metadata": {
@@ -412,8 +412,8 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $5000 worth of USDC in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $5000 worth of USDC in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $5,000 worth of USDC in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $5,000 worth of USDC in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
@@ -425,9 +425,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $5000 worth of USDC in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $5,000 worth of USDC in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $5000 worth of USDC in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $5,000 worth of USDC in Avalanche Lending pool",
               "contract_address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
               "method_id": "",
               "metadata": {
@@ -439,8 +439,8 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $10000 worth of USDC in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $10000 worth of USDC in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $10,000 worth of USDC in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $10,000 worth of USDC in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
@@ -481,8 +481,8 @@
       "total_points_reward": 150,
       "quests": [
         {
-          "name": "Maintain a balance of more than $2500 worth of USDT in Avalanche Lending pool",
-          "description": "Maintain a balance of more than $2500 worth of USDT in Avalanche Lending pool",
+          "name": "Maintain a balance of more than $2,500 worth of USDT in Avalanche Lending pool",
+          "description": "Maintain a balance of more than $2,500 worth of USDT in Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
@@ -494,9 +494,9 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $2500 worth of USDT in Avalanche Lending pool",
+              "name": "Maintain a balance of more than $2,500 worth of USDT in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $2500 worth of USDT in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $2,500 worth of USDT in Avalanche Lending pool",
               "contract_address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
               "method_id": "",
               "metadata": {
@@ -523,7 +523,7 @@
             {
               "name": "Maintain a balance of more than $5,000 worth of USDT in Avalanche Lending pool",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $50,00 worth of USDT in Avalanche Lending pool",
+              "description": "Maintain a balance of more than $5,000 worth of USDT in Avalanche Lending pool",
               "contract_address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
               "method_id": "",
               "metadata": {
@@ -931,6 +931,166 @@
           ]
         }
       ]
+    },
+    {
+      "name": "BORROW AVAX",
+      "id": "aave_borrow_avax",
+      "description": "Borrow Asset: Borrow AVAX on the Avalanche network.",
+      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "projectUrl": "https://aave.com/",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 100,
+      "quests": [
+        {
+          "name": "Borrow Asset",
+          "description": "Borrow Asset: Borrow AVAX from Aave on the Avalanche network.",
+          "category": "DeFi",
+          "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Borrow Asset",
+              "type": "BORROW",
+              "description": "Borrow Asset: Borrow AVAX from Aave on the Avalanche network.",
+              "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
+              "method_id": "0xe74f7b85"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Aave AVAX Borrow Champion",
+        "description": "Awarded for borrowing avax on Aave via the Avalanche network.",
+        "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/ronnie-pfp-2.svg"
+      }
+    },
+    {
+      "name": "BORROW USDC",
+      "id": "aave_borrow_usdc",
+      "description": "Borrow Asset: Borrow USDC on the Avalanche network.",
+      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "projectUrl": "https://aave.com/",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 100,
+      "quests": [
+        {
+          "name": "Borrow Asset",
+          "description": "Borrow Asset: Borrow USDC on the Avalanche network.",
+          "category": "DeFi",
+          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Borrow Asset",
+              "type": "BORROW",
+              "description": "Borrow Asset: Borrow USDC on the Avalanche network.",
+              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+              "method_id": "0xa415bcad"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Aave asset Borrow Champion",
+        "description": "Awarded for borrowing assets on Aave via the Avalanche network.",
+        "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/ronnie-pfp-2.svg"
+      }
+    },
+    {
+      "name": "SUPPLY AVAX",
+      "id": "aave_supply_avax",
+      "description": "Supply Asset: Supply avax to the Avalanche network.",
+      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "projectUrl": "https://aave.com/",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 100,
+      "quests": [
+        {
+          "name": "Supply Asset",
+          "description": "SSupply Asset: Supply avax to the Avalanche network.",
+          "category": "DeFi",
+          "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Supply Asset",
+              "type": "SUPPLY",
+              "description": "Supply Asset: Supply AVAX to the Avalanche network.",
+              "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
+              "method_id": "0x474cf53d"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Aave AVAX suppy Champion",
+        "description": "Awarded for supplying avax on Aave via the Avalanche network.",
+        "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/ronnie-pfp-2.svg"
+      }
+    },
+    {
+      "name": "SUPPLY USDC",
+      "id": "aave_supply_asset_usdc",
+      "description": "Supply Asset: Supply USDC to the Avalanche network.",
+      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "projectUrl": "https://aave.com/",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 100,
+      "quests": [
+        {
+          "name": "Supply Asset",
+          "description": "Supply Asset: Supply USDC to the Avalanche network.",
+          "category": "DeFi",
+          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Supply Asset",
+              "type": "STAKE",
+              "description": "Supply Asset: Supply USDC to the Avalanche network.",
+              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+              "method_id": "0x617ba037"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Aave asset supply Champion",
+        "description": "Awarded for supplying asses on Aave via the Avalanche network.",
+        "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/ronnie-pfp-2.svg"
+      }
     }
   ]
 }

@@ -9,7 +9,7 @@
       "description": "Borrow AVAX against your meme coins or tokens and NFTs",
       "featuredImgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
       "bannerImgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
-      "projectUrl": "https://salvor.io/",
+      "projectUrl": "https://salvor.io/borrow",
       "total_points_reward": 200,
       "tags": [
         "DeFi"
@@ -108,7 +108,7 @@
       "description": "Stake your ART and The Salvor NFTs in Salvor to earn a share of the protocol revenue.",
       "featuredImgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
       "bannerImgUrl": "https://cdn.salvor.io/sitev3/images/SALVORICON.png",
-      "projectUrl": "https://salvor.io/",
+      "projectUrl": "https://salvor.io/stake/salvors/salvor",
       "total_points_reward": 100,
       "tags": [
         "DeFi", "NFT"
