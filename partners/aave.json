@@ -4,103 +4,13 @@
   "imgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Logo/Logomark-purple.svg",
   "missions": [
     {
-      "name": "AAVE DAILY BORROW ASSET",
-      "id": "aave_daily_borrow_asset",
-      "description": "Borrow Asset: Borrow an asset from Aave on the Avalanche network.",
-      "frequency": "daily",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
-      "tags": [
-        "DeFi"
-      ],
-      "total_points_reward": 150,
-      "quests": [
-        {
-          "name": "Lend or Borrow more than $2,500 in one tx",
-          "description": "Lend or Borrow more than $2,500 in one tx",
-          "category": "DeFi",
-          "frequency": "daily",
-          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
-          "rewards": [
-            {
-              "type": "points",
-              "value": 25
-            }
-          ],
-          "tasks": [
-            {
-              "name": "Borrow Asset",
-              "type": "BORROW",
-              "description": "Borrow an asset using Aave's lending protocol.",
-              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
-              "method_id": "0xa415bcad",
-              "metadata": {
-                "threshold": 2500
-              }
-            }
-          ]
-        },
-        {
-          "name": "Lend or Borrow more than $5,000 in one tx",
-          "description": "Lend or Borrow more than $5,000 in one tx",
-          "category": "DeFi",
-          "frequency": "daily",
-          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
-          "rewards": [
-            {
-              "type": "points",
-              "value": 50
-            }
-          ],
-          "tasks": [
-            {
-              "name": "Borrow Asset",
-              "type": "BORROW",
-              "description": "Borrow an asset using Aave's lending protocol.",
-              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
-              "method_id": "0xa415bcad",
-              "metadata": {
-                "threshold": 5000
-              }
-            }
-          ]
-        },
-        {
-          "name": "Lend or Borrow more than $10,000 in one tx",
-          "description": "Lend or Borrow more than $10,000 in one tx",
-          "category": "DeFi",
-          "frequency": "daily",
-          "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
-          "rewards": [
-            {
-              "type": "points",
-              "value": 75
-            }
-          ],
-          "tasks": [
-            {
-              "name": "Borrow Asset",
-              "type": "BORROW",
-              "description": "Borrow an asset using Aave's lending protocol.",
-              "contract_address": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
-              "method_id": "0xa415bcad",
-              "metadata": {
-                "threshold": 10000
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "AAVE MAINTAIN AVAX BALANCE",
       "id": "aave_daily_maintain_avax",
       "description": "Maintain Balance: Maintain AVAX balance in Avalanche Lending pool",
       "frequency": "daily",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
+      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -196,7 +106,7 @@
       "frequency": "daily",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
+      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -292,7 +202,7 @@
       "frequency": "daily",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
+      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -388,7 +298,7 @@
       "frequency": "daily",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
+      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -484,7 +394,7 @@
       "frequency": "daily",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
+      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -579,7 +489,7 @@
       "description": "Supply Asset: Supply USDC to the Avalanche network.",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
+      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -672,7 +582,7 @@
       "description": "Borrow Asset: Borrow USDC on the Avalanche network.",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
+      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -765,7 +675,7 @@
       "description": "Borrow Asset: Borrow AVAX on the Avalanche network.",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
+      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -858,7 +768,7 @@
       "description": "Supply Asset: Supply avax to the Avalanche network.",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
+      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -948,7 +858,7 @@
       "description": "Borrow Asset: Borrow AVAX on the Avalanche network.",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
+      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -988,7 +898,7 @@
       "description": "Borrow Asset: Borrow USDC on the Avalanche network.",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
+      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -1028,7 +938,7 @@
       "description": "Supply Asset: Supply avax to the Avalanche network.",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
+      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -1036,7 +946,7 @@
       "quests": [
         {
           "name": "Supply Asset",
-          "description": "SSupply Asset: Supply avax to the Avalanche network.",
+          "description": "Supply Asset: Supply avax to the Avalanche network.",
           "category": "DeFi",
           "contract_address": "0xCf3045a03F83ADfBCbA1f19Cb2cF4E19075F8668",
           "rewards": [
@@ -1068,7 +978,7 @@
       "description": "Supply Asset: Supply USDC to the Avalanche network.",
       "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
       "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://aave.com/",
+      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
