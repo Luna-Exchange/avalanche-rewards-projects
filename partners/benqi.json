@@ -323,8 +323,6 @@
         }
       ]
     },
-
-
     {
       "name": "Maintain daily balance in avax",
       "id": "benqi_daily_missions_balance_missions_avax",
@@ -617,11 +615,6 @@
         }
       ]
     },
-
-
-
-
-
     {
       "name": "Maintain daily balance (test)",
       "id": "benqi_daily_missions_balance_missions_test",
