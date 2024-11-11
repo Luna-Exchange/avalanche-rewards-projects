@@ -323,6 +323,106 @@
         }
       ]
     },
+
+
+    {
+      "name": "Maintain daily balance in avax",
+      "id": "benqi_daily_missions_balance_missions_avax",
+      "frequency": "daily",
+      "description": "Maintain daily balance in avax ",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
+      "projectUrl": "https://app.benqi.fi/markets",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Maintain a borrowing balance of more than $2,500 AVAX",
+          "description": "Maintain a borrowing balance of more than $2,500 AVAX",
+          "category": "DeFi",
+          "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a borrowing balance of more than $2,500 AVAX",
+              "description": "Maintain a borrowing balance of more than $2,500 AVAX",
+              "type": "DAILY_BALANCE",
+              "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+              "metadata": {
+                "threshold": 2500,
+                "tokenId": "avalanche-wormhole",
+                "partner": "benqi"
+
+              },
+              "method_id": ""
+            }
+          ]
+        },
+        {
+          "name": "Maintain a borrowing balance of more than $5,000 AVAX",
+          "description": "Maintain a borrowing balance of more than $5,000 AVAX",
+          "category": "DeFi",
+          "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a borrowing balance of more than $5,000 AVAX",
+              "description": "Maintain a borrowing balance of more than $5,000 AVAX",
+              "type": "DAILY_BALANCE",
+              "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+              "metadata": {
+                "threshold": 5000,
+                "tokenId": "avalanche-wormhole",
+                "partner": "benqi"
+
+              },
+              "method_id": ""
+            }
+          ]
+        },
+        {
+          "name": "Maintain a borrowing balance of more than $10,000 AVAX",
+          "description": "Maintain a borrowing balance of more than $10,000 AVAX",
+          "category": "DeFi",
+          "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a borrowing balance of more than $10,000 AVAX",
+              "description": "Maintain a borrowing balance of more than $10,000 AVAX",
+              "type": "DAILY_BALANCE",
+              "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+              "metadata": {
+                "threshold": 10000,
+                "tokenId": "avalanche-wormhole",
+                "partner": "benqi"
+              },
+              "method_id": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Maintain daily balance in savax",
       "id": "benqi_daily_missions_balance_missions_savax",
@@ -337,10 +437,10 @@
       "total_points_reward": 150,
       "quests": [
         {
-          "name": "Maintain a borrowing balance of more than $2500 AVAX",
-          "description": "Maintain a borrowing balance of more than $2500 AVAX",
+          "name": "Maintain a borrowing balance of more than $2,500 sAVAX",
+          "description": "Maintain a borrowing balance of more than $2,500 sAVAX",
           "category": "DeFi",
-          "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+          "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
           "frequency": "daily",
           "rewards": [
             {
@@ -350,25 +450,24 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a borrowing balance of more than $2500 AVAX",
-              "description": "Maintain a borrowing balance of more than $2500 AVAX",
+              "name": "Maintain a borrowing balance of more than $2,500 sAVAX",
+              "description": "Maintain a borrowing balance of more than $2,500 sAVAX",
               "type": "DAILY_BALANCE",
-              "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+              "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
               "metadata": {
                 "threshold": 2500,
-                "tokenId": "avalanche-wormhole",
+                "tokenId": "benqi-liquid-staked-avax",
                 "partner": "benqi"
-
               },
               "method_id": ""
             }
           ]
         },
         {
-          "name": "Maintain a borrowing balance of more than $5000 AVAX",
-          "description": "Maintain a borrowing balance of more than $5000 AVAX",
+          "name": "Maintain a borrowing balance of more than $5,000 sAVAX",
+          "description": "Maintain a borrowing balance of more than $5000 sAVAX",
           "category": "DeFi",
-          "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+          "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
           "frequency": "daily",
           "rewards": [
             {
@@ -378,13 +477,13 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a borrowing balance of more than $5000 AVAX",
-              "description": "Maintain a borrowing balance of more than $5000 AVAX",
+              "name": "Maintain a borrowing balance of more than $5,000 sAVAX",
+              "description": "Maintain a borrowing balance of more than $5,000 sAVAX",
               "type": "DAILY_BALANCE",
-              "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+              "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
               "metadata": {
                 "threshold": 5000,
-                "tokenId": "avalanche-wormhole",
+                "tokenId": "benqi-liquid-staked-avax",
                 "partner": "benqi"
 
               },
@@ -393,10 +492,10 @@
           ]
         },
         {
-          "name": "Maintain a borrowing balance of more than $10000 AVAX",
-          "description": "Maintain a borrowing balance of more than $10000 AVAX",
+          "name": "Maintain a borrowing balance of more than $10,000 sAVAX",
+          "description": "Maintain a borrowing balance of more than $10,000 sAVAX",
           "category": "DeFi",
-          "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+          "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
           "frequency": "daily",
           "rewards": [
             {
@@ -406,13 +505,13 @@
           ],
           "tasks": [
             {
-              "name": "Maintain a borrowing balance of more than $10000 AVAX",
-              "description": "Maintain a borrowing balance of more than $10000 AVAX",
+              "name": "Maintain a borrowing balance of more than $10,000 sAVAX",
+              "description": "Maintain a borrowing balance of more than $10,000 sAVAX",
               "type": "DAILY_BALANCE",
-              "contract_address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+              "contract_address": "0xF362feA9659cf036792c9cb02f8ff8198E21B4cB",
               "metadata": {
                 "threshold": 10000,
-                "tokenId": "avalanche-wormhole",
+                "tokenId": "benqi-liquid-staked-avax",
                 "partner": "benqi"
               },
               "method_id": ""
@@ -421,6 +520,108 @@
         }
       ]
     },
+    {
+      "name": "Maintain daily balance in QI",
+      "id": "benqi_daily_missions_balance_missions_qi",
+      "frequency": "daily",
+      "description": "Maintain daily balance in QI ",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmUdufcm3CXqSU7UzXSeJh6oMBRqC7ufEjBfJwfcYZaVMx",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmPpFWJ9Z2Umtnem1B613yywVnLvHiaoUvjjxKARWjXYsf",
+      "projectUrl": "https://app.benqi.fi/markets",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Maintain a borrowing balance of more than $2,500 QI",
+          "description": "Maintain a borrowing balance of more than $2,500 QI",
+          "category": "DeFi",
+          "contract_address": "0x545356e396350D40cDEa888ad73534517399BF96",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a borrowing balance of more than $2,500 QI",
+              "description": "Maintain a borrowing balance of more than $2,500 QI",
+              "type": "DAILY_BALANCE",
+              "contract_address": "0x545356e396350D40cDEa888ad73534517399BF96",
+              "metadata": {
+                "threshold": 2500,
+                "tokenId": "benqi",
+                "partner": "benqi"
+              },
+              "method_id": ""
+            }
+          ]
+        },
+        {
+          "name": "Maintain a borrowing balance of more than $5,000 QI",
+          "description": "Maintain a borrowing balance of more than $5000 QI",
+          "category": "DeFi",
+          "contract_address": "0x545356e396350D40cDEa888ad73534517399BF96",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a borrowing balance of more than $5,000 QI",
+              "description": "Maintain a borrowing balance of more than $5,000 QI",
+              "type": "DAILY_BALANCE",
+              "contract_address": "0x545356e396350D40cDEa888ad73534517399BF96",
+              "metadata": {
+                "threshold": 5000,
+                "tokenId": "benqi",
+                "partner": "benqi"
+
+              },
+              "method_id": ""
+            }
+          ]
+        },
+        {
+          "name": "Maintain a borrowing balance of more than $10,000 QI",
+          "description": "Maintain a borrowing balance of more than $10,000 QI",
+          "category": "DeFi",
+          "contract_address": "0x545356e396350D40cDEa888ad73534517399BF96",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a borrowing balance of more than $10,000 QI",
+              "description": "Maintain a borrowing balance of more than $10,000 QI",
+              "type": "DAILY_BALANCE",
+              "contract_address": "0x545356e396350D40cDEa888ad73534517399BF96",
+              "metadata": {
+                "threshold": 10000,
+                "tokenId": "benqi",
+                "partner": "benqi"
+              },
+              "method_id": ""
+            }
+          ]
+        }
+      ]
+    },
+
+
+
+
+
     {
       "name": "Maintain daily balance (test)",
       "id": "benqi_daily_missions_balance_missions_test",
