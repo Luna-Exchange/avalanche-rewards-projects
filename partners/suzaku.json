@@ -27,13 +27,13 @@
           "tasks": [
             {
               "name": "Restake sAVAX",
-              "description": "Restake 20+ sAVAX on Suzaku",
+              "description": "Restake 5+ sAVAX on Suzaku",
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0xE3C983013B8c5830D866F550a28fD7Ed4393d5B7",
               "method_id": "0x47e7ef24",
               "metadata": {
-                "threshold": 20,
+                "threshold": 5,
                 "isNotNativeToken": true
               }
             }
@@ -53,13 +53,13 @@
           "tasks": [
             {
               "name": "Restake ggAVAX",
-              "description": "Restake 20+ ggAVAX on Suzaku",
+              "description": "Restake 5+ ggAVAX on Suzaku",
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0x0CEc099933F0Da490DFF91724b02e2203FAAf9Af",
               "method_id": "0x47e7ef24",
               "metadata": {
-                "threshold": 20,
+                "threshold": 5,
                 "isNotNativeToken": true
               }
             }
@@ -91,13 +91,13 @@
           "tasks": [
             {
               "name": "Restake BTC.b",
-              "description": "Restake 0.01+ BTC.b on Suzaku",
+              "description": "Restake 0.0025+ BTC.b on Suzaku",
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0x203E9101e09dc87ce391542E705a07522d19dF0d",
               "method_id": "0x47e7ef24",
               "metadata": {
-                "threshold": 0.01,
+                "threshold": 0.0025,
                 "isNotNativeToken": true
               }
             }
@@ -117,13 +117,13 @@
           "tasks": [
             {
               "name": "Restake SolvBTC",
-              "description": "Restake 0.01+ SolvBTC on Suzaku",
+              "description": "Restake 0.0025+ SolvBTC on Suzaku",
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0x1D8bd363922465246A91B7699e7B32BAbf5FEF62",
               "method_id": "0x47e7ef24",
               "metadata": {
-                "threshold": 0.01,
+                "threshold": 0.0025,
                 "isNotNativeToken": true
               }
             }
@@ -155,13 +155,13 @@
           "tasks": [
             {
               "name": "Restake COQ",
-              "description": "Restake 500m+ COQ on Suzaku",
+              "description": "Restake 150m+ COQ on Suzaku",
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0x8F1dea444380A2DDC5e6669f508d235401CaEE5F",
               "method_id": "0x47e7ef24",
               "metadata": {
-                "threshold": 500000000,
+                "threshold": 150000000,
                 "isNotNativeToken": true
               }
             }
@@ -198,13 +198,13 @@
           "tasks": [
             {
               "name": "Restake AUSD",
-              "description": "Restake 1000+ AUSD on Suzaku",
+              "description": "Restake 250+ AUSD on Suzaku",
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0xa53E127Bfd9C4d0310858D9D5Fcdf1D2617d4C41",
               "method_id": "0x47e7ef24",
               "metadata": {
-                "threshold": 1000,
+                "threshold": 250,
                 "isNotNativeToken": true
               }
             }
