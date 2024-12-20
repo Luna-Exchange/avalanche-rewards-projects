@@ -1,0 +1,108 @@
+{
+  "name": "Folks Finance",
+  "description": "With over $220M in TVL and more than 18000 MAUs across 6 chains, Folks Finance offers crosschain lending, borrowing, staking and trading on a foundation of transparency and decentralization.",
+  "imgUrl": "",
+  "missions": [
+    {
+      "name": "Folks Finance: First Steps",
+      "id": "folks_finance_first_steps",
+      "description": "Complete your first walkthrough of the Folks Finance platform",
+      "featuredImgUrl": "",
+      "bannerImgUrl": "",
+      "projectUrl": "https://xapp.folks.finance/account",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 300,
+      "quests": [
+        {
+          "name": "Folks Account Creation",
+          "description": "Complete the account creation process on Folks Finance",
+          "category": "DeFi",
+          "contract_address": "",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Create a Folks Account",
+              "type": "CONTRACT_INTERACTION",
+              "description": "Complete the account creation process on Folks",
+              "contract_address": "",
+              "method_id": "",
+              "chain_id": "43114"
+            }
+          ]
+        },
+        {
+          "name": "Folks Deposit",
+          "description": "Make your first deposit on Folks",
+          "category": "DeFi",
+          "contract_address": "",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit an asset on Avalanche",
+              "type": "DEPOSIT",
+              "description": "Deposit an Avalanche asset (AVAX, USDC, BTC.b, sAVAX, wETH.e, solvBTC) on Folks",
+              "contract_address": "",
+              "method_id": "",
+              "chain_id": "43114"
+            }
+          ]
+        },
+        {
+          "name": "Folks Loan",
+          "description": "Create your first loan position on Folks",
+          "category": "DeFi",
+          "contract_address": "",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Create a loan",
+              "type": "CONTRACT_INTERACTION",
+              "description": "Create a loan on Folks",
+              "contract_address": "",
+              "method_id": "",
+              "chain_id": "43114"
+            },
+            {
+              "name": "Collateralize an Avalanche asset",
+              "type": "DEPOSIT",
+              "description": "Collateralize an Avalanche asset (AVAX, USDC, BTC.b, sAVAX, wETH.e, solvBTC) on Folks",
+              "contract_address": "",
+              "method_id": "",
+              "chain_id": "43114"
+            },
+            {
+              "name": "Borrow USDC",
+              "type": "DEPOSIT",
+              "description": "Borrow any amount of USDC.",
+              "contract_address": "",
+              "method_id": "",
+              "chain_id": "43114"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "imgUrl": "",
+        "name": "Folks’ First Steps",
+        "description": "Awarded for completing Folks’ first steps"
+      }
+    }
+  ]
+}
