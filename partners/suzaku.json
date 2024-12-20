@@ -1,0 +1,424 @@
+{
+  "name": "Suzaku",
+  "description": "Suzaku is the (re)staking protocol for sovereign networks. Suzaku effectively implements a marketplace between Stakers, Operators, and Avalanche L1s, helping the latter scale and decentralize securely.",
+  "imgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-16-9.png",
+  "missions": [
+    {
+      "name": "Suzaku AVAX Restaking",
+      "id": "suzaku_avax_restake_missions",
+      "description": "Restake AVAX LSTs on Suzaku",
+      "featuredImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-16-9.png",
+      "bannerImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-5-1.png",
+      "projectUrl": "https://restake.suzaku.network",
+      "tags": ["DeFi", "Staking", "Restaking"],
+      "total_points_reward": 100,
+      "quests": [
+        {
+          "name": "sAVAX Restaking",
+          "description": "Restake sAVAX on Suzaku",
+          "category": "DeFi",
+          "contract_address": "0xE3C983013B8c5830D866F550a28fD7Ed4393d5B7",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Restake sAVAX",
+              "description": "Restake 5+ sAVAX on Suzaku",
+              "type": "STAKE",
+              "chain_id": "43114",
+              "contract_address": "0xE3C983013B8c5830D866F550a28fD7Ed4393d5B7",
+              "method_id": "0x47e7ef24",
+              "metadata": {
+                "threshold": 5,
+                "isNotNativeToken": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "ggAVAX Restaking",
+          "description": "Restake ggAVAX on Suzaku",
+          "category": "DeFi",
+          "contract_address": "0x0CEc099933F0Da490DFF91724b02e2203FAAf9Af",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Restake ggAVAX",
+              "description": "Restake 5+ ggAVAX on Suzaku",
+              "type": "STAKE",
+              "chain_id": "43114",
+              "contract_address": "0x0CEc099933F0Da490DFF91724b02e2203FAAf9Af",
+              "method_id": "0x47e7ef24",
+              "metadata": {
+                "threshold": 5,
+                "isNotNativeToken": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Suzaku BTC Restaking",
+      "id": "suzaku_btc_restake_missions",
+      "description": "Restake wrapped BTC on Suzaku",
+      "featuredImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-16-9.png",
+      "bannerImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-5-1.png",
+      "projectUrl": "https://restake.suzaku.network",
+      "tags": ["DeFi", "Staking", "Restaking"],
+      "total_points_reward": 100,
+      "quests": [
+        {
+          "name": "BTC.b Restaking",
+          "description": "Restake BTC.b on Suzaku",
+          "category": "DeFi",
+          "contract_address": "0x203E9101e09dc87ce391542E705a07522d19dF0d",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Restake BTC.b",
+              "description": "Restake 0.0025+ BTC.b on Suzaku",
+              "type": "STAKE",
+              "chain_id": "43114",
+              "contract_address": "0x203E9101e09dc87ce391542E705a07522d19dF0d",
+              "method_id": "0x47e7ef24",
+              "metadata": {
+                "threshold": 0.0025,
+                "isNotNativeToken": true
+              }
+            }
+          ]
+        },
+        {
+          "name": "SolvBTC Restaking",
+          "description": "Restake SolvBTC on Suzaku",
+          "category": "DeFi",
+          "contract_address": "0x1D8bd363922465246A91B7699e7B32BAbf5FEF62",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Restake SolvBTC",
+              "description": "Restake 0.0025+ SolvBTC on Suzaku",
+              "type": "STAKE",
+              "chain_id": "43114",
+              "contract_address": "0x1D8bd363922465246A91B7699e7B32BAbf5FEF62",
+              "method_id": "0x47e7ef24",
+              "metadata": {
+                "threshold": 0.0025,
+                "isNotNativeToken": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Suzaku COQ Restaking",
+      "id": "suzaku_coq_restake_missions",
+      "description": "Restake COQ on Suzaku",
+      "featuredImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-16-9.png",
+      "bannerImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-5-1.png",
+      "projectUrl": "https://restake.suzaku.network",
+      "tags": ["DeFi", "Staking", "Restaking"],
+      "total_points_reward": 50,
+      "quests": [
+        {
+          "name": "COQ Restaking",
+          "description": "Restake COQ on Suzaku",
+          "category": "DeFi",
+          "contract_address": "0x8F1dea444380A2DDC5e6669f508d235401CaEE5F",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Restake COQ",
+              "description": "Restake 150m+ COQ on Suzaku",
+              "type": "STAKE",
+              "chain_id": "43114",
+              "contract_address": "0x8F1dea444380A2DDC5e6669f508d235401CaEE5F",
+              "method_id": "0x47e7ef24",
+              "metadata": {
+                "threshold": 150000000,
+                "isNotNativeToken": true
+              }
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Knight of the Suzaku's Watch",
+        "description": "Awarded for restaking COQ on Suzaku",
+        "imgUrl": "https://docs.suzaku.network/img/suzaku-avalanche-passport-badges/suzaku-coq-knight-badge.png"
+      }
+    },
+    {
+      "name": "Suzaku Stablecoin Restaking",
+      "id": "suzaku_stable_restake_missions",
+      "description": "Restake stablecoins on Suzaku",
+      "featuredImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-16-9.png",
+      "bannerImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-5-1.png",
+      "projectUrl": "https://restake.suzaku.network",
+      "tags": ["DeFi", "Staking", "Restaking"],
+      "total_points_reward": 50,
+      "quests": [
+        {
+          "name": "AUSD Restaking",
+          "description": "Restake AUSD on Suzaku",
+          "category": "DeFi",
+          "contract_address": "0xa53E127Bfd9C4d0310858D9D5Fcdf1D2617d4C41",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 50
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Restake AUSD",
+              "description": "Restake 250+ AUSD on Suzaku",
+              "type": "STAKE",
+              "chain_id": "43114",
+              "contract_address": "0xa53E127Bfd9C4d0310858D9D5Fcdf1D2617d4C41",
+              "method_id": "0x47e7ef24",
+              "metadata": {
+                "threshold": 250,
+                "isNotNativeToken": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Suzaku Daily AVAX Restaking",
+      "id": "suzaku_daily_avax_balance_missions",
+      "frequency": "daily",
+      "description": "Maintain daily balance in AVAX LSTs restaked",
+      "featuredImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-16-9.png",
+      "bannerImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-5-1.png",
+      "projectUrl": "https://restake.suzaku.network",
+      "tags": ["DeFi", "Staking", "Restaking"],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Daily sAVAX Restaking",
+          "description": "Maintain a daily balance of at least 20 sAVAX restaked",
+          "category": "DeFi",
+          "contract_address": "0xE3C983013B8c5830D866F550a28fD7Ed4393d5B7",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 10
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain sAVAX restaked balance",
+              "description": "Keep at least 20 sAVAX restaked",
+              "type": "DAILY_BALANCE",
+              "chain_id": "43114",
+              "contract_address": "0xE3C983013B8c5830D866F550a28fD7Ed4393d5B7",
+              "method_id": "",
+              "metadata": {
+                "threshold": 20
+              }
+            }
+          ]
+        },
+        {
+          "name": "Daily ggAVAX Restaking",
+          "description": "Maintain a daily balance of at least 20 ggAVAX restaked",
+          "category": "DeFi",
+          "contract_address": "0x0CEc099933F0Da490DFF91724b02e2203FAAf9Af",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 10
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain ggAVAX restaked balance",
+              "description": "Keep at least 20 ggAVAX restaked",
+              "type": "DAILY_BALANCE",
+              "chain_id": "43114",
+              "contract_address": "0x0CEc099933F0Da490DFF91724b02e2203FAAf9Af",
+              "method_id": "",
+              "metadata": {
+                "threshold": 20
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Suzaku Daily BTC Restaking",
+      "id": "suzaku_daily_btc_restaking",
+      "frequency": "daily",
+      "description": "Maintain daily balance of BTC restaked",
+      "featuredImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-16-9.png",
+      "bannerImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-5-1.png",
+      "projectUrl": "https://restake.suzaku.network",
+      "tags": ["DeFi"],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Daily BTC.b Restaking",
+          "description": "Maintain a daily balance of at least 0.01 BTC.b restaked",
+          "category": "DeFi",
+          "contract_address": "0x203E9101e09dc87ce391542E705a07522d19dF0d",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 10
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain BTC.b restaked balance",
+              "description": "Keep at least 0.01 BTC.b restaked",
+              "type": "DAILY_BALANCE",
+              "chain_id": "43114",
+              "contract_address": "0x203E9101e09dc87ce391542E705a07522d19dF0d",
+              "method_id": "",
+              "metadata": {
+                "threshold": 0.01
+              }
+            }
+          ]
+        },
+        {
+          "name": "Daily SolvBTC Restaking",
+          "description": "Maintain a daily balance of at least 0.01 SolvBTC restaked",
+          "category": "DeFi",
+          "contract_address": "0x1D8bd363922465246A91B7699e7B32BAbf5FEF62",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 10
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain SolvBTC restaked balance",
+              "description": "Keep at least 0.01 SolvBTC restaked",
+              "type": "DAILY_BALANCE",
+              "chain_id": "43114",
+              "contract_address": "0x1D8bd363922465246A91B7699e7B32BAbf5FEF62",
+              "method_id": "",
+              "metadata": {
+                "threshold": 0.01
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Suzaku Daily COQ Restaking",
+      "id": "suzaku_daily_coq_restaking",
+      "frequency": "daily",
+      "description": "Maintain a daily balance of COQ restaked",
+      "featuredImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-16-9.png",
+      "bannerImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-5-1.png",
+      "projectUrl": "https://restake.suzaku.network",
+      "tags": ["DeFi"],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Daily COQ Restaking",
+          "description": "Maintain a daily balance of at least 500m COQ restaked",
+          "category": "DeFi",
+          "contract_address": "0x8F1dea444380A2DDC5e6669f508d235401CaEE5F",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 10
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain COQ restaked balance",
+              "description": "Keep at least 500m COQ restaked",
+              "type": "DAILY_BALANCE",
+              "chain_id": "43114",
+              "contract_address": "0x8F1dea444380A2DDC5e6669f508d235401CaEE5F",
+              "method_id": "",
+              "metadata": {
+                "threshold": 500000000
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Suzaku Daily Stablecoin Restaking",
+      "id": "suzaku_daily_stablecoin_staking",
+      "frequency": "daily",
+      "description": "Maintain a daily balance of stablecoins restaked",
+      "featuredImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-16-9.png",
+      "bannerImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-5-1.png",
+      "projectUrl": "https://restake.suzaku.network",
+      "tags": ["DeFi"],
+      "total_points_reward": 150,
+      "quests": [
+        {
+          "name": "Daily AUSD Restaking",
+          "description": "Maintain a daily balance of at least 1000 AUSD restaked",
+          "category": "DeFi",
+          "contract_address": "0xa53E127Bfd9C4d0310858D9D5Fcdf1D2617d4C41",
+          "frequency": "daily",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 10
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain AUSD restaked balance",
+              "description": "Keep at least 1000 AUSD restaked",
+              "type": "DAILY_BALANCE",
+              "chain_id": "43114",
+              "contract_address": "0xa53E127Bfd9C4d0310858D9D5Fcdf1D2617d4C41",
+              "method_id": "",
+              "metadata": {
+                "threshold": 1000
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
