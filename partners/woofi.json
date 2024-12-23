@@ -1,0 +1,164 @@
+{
+    "name": "WOOFi",
+    "description": "WOOFi is a DEX with all the tools you need, in one convenient place.",
+    "featuredImgUrl": "https://oss.woo.org/static/images/avalanche_passport/logo.png",
+    "bannerImgUrl": "https://oss.woo.org/static/images/avalanche_passport/banner.png",
+    "missions": [
+        {
+            "name": "Swap and chill",
+            "description": "Perform a Swap: Buy AVAX Tokens",
+            "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/woo_pilled_badge.jpg",
+            "projectUrl": "https://woofi.com",
+            "tags": [
+                "DeFi"
+            ],
+            "total_points_reward": 60,
+            "quests": [
+                {
+                    "name": "Perform a Swap",
+                    "description": "Buy some AVAX Tokens",
+                    "category": "DeFi",
+                    "contract_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 60
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Perform Swap",
+                            "type": "SWAP",
+                            "description": "Buy AVAX Tokens",
+                            "contract_address": "0x4c4AF8DBc524681930a27b2F1Af5bcC8062E6fB7",
+                            "chain_id": "43114",
+                            "method_ids": ["0x7dc20382"]
+                        }
+                    ]
+                }
+            ],
+            "badge": {
+                "name": "Chill Guy",
+                "description": "Awarded for completing your first swap with WOOFi",
+                "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/woo_pilled_badge.jpg"
+            }
+        },
+        {
+            "name": "Stake it til you make it",
+            "description": "Stake WOO Tokens",
+            "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/diamond_handed.jpg",
+            "projectUrl": "https://woofi.com/stake",
+            "tags": [
+                "DeFi"
+            ],
+            "total_points_reward": 60,
+            "quests": [
+                {
+                    "name": "Stake WOO Tokens",
+                    "description": "Stake WOO and begin earning a share of protocol fees in USDC",
+                    "category": "DeFi",
+                    "contract_address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 60
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Stake WOO Tokens",
+                            "type": "STAKE",
+                            "description": "Stake WOO tokens on Avalanche",
+                            "contract_address": "0x3Bd96847C40De8b0F20dA32568BD15462C1386E3",
+                            "chain_id": "43114",
+                            "method_ids": ["0xa694fc3a"]
+                        }
+                    ]
+                }
+            ],
+            "badge": {
+                "name": "Diamond-handed",
+                "description": "Awarded for staking your first WOO",
+                "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/diamond_handed.jpg"
+            }
+        },
+        {
+            "name": "Supercharge your yield",
+            "description": "Deposit some AVAX into WOOFi Earn",
+            "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/all_charged_up.jpg",
+            "projectUrl": "https://woofi.com/earn",
+            "tags": [
+                "DeFi"
+            ],
+            "total_points_reward": 60,
+            "quests": [
+                {
+                    "name": "Deposit AVAX into WOOFi Earn",
+                    "description": "Start earning yield on your AVAX",
+                    "category": "DeFi",
+                    "contract_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 60
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Deposit some AVAX into WOOFi Earn",
+                            "type": "DEPOSIT",
+                            "description": "Deposit AVAX into WOOFi Earn",
+                            "contract_address": "0x866810349B2e28E411669911bB0babb06cc60625",
+                            "chain_id": "43114",
+                            "method_ids": ["0xb6b55f25"]
+                        }
+                    ]
+                }
+            ],
+            "badge": {
+                "name": "All Charged Up",
+                "description": "Awarded for supercharging your earnings",
+                "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/all_charged_up.jpg"
+            }
+        },
+        {
+            "name": "Trade like a pro",
+            "description": "Deposit onto WOOFi Pro and execute your first trade",
+            "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/pro_trader.jpg",
+            "projectUrl": "https://pro.woofi.com",
+            "tags": [
+                "DeFi"
+            ],
+            "total_points_reward": 60,
+            "quests": [
+                {
+                    "name": "First Trade",
+                    "description": "Deposit and execute your first trade",
+                    "category": "DeFi",
+                    "contract_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 60
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Deposit and execute your first trade",
+                            "type": "TRADE",
+                            "description": "Deposit and execute your first trade",
+                            "contract_address": "0x816f722424B49Cf1275cc86DA9840Fbd5a6167e9",
+                            "chain_id": "43114",
+                            "method_ids": ["0x322dda6d"]
+                        }
+                    ]
+                }
+            ],
+            "badge": {
+                "name": "Pro Trader",
+                "description": "Awarded for executing your first trade on WOOFi Pro",
+                "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/pro_trader.jpg"
+            }
+        }
+    ]
+}
