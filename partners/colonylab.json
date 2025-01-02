@@ -1,0 +1,329 @@
+{
+    "name": "Colony Lab",
+    "description": "Colony Lab empowers projects with decentralized fundraising and liquidity, while giving the community diverse exposure to Avalanche’s growth—all on a single platform. From seed investment opportunities to AVAX/DeFi rewards, airdrops, and more, Colony Lab brings everything together under one roof.",
+    "featuredImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_logo.png",
+    "bannerImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_banner.png",
+    "missions": [
+        {
+            "name": "Stake $CLY",
+            "id": "colony_stake_cly",
+            "description": "Stake $CLY to unlock Colony's features and rewards",
+            "featuredImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_logo.png",
+            "bannerImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_banner.png",
+            "projectUrl": "https://app.colonylab.io/stake",
+            "tags": ["DeFi"],
+            "total_points_reward": 175,
+            "badge": {
+                "name": "Colony ANT Soldier",
+                "description": "Awarded for Staking CLY",
+                "imgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_logo.png"
+            },
+            "quests": [
+                {
+                    "name": "Stake 1000 CLY",
+                    "description": "Stake at least 1000 CLY",
+                    "category": "DeFi",
+                    "contract_address": "0x62685d3EAacE96D6145D35f3B7540d35f482DE5b",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 50
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Stake 1000 CLY",
+                            "type": "STAKE",
+                            "description": "Stake at least 1000 CLY",
+                            "contract_address": "0x62685d3EAacE96D6145D35f3B7540d35f482DE5b",
+                            "chain_id": "43114",
+                            "method_id": "0xa694fc3a",
+                            "metadata": {
+                                "threshold": 1000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Stake 10000 CLY",
+                    "description": "Stake at least 10000 CLY",
+                    "category": "DeFi",
+                    "contract_address": "0x62685d3EAacE96D6145D35f3B7540d35f482DE5b",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 50
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Stake 10000 CLY",
+                            "type": "STAKE",
+                            "description": "Stake at least 10000 CLY",
+                            "contract_address": "0x62685d3EAacE96D6145D35f3B7540d35f482DE5b",
+                            "chain_id": "43114",
+                            "method_id": "0xa694fc3a",
+                            "metadata": {
+                                "threshold": 10000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Stake 100000 CLY",
+                    "description": "Stake at least 100000 CLY",
+                    "category": "DeFi",
+                    "contract_address": "0x62685d3EAacE96D6145D35f3B7540d35f482DE5b",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 75
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Stake 100000 CLY",
+                            "type": "STAKE",
+                            "description": "Stake at least 100000 CLY",
+                            "contract_address": "0x62685d3EAacE96D6145D35f3B7540d35f482DE5b",
+                            "chain_id": "43114",
+                            "method_id": "0xa694fc3a",
+                            "metadata": {
+                                "threshold": 100000
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Invest in Early-Stage projects Seed Sales",
+            "id": "colony_early_stage_invest",
+            "description": "Invest in promising early-stage Seed deals like a VC on Colony's Early-Stage platform",
+            "featuredImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_logo.png",
+            "bannerImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_banner.png",
+            "projectUrl": "https://app.colonylab.io/early-stage/deal-flow",
+            "tags": ["DeFi"],
+            "total_points_reward": 250,
+            "badge": {
+                "name": "Seed Investor",
+                "description": "Awarded for investing in early-stage projects Seed/Private sales",
+                "imgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_logo.png"
+            },
+            "quests": [
+                {
+                    "name": "Complete KYC",
+                    "description": "Complete KYC to access Colony's Early-Stage platform",
+                    "category": "DeFi",
+                    "contract_address": "0x580ddD6fA80f75e40FF6975e0a9D2688B03fa0e9",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 25
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "KYC Verification",
+                            "type": "Register",
+                            "description": "Complete your KYC on Colony and register it",
+                            "contract_address": "0x580ddD6fA80f75e40FF6975e0a9D2688B03fa0e9",
+                            "chain_id": "43114",
+                            "method_id": "0x8316c39a"
+                        }
+                    ]
+                },
+                {
+                    "name": "Invest $500",
+                    "description": "Commit $500 in a Seed or Private sale",
+                    "category": "DeFi",
+                    "contract_address": "0x62B38293896e040e36fE5345F9D30DbFd75C04B9",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 50
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Commit $500",
+                            "type": "Commit",
+                            "description": "Commit a minimum of $500 in a Seed or Private sale of a project",
+                            "contract_address": "0x62B38293896e040e36fE5345F9D30DbFd75C04B9",
+                            "chain_id": "43114",
+                            "method_id": "0xa349ab2c",
+                            "metadata": {
+                                "threshold": 500,
+                                "frequency": "Monthly"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Invest $1000",
+                    "description": "Commit $1000 in a Seed or Private sale",
+                    "category": "DeFi",
+                    "contract_address": "0x62B38293896e040e36fE5345F9D30DbFd75C04B9",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 75
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Commit $1000",
+                            "type": "Commit",
+                            "description": "Commit a minimum of $1000 in a Seed or Private sale of a project",
+                            "contract_address": "0x62B38293896e040e36fE5345F9D30DbFd75C04B9",
+                            "chain_id": "43114",
+                            "method_id": "0xa349ab2c",
+                            "metadata": {
+                                "threshold": 1000,
+                                "frequency": "Monthly"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Invest $2500",
+                    "description": "Commit $2500 in a Seed or Private sale",
+                    "category": "DeFi",
+                    "contract_address": "0x62B38293896e040e36fE5345F9D30DbFd75C04B9",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 100
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Commit $2500",
+                            "type": "Commit",
+                            "description": "Commit a minimum of $2500 in a Seed or Private sale of a project",
+                            "contract_address": "0x62B38293896e040e36fE5345F9D30DbFd75C04B9",
+                            "chain_id": "43114",
+                            "method_id": "0xa349ab2c",
+                            "frequency": "Monthly",
+                            "metadata": {
+                                "threshold": 2500
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Claim free AVAX rewards from Colony's Validator Program",
+            "id": "colony_claim_avax",
+            "description": "Claim and enjoy hassle-free year-long $AVAX airdrops—without the need to stake your own $AVAX, trade, or provide liquidity, thanks to Colony’s Validator Program. ",
+            "featuredImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_logo.png",
+            "bannerImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_banner.png",
+            "projectUrl": "https://app.colonylab.io/validator-program/avax",
+            "tags": ["DeFi"],
+            "total_points_reward": 75,
+            "badge": {
+                "name": "Free AVAX Enjoyer",
+                "description": "Awarded for claiming free AVAX after staking CLY",
+                "imgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_logo.png"
+            },
+            "quests": [
+                {
+                    "name": "Claim free $AVAX rewards",
+                    "description": "Claim free $AVAX rewards that are airdropped everyday to CLY stakers.",
+                    "category": "DeFi",
+                    "contract_address": "0x62685d3EAacE96D6145D35f3B7540d35f482DE5b",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 75
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Claim $AVAX rewards",
+                            "type": "Claim",
+                            "description": "Claim $AVAX rewards on Colony's Validator Program page.",
+                            "contract_address": "0x62685d3EAacE96D6145D35f3B7540d35f482DE5b",
+                            "chain_id": "43114",
+                            "method_ids": ["0x99b51a5c","0x0b83a727"],
+                            "frequency": "Weekly",
+                            "metadata": {
+                                "wavaxAddress": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Invest in $CAI - Colony Avalanche Index",
+            "id": "colony_cai_investment",
+            "description": "Buy $CAI, the leading Avalanche benchmark index composed of $AVAX and the most prominent ecosystem projects. The index enhances returns for investors by generating yield on its underlying assets.",
+            "featuredImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_logo.png",
+            "bannerImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_banner.png",
+            "projectUrl": "https://app.colonylab.io/index",
+            "tags": ["DeFi"],
+            "total_points_reward": 125,
+            "badge": {
+                "name": "Avalanche Eco Ally",
+                "description": "Awarded for investing in $CAI and supporting the Avalanche ecosystem bluechips",
+                "imgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_logo.png"
+            },
+            "quests": [
+                {
+                    "name": "$CAI Token Minting/Buying",
+                    "description": "Buy $CAI Token on Colony's Index page",
+                    "category": "DeFi",
+                    "contract_address": "TBD",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 50
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Buy $500 worth of $CAI Token",
+                            "type": "BUY",
+                            "description": "Buy a minimum of $500 worth of CAI using AVAX on Colony's Index page.",
+                            "contract_address": "TBD",
+                            "chain_id": "43114",
+                            "method_id": "TBD",
+                            "frequency": "Weekly",
+                            "metadata": {
+                                "threshold": 500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "$CAI Token Minting/Buying",
+                    "description": "Buy $CAI Token on Colony's Index page",
+                    "category": "DeFi",
+                    "contract_address": "TBD",
+                    "rewards": [
+                        {
+                            "type": "points",
+                            "value": 75
+                        }
+                    ],
+                    "tasks": [
+                        {
+                            "name": "Buy $1000 worth of $CAI Token",
+                            "type": "BUY",
+                            "description": "Buy a minimum of $1000 worth of CAI using AVAX on Colony's Index page.",
+                            "contract_address": "TBD",
+                            "chain_id": "43114",
+                            "method_id": "TBD",
+                            "frequency": "Weekly",
+                            "metadata": {
+                                "threshold": 1000
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
