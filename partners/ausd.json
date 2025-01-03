@@ -21,7 +21,7 @@
           "description": "Maintain a balance of more than $100 worth of AUSD in Avalanche",
           "category": "DeFi",
           "frequency": "daily",
-          "contract_address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+          "contract_address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
           "rewards": [
             {
               "type": "points",
@@ -47,7 +47,7 @@
           "description": "Maintain a balance of more than $1,000 worth of AUSD in Avalanche",
           "category": "DeFi",
           "frequency": "daily",
-          "contract_address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+          "contract_address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
           "rewards": [
             {
               "type": "points",
@@ -73,7 +73,7 @@
           "description": "Maintain a balance of more than $10,000 worth of AUSD in Avalanche",
           "category": "DeFi",
           "frequency": "daily",
-          "contract_address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+          "contract_address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
           "rewards": [
             {
               "type": "points",
@@ -134,7 +134,7 @@
               "contract_address": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
               "method_id": "",
               "metadata": {
-                "threshold": 1000,
+                "threshold": 100,
                 "partner": "ausd"
               }
             }
@@ -191,7 +191,7 @@
           "description": "Maintain a balance of more than $100 worth of AUSD in Benqi Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
-          "contract_address": "0xb7CfB8Ae67E20059021A0D20fc30311a6c67C734",
+          "contract_address": "0x190D94613A09ad7931FcD17CD6A8F9B6B47ad414",
           "rewards": [
             {
               "type": "points",
@@ -203,10 +203,10 @@
               "name": "Maintain a balance of more than $100 worth of AUSD in Benqi Avalanche Lending pool",
               "type": "DAILY_BALANCE",
               "description": "Maintain a balance of more than $100 worth of AUSD in Benqi Avalanche Lending pool",
-              "contract_address": "0xb7CfB8Ae67E20059021A0D20fc30311a6c67C734",
+              "contract_address": "0x190D94613A09ad7931FcD17CD6A8F9B6B47ad414",
               "method_id": "",
               "metadata": {
-                "threshold": 1000,
+                "threshold": 100,
                 "partner": "ausd"
               }
             }
@@ -217,7 +217,7 @@
           "description": "Maintain a balance of more than $1,000 worth of AUSD in Benqi Avalanche Lending pool",
           "category": "DeFi",
           "frequency": "daily",
-          "contract_address": "0xb7CfB8Ae67E20059021A0D20fc30311a6c67C734",
+          "contract_address": "0x190D94613A09ad7931FcD17CD6A8F9B6B47ad414",
           "rewards": [
             {
               "type": "points",
@@ -229,11 +229,11 @@
               "name": "Maintain a balance of more than $1,000 worth of AUSD in Benqi Avalanche Lending pool",
               "type": "DAILY_BALANCE",
               "description": "Maintain a balance of more than $1,000 worth of AUSD in Benqi Avalanche Lending pool",
-              "contract_address": "0xb7CfB8Ae67E20059021A0D20fc30311a6c67C734",
+              "contract_address": "0x190D94613A09ad7931FcD17CD6A8F9B6B47ad414",
               "method_id": "",
               "metadata": {
                 "threshold": 1000,
-                "partner": "ausd",
+                "partner": "ausd"
               }
             }
           ]
