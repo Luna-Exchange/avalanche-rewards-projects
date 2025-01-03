@@ -14,7 +14,7 @@
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 1110,
+      "total_points_reward": 610,
       "quests": [
         {
           "name": "Maintain a balance of more than $100 worth of AUSD in Avalanche",
@@ -69,26 +69,26 @@
           ]
         },
         {
-          "name": "Maintain a balance of more than $10,000 worth of AUSD in Avalanche",
-          "description": "Maintain a balance of more than $10,000 worth of AUSD in Avalanche",
+          "name": "Maintain a balance of more than $5,000 worth of AUSD in Avalanche",
+          "description": "Maintain a balance of more than $5,000 worth of AUSD in Avalanche",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
           "rewards": [
             {
               "type": "points",
-              "value": 1000
+              "value": 500
             }
           ],
           "tasks": [
             {
-              "name": "Maintain a balance of more than $10,000 worth of AUSD in Avalanche",
+              "name": "Maintain a balance of more than $5,000 worth of AUSD in Avalanche",
               "type": "DAILY_BALANCE",
-              "description": "Maintain a balance of more than $10,000 worth of AUSD in Avalanche",
+              "description": "Maintain a balance of more than $5,000 worth of AUSD in Avalanche",
               "contract_address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
               "method_id": "",
               "metadata": {
-                "threshold": 10000,
+                "threshold": 5000,
                 "partner": "ausd"
               }
             }
