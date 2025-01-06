@@ -10,7 +10,9 @@
       "bannerImgUrl": "https://github.com/CozyReef/cozy-labs-assets/blob/main/avalanche-rewards-campaign/banner.png?raw=true",
       "featuredImgUrl": "https://github.com/CozyReef/cozy-labs-assets/blob/main/avalanche-rewards-campaign/rescue-mission.png?raw=true",
       "projectUrl": "https://cozyverse.xyz/region/unknown/campsite",
-      "tags": ["NFT"],
+      "tags": [
+        "NFT"
+      ],
       "total_points_reward": 100,
       "quests": [
         {
@@ -38,7 +40,7 @@
       ],
       "badge": {
         "name": "Woofy Savior",
-        "description": "Successfully rescued one or more Woofys",
+        "description": "Successfully rescued one or more Woofys"
       }
     }
   ]
