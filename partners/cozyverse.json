@@ -30,7 +30,7 @@
             {
               "name": "Open a capsule.",
               "type": "REVEAL",
-              "description": "Obtain a Woofy Capsule NFT, and reveal it by calling the reveal function or at the campsite (https://cozyverse.xyz/region/unknown/campsite).",
+              "description": "Obtain a Woofy Capsule NFT, and reveal it by calling the reveal function or at the campsite.",
               "contract_address": "0xbacd77ac0c456798e05de15999cb212129d90b70",
               "chain_id": "43114",
               "method_id": "0xb93f208a"
