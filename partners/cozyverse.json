@@ -5,6 +5,7 @@
   "missions": [
     {
       "name": "Rescue the Woofys",
+      "id": "cozyverse_rescue_woofys_mission",
       "description": "Woofys crash landed onto Polar Peaks, and are stuck in their capsules. Rescue them!",
       "bannerImgUrl": "https://github.com/CozyReef/cozy-labs-assets/blob/main/avalanche-rewards-campaign/banner.png?raw=true",
       "featuredImgUrl": "https://github.com/CozyReef/cozy-labs-assets/blob/main/avalanche-rewards-campaign/rescue-mission.png?raw=true",
@@ -15,7 +16,7 @@
         {
           "name": "Rescue a Woofy",
           "description": "Rescue a Woofy by opening a capsule.",
-          "category": "NFT, DeFi, or Gaming",
+          "category": "NFT",
           "contract_address": "0xbacd77ac0c456798e05de15999cb212129d90b70",
           "rewards": [
             {
@@ -38,7 +39,6 @@
       "badge": {
         "name": "Woofy Savior",
         "description": "Successfully rescued one or more Woofys",
-        "imgUrl": "https://github.com/CozyReef/cozy-labs-assets/blob/main/avalanche-rewards-campaign/rescue-mission-badge.png?raw=true"
       }
     }
   ]
