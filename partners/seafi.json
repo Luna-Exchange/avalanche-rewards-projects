@@ -1,13 +1,14 @@
 {
   "name": "SeaFi",
   "description": "SeaFi is a DeFi project offering high APY rewards for staking GGP and AVAX tokens in secure vaults.",
-  "featuredImgUrl": "https://seafi.app/seafi-logo.jpg",
-  "bannerImgUrl": "https://seafi.app/seafi-banner.jpg",
+  "imgUrl": "https://seafi.app/seafi-mission.jpg",
   "missions": [
     {
       "name": "SeaFi_Depositors",
       "description": "Earn rewards by depositing tokens into SeaFi Vaults.",
-      "imgUrl": "https://seafi.app/seafi-mission.jpg",
+      "id": "seafi_depositors_mission",
+      "featuredImgUrl": "https://seafi.app/seafi-logo.jpg",
+      "bannerImgUrl": "https://seafi.app/seafi-banner.jpg",
       "projectUrl": "https://seafi.app",
       "tags": ["DeFi"],
       "total_points_reward": 200,
@@ -59,8 +60,7 @@
       ],
       "badge": {
         "name": "SeaFi Depositor",
-        "description": "Awarded for staking tokens in SeaFi Vaults.",
-        "imgUrl": "https://seafi.app/seafi-badge.jpg"
+        "description": "Awarded for staking tokens in SeaFi Vaults."
       }
     }
   ]
