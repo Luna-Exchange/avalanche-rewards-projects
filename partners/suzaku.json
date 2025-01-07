@@ -36,7 +36,7 @@
               "type": "DAILY_BALANCE",
               "chain_id": "43114",
               "contract_address": "0xE3C983013B8c5830D866F550a28fD7Ed4393d5B7",
-              "method_id": [""],
+              "method_id": "",
               "metadata": {
                 "threshold": 20
               }
@@ -61,7 +61,7 @@
               "type": "DAILY_BALANCE",
               "chain_id": "43114",
               "contract_address": "0x0CEc099933F0Da490DFF91724b02e2203FAAf9Af",
-              "method_id": [""],
+              "method_id": "",
               "metadata": {
                 "threshold": 20
               }
@@ -86,7 +86,7 @@
               "type": "DAILY_BALANCE",
               "chain_id": "43114",
               "contract_address": "0x203E9101e09dc87ce391542E705a07522d19dF0d",
-              "method_id": [""],
+              "method_id": "",
               "metadata": {
                 "threshold": 0.01
               }
@@ -111,7 +111,7 @@
               "type": "DAILY_BALANCE",
               "chain_id": "43114",
               "contract_address": "0x1D8bd363922465246A91B7699e7B32BAbf5FEF62",
-              "method_id": [""],
+              "method_id": "",
               "metadata": {
                 "threshold": 0.01
               }
@@ -136,7 +136,7 @@
               "type": "DAILY_BALANCE",
               "chain_id": "43114",
               "contract_address": "0x8F1dea444380A2DDC5e6669f508d235401CaEE5F",
-              "method_id": [""],
+              "method_id": "",
               "metadata": {
                 "threshold": 500000000
               }
@@ -161,7 +161,7 @@
               "type": "DAILY_BALANCE",
               "chain_id": "43114",
               "contract_address": "0xa53E127Bfd9C4d0310858D9D5Fcdf1D2617d4C41",
-              "method_id": [""],
+              "method_id": "",
               "metadata": {
                 "threshold": 1000
               }
@@ -198,7 +198,7 @@
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0xE3C983013B8c5830D866F550a28fD7Ed4393d5B7",
-              "method_id": ["0x47e7ef24"],
+              "method_id": "0x47e7ef24",
               "metadata": {
                 "threshold": 5
               }
@@ -223,7 +223,7 @@
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0x0CEc099933F0Da490DFF91724b02e2203FAAf9Af",
-              "method_id": ["0x47e7ef24"],
+              "method_id": "0x47e7ef24",
               "metadata": {
                 "threshold": 5
               }
@@ -260,7 +260,7 @@
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0x203E9101e09dc87ce391542E705a07522d19dF0d",
-              "method_id": ["0x47e7ef24"],
+              "method_id": "0x47e7ef24",
               "metadata": {
                 "threshold": 0.0025
               }
@@ -285,7 +285,7 @@
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0x1D8bd363922465246A91B7699e7B32BAbf5FEF62",
-              "method_id": ["0x47e7ef24"],
+              "method_id": "0x47e7ef24",
               "metadata": {
                 "threshold": 0.0025
               }
@@ -322,7 +322,7 @@
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0x8F1dea444380A2DDC5e6669f508d235401CaEE5F",
-              "method_id": ["0x47e7ef24"],
+              "method_id": "0x47e7ef24",
               "metadata": {
                 "threshold": 150000000
               }
@@ -359,7 +359,7 @@
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0xa53E127Bfd9C4d0310858D9D5Fcdf1D2617d4C41",
-              "method_id": ["0x47e7ef24"],
+              "method_id": "0x47e7ef24",
               "metadata": {
                 "threshold": 250
               }

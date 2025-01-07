@@ -34,7 +34,7 @@
               "description": "Use the Balanced exchange to swap at least $100 of AVAX, USDC, or USDT for crypto on another blockchain.",
               "contract_address": "0xdf851B4f0D9b2323e03B3980b1C4Cf56273c0bd9",
               "chain_id": "43114",
-              "method_id": ["0x6a7791dd"]
+              "method_id": "0x6a7791dd"
             }
           ]
         },
@@ -56,7 +56,7 @@
               "description": "Use the Balanced bridge to transfer at least $100 from Avalanche to another blockchain.",
               "contract_address": "0xdf851B4f0D9b2323e03B3980b1C4Cf56273c0bd9",
               "chain_id": "43114",
-              "method_id": ["0xfc6308f7"]
+              "method_id": "0xfc6308f7"
             }
           ]
         },
@@ -78,7 +78,7 @@
               "description": "Deposit AVAX as collateral and borrow at least 50 bnUSD on Balanced.",
               "contract_address": "0xfC83a3F252090B26f92F91DFB9dC3Eb710AdAf1b",
               "chain_id": "43114",
-              "method_id": ["0x17fd7a33"]
+              "method_id": "0x17fd7a33"
             }
           ]
         }
