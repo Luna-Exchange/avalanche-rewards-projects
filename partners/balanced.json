@@ -35,7 +35,11 @@
               "description": "Use the Balanced exchange to swap at least $100 of AVAX, USDC, or USDT for crypto on another blockchain.",
               "contract_address": "0xdf851B4f0D9b2323e03B3980b1C4Cf56273c0bd9",
               "chain_id": "43114",
-              "method_id": "0x6a7791dd"
+              "method_id": "0x6a7791dd",
+              "metadata": {
+                "threshold": 100,
+                "isNotNativeToken": true
+              }
             }
           ]
         }
