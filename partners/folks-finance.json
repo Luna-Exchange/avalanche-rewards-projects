@@ -29,7 +29,7 @@
           "tasks": [
             {
               "name": "Create a Folks Account",
-              "type": "CONTRACT_INTERACTION",
+              "type": "FOLKS_FINANCE_ACCOUNT_CREATION",
               "description": "Complete the account creation process on Folks",
               "contract_address": "",
               "method_id": "",
@@ -51,7 +51,7 @@
           "tasks": [
             {
               "name": "Deposit an asset on Avalanche",
-              "type": "DEPOSIT",
+              "type": "FOLKS_FINANCE_DEPOSIT",
               "description": "Deposit an Avalanche asset (AVAX, USDC, BTC.b, sAVAX, wETH.e, solvBTC) on Folks",
               "contract_address": "",
               "method_id": "",
@@ -73,23 +73,51 @@
           "tasks": [
             {
               "name": "Create a loan",
-              "type": "CONTRACT_INTERACTION",
+              "type": "FOLKS_FINANCE_CREATE_LOAN",
               "description": "Create a loan on Folks",
               "contract_address": "",
               "method_id": "",
               "chain_id": "43114"
-            },
+            }
+          ]
+        },
+        {
+          "name": "Folks Finance collateralize assets ",
+          "description": "collateralize your assets",
+          "category": "DeFi",
+          "contract_address": "",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
             {
               "name": "Collateralize an Avalanche asset",
-              "type": "DEPOSIT",
+              "type": "FOLKS_FINANCE_COLLATERALIZE_ASSET",
               "description": "Collateralize an Avalanche asset (AVAX, USDC, BTC.b, sAVAX, wETH.e, solvBTC) on Folks",
               "contract_address": "",
               "method_id": "",
               "chain_id": "43114"
-            },
+            }
+          ]
+        },
+        {
+          "name": "Folks Finance borrow USD",
+          "description": "Create your first usd on Folks",
+          "category": "DeFi",
+          "contract_address": "",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
             {
               "name": "Borrow USDC",
-              "type": "DEPOSIT",
+              "type": "FOLKS_FINANCE_BORROW_USDC",
               "description": "Borrow any amount of USDC.",
               "contract_address": "",
               "method_id": "",
@@ -99,7 +127,6 @@
         }
       ],
       "badge": {
-        "imgUrl": "",
         "name": "Folks’ First Steps",
         "description": "Awarded for completing Folks’ first steps"
       }
