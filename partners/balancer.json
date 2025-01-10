@@ -1,0 +1,84 @@
+{
+  "name": "Balancer",
+  "description": "Balancer is a decentralized automated market maker (AMM) protocol that represents a flexible building block for programmable liquidity.",
+  "imgUrl": "https://raw.githubusercontent.com/balancer/brand-assets/main/logo/circle-container/logo-balancer-black-128x128.svg",
+  "project_url": "https://balancer.fi",
+  "total_points": 100,
+  "missions": [
+    {
+      "name": "Balancer AVAX LST Chad",
+      "description": "Create an sAVAX or ggAVAX LP position on Balancer,then stake for BAL rewards.",
+      "imgUrl": "https://balancer.fi/pools?networks=AVALANCHE",
+      "tags": [
+        "DeFi"
+      ],
+      "quests": [
+        {
+          "name": "Create LP Position for sAVAX or ggAVAX",
+          "description": "Create an LP Position on Balancer",
+          "category": "DeFi",
+          "contract_address": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 20
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Create LP Position",
+              "type": "LP",
+              "description": "Create an LP Position on any Balancer Pool on Avax",
+              "contract_address": "0xBA12222222228d8Ba445958a75a0704d566BF2C8",
+              "method_id": "0xb95cac28"
+            }
+          ]
+        },
+        {
+          "name": "Stake sAVAX LP",
+          "description": "Stake sAVAX/WAVAX LP tokens for rewards on Balancer.  You will have to deposit to acquire LP tokens if you do not already have them.",
+          "contract_address": "0xf9aE6D2D56f02304f72dcC61694eAD0dC8DB51f7",
+          "imgUrl": "https://balancer.fi/pools/avalanche/v2/0xfd2620c9cfcec7d152467633b3b0ca338d3d78cc00000000000000000000001c",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 40
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Stake sAVAX/WAVAX LP",
+              "type": "STAKE",
+              "description": "Stake sAVAX/AVAX LP tokens for rewards on Balancer",
+              "contract_address": "0xf9aE6D2D56f02304f72dcC61694eAD0dC8DB51f7",
+              "method_id": "0xb6b55f25",
+              "imgUrl": "https://balancer.fi/pools/avalanche/v2/0xfd2620c9cfcec7d152467633b3b0ca338d3d78cc00000000000000000000001c"
+            }
+          ]
+        },
+        {
+          "name": "Stake ggAVAX/WAVAX LP",
+          "description": "Stake ggAVAX/WAVAX LP tokens for rewards on Balancer.  You will have to deposit to acquire LP tokens if you do not already have them.",
+          "contract_address": "0x231d84c37b2c4b5a2e2fe325bb77daa65bf71d92",
+          "imgUrl": "https://balancer.fi/pools/avalanche/v2/0xc13546b97b9b1b15372368dc06529d7191081f5b00000000000000000000001d",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 40
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Stake ggAVAX/WAVAX LP",
+              "type": "STAKE",
+              "description": "Stake ggAVAX/AVAX LP tokens for rewards on Balancer",
+              "contract_address": "0x231d84c37b2c4b5a2e2fe325bb77daa65bf71d92",
+              "method_id": "0xb6b55f25",
+              "imgUrl": "https://balancer.fi/pools/avalanche/v2/0xc13546b97b9b1b15372368dc06529d7191081f5b00000000000000000000001d"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
