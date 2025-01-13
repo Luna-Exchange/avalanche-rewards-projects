@@ -153,8 +153,7 @@
                             "chain_id": "43114",
                             "method_id": "0xa349ab2c",
                             "metadata": {
-                                "threshold": 500,
-                                "frequency": "Monthly"
+                                "threshold": 500
                             }
                         }
                     ]
@@ -179,8 +178,7 @@
                             "chain_id": "43114",
                             "method_id": "0xa349ab2c",
                             "metadata": {
-                                "threshold": 1000,
-                                "frequency": "Monthly"
+                                "threshold": 1000
                             }
                         }
                     ]
@@ -250,75 +248,6 @@
                             "frequency": "Weekly",
                             "metadata": {
                                 "wavaxAddress": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Invest in $CAI - Colony Avalanche Index",
-            "id": "colony_cai_investment",
-            "description": "Buy $CAI, the leading Avalanche benchmark index composed of $AVAX and the most prominent ecosystem projects. The index enhances returns for investors by generating yield on its underlying assets.",
-            "featuredImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_logo.png",
-            "bannerImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_banner.png",
-            "projectUrl": "https://app.colonylab.io/index",
-            "tags": ["DeFi"],
-            "total_points_reward": 125,
-            "badge": {
-                "name": "Avalanche Eco Ally",
-                "description": "Awarded for investing in $CAI and supporting the Avalanche ecosystem bluechips",
-                "imgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_logo.png"
-            },
-            "quests": [
-                {
-                    "name": "$CAI Token Minting/Buying",
-                    "description": "Buy $CAI Token on Colony's Index page",
-                    "category": "DeFi",
-                    "contract_address": "TBD",
-                    "rewards": [
-                        {
-                            "type": "points",
-                            "value": 50
-                        }
-                    ],
-                    "tasks": [
-                        {
-                            "name": "Buy $500 worth of $CAI Token",
-                            "type": "BUY",
-                            "description": "Buy a minimum of $500 worth of CAI using AVAX on Colony's Index page.",
-                            "contract_address": "TBD",
-                            "chain_id": "43114",
-                            "method_id": "TBD",
-                            "frequency": "Weekly",
-                            "metadata": {
-                                "threshold": 500
-                            }
-                        }
-                    ]
-                },
-                {
-                    "name": "$CAI Token Minting/Buying",
-                    "description": "Buy $CAI Token on Colony's Index page",
-                    "category": "DeFi",
-                    "contract_address": "TBD",
-                    "rewards": [
-                        {
-                            "type": "points",
-                            "value": 75
-                        }
-                    ],
-                    "tasks": [
-                        {
-                            "name": "Buy $1000 worth of $CAI Token",
-                            "type": "BUY",
-                            "description": "Buy a minimum of $1000 worth of CAI using AVAX on Colony's Index page.",
-                            "contract_address": "TBD",
-                            "chain_id": "43114",
-                            "method_id": "TBD",
-                            "frequency": "Weekly",
-                            "metadata": {
-                                "threshold": 1000
                             }
                         }
                     ]
