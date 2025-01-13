@@ -1,0 +1,47 @@
+{
+  "name": "Cozyverse",
+  "description": "Cozyverse is a gaming studio and one of web3's most active gaming communities.",
+  "imgUrl": "https://github.com/CozyReef/cozy-labs-assets/blob/main/avalanche-rewards-campaign/featured-image.png?raw=true",
+  "missions": [
+    {
+      "name": "Rescue the Woofys",
+      "id": "cozyverse_rescue_woofys_mission",
+      "description": "Woofys crash landed onto Polar Peaks, and are stuck in their capsules. Rescue them!",
+      "bannerImgUrl": "https://github.com/CozyReef/cozy-labs-assets/blob/main/avalanche-rewards-campaign/banner.png?raw=true",
+      "featuredImgUrl": "https://github.com/CozyReef/cozy-labs-assets/blob/main/avalanche-rewards-campaign/rescue-mission.png?raw=true",
+      "projectUrl": "https://cozyverse.xyz/region/unknown/campsite",
+      "tags": [
+        "NFT"
+      ],
+      "total_points_reward": 100,
+      "quests": [
+        {
+          "name": "Rescue a Woofy",
+          "description": "Rescue a Woofy by opening a capsule.",
+          "category": "NFT",
+          "contract_address": "0xbacd77ac0c456798e05de15999cb212129d90b70",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Open a capsule.",
+              "type": "REVEAL",
+              "description": "Obtain a Woofy Capsule NFT, and reveal it by calling the reveal function or at the campsite.",
+              "contract_address": "0xbacd77ac0c456798e05de15999cb212129d90b70",
+              "chain_id": "43114",
+              "method_id": "0xb93f208a"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Woofy Savior",
+        "description": "Successfully rescued one or more Woofys"
+      }
+    }
+  ]
+}

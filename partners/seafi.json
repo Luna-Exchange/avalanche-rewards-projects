@@ -1,0 +1,67 @@
+{
+  "name": "SeaFi",
+  "description": "SeaFi is a DeFi project offering high APY rewards for staking GGP and AVAX tokens in secure vaults.",
+  "imgUrl": "https://seafi.app/seafi-mission.jpg",
+  "missions": [
+    {
+      "name": "SeaFi_Depositors",
+      "description": "Earn rewards by depositing tokens into SeaFi Vaults.",
+      "id": "seafi_depositors_mission",
+      "featuredImgUrl": "https://seafi.app/seafi-logo.jpg",
+      "bannerImgUrl": "https://seafi.app/seafi-banner.jpg",
+      "projectUrl": "https://seafi.app",
+      "tags": ["DeFi"],
+      "total_points_reward": 200,
+      "quests": [
+        {
+          "name": "GGP_Vault_Deposits",
+          "description": "Deposit GGP tokens into the SeaFi GGP Vault.",
+          "category": "DeFi",
+          "contract_address": "0xdF34022e8a280fc79499cA560439Bb6f9797EbD8",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit GGP",
+              "type": "STAKE",
+              "description": "Stake your GGP tokens in the SeaFi GGP Vault.",
+              "contract_address": "0xdF34022e8a280fc79499cA560439Bb6f9797EbD8",
+              "chain_id": "43114",
+              "method_id": "0x6e553f65"
+            }
+          ]
+        },
+        {
+          "name": "AVAX_Vault_Deposits",
+          "description": "Deposit AVAX tokens into the SeaFi AVAX Vault.",
+          "category": "DeFi",
+          "contract_address": "0x36213ca1483869c5616be738Bf8da7C9B34Ace8d",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Deposit AVAX",
+              "type": "STAKE",
+              "description": "Stake your AVAX tokens in the SeaFi AVAX Vault.",
+              "contract_address": "0x36213ca1483869c5616be738Bf8da7C9B34Ace8d",
+              "chain_id": "43114",
+              "method_id": "0xa0d065c3"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "SeaFi Depositor",
+        "description": "Awarded for staking tokens in SeaFi Vaults."
+      }
+    }
+  ]
+}
