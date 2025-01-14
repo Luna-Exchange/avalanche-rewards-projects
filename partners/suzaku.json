@@ -20,7 +20,7 @@
       "quests": [
         {
           "name": "Daily sAVAX Restaking",
-          "description": "Maintain a daily balance of at least 20 sAVAX restaked",
+          "description": "Maintain a daily balance of at least $1000 in sAVAX restaked",
           "category": "DeFi",
           "contract_address": "0xE3C983013B8c5830D866F550a28fD7Ed4393d5B7",
           "rewards": [
@@ -32,20 +32,20 @@
           "tasks": [
             {
               "name": "Maintain sAVAX restaked balance",
-              "description": "Keep at least 20 sAVAX restaked",
+              "description": "Keep at least $1000 in sAVAX restaked",
               "type": "DAILY_BALANCE",
               "chain_id": "43114",
               "contract_address": "0xE3C983013B8c5830D866F550a28fD7Ed4393d5B7",
-              "method_id": [""],
+              "method_id": "",
               "metadata": {
-                "threshold": 20
+                "threshold": 1000
               }
             }
           ]
         },
         {
           "name": "Daily ggAVAX Restaking",
-          "description": "Maintain a daily balance of at least 20 ggAVAX restaked",
+          "description": "Maintain a daily balance of at least $1000 in ggAVAX restaked",
           "category": "DeFi",
           "contract_address": "0x0CEc099933F0Da490DFF91724b02e2203FAAf9Af",
           "rewards": [
@@ -57,20 +57,20 @@
           "tasks": [
             {
               "name": "Maintain ggAVAX restaked balance",
-              "description": "Keep at least 20 ggAVAX restaked",
+              "description": "Keep at least $1000 in ggAVAX restaked",
               "type": "DAILY_BALANCE",
               "chain_id": "43114",
               "contract_address": "0x0CEc099933F0Da490DFF91724b02e2203FAAf9Af",
-              "method_id": [""],
+              "method_id": "",
               "metadata": {
-                "threshold": 20
+                "threshold": 1000
               }
             }
           ]
         },
         {
           "name": "Daily BTC.b Restaking",
-          "description": "Maintain a daily balance of at least 0.01 BTC.b restaked",
+          "description": "Maintain a daily balance of at least $1000 in BTC.b restaked",
           "category": "DeFi",
           "contract_address": "0x203E9101e09dc87ce391542E705a07522d19dF0d",
           "rewards": [
@@ -82,20 +82,20 @@
           "tasks": [
             {
               "name": "Maintain BTC.b restaked balance",
-              "description": "Keep at least 0.01 BTC.b restaked",
+              "description": "Keep at least $1000 in BTC.b restaked",
               "type": "DAILY_BALANCE",
               "chain_id": "43114",
               "contract_address": "0x203E9101e09dc87ce391542E705a07522d19dF0d",
-              "method_id": [""],
+              "method_id": "",
               "metadata": {
-                "threshold": 0.01
+                "threshold": 1000
               }
             }
           ]
         },
         {
           "name": "Daily SolvBTC Restaking",
-          "description": "Maintain a daily balance of at least 0.01 SolvBTC restaked",
+          "description": "Maintain a daily balance of at least $1000 in SolvBTC restaked",
           "category": "DeFi",
           "contract_address": "0x1D8bd363922465246A91B7699e7B32BAbf5FEF62",
           "rewards": [
@@ -107,20 +107,20 @@
           "tasks": [
             {
               "name": "Maintain SolvBTC restaked balance",
-              "description": "Keep at least 0.01 SolvBTC restaked",
+              "description": "Keep at least $1000 in SolvBTC restaked",
               "type": "DAILY_BALANCE",
               "chain_id": "43114",
               "contract_address": "0x1D8bd363922465246A91B7699e7B32BAbf5FEF62",
-              "method_id": [""],
+              "method_id": "",
               "metadata": {
-                "threshold": 0.01
+                "threshold": 1000
               }
             }
           ]
         },
         {
           "name": "Daily COQ Restaking",
-          "description": "Maintain a daily balance of at least 500m COQ restaked",
+          "description": "Maintain a daily balance of at least $1000 in COQ restaked",
           "category": "DeFi",
           "contract_address": "0x8F1dea444380A2DDC5e6669f508d235401CaEE5F",
           "rewards": [
@@ -132,20 +132,20 @@
           "tasks": [
             {
               "name": "Maintain COQ restaked balance",
-              "description": "Keep at least 500m COQ restaked",
+              "description": "Keep at least $1000 in COQ restaked",
               "type": "DAILY_BALANCE",
               "chain_id": "43114",
               "contract_address": "0x8F1dea444380A2DDC5e6669f508d235401CaEE5F",
-              "method_id": [""],
+              "method_id": "",
               "metadata": {
-                "threshold": 500000000
+                "threshold": 1000
               }
             }
           ]
         },
         {
           "name": "Daily AUSD Restaking",
-          "description": "Maintain a daily balance of at least 1000 AUSD restaked",
+          "description": "Maintain a daily balance of at least $1000 in AUSD restaked",
           "category": "DeFi",
           "contract_address": "0xa53E127Bfd9C4d0310858D9D5Fcdf1D2617d4C41",
           "rewards": [
@@ -157,11 +157,11 @@
           "tasks": [
             {
               "name": "Maintain AUSD restaked balance",
-              "description": "Keep at least 1000 AUSD restaked",
+              "description": "Keep at least $1000 in AUSD restaked",
               "type": "DAILY_BALANCE",
               "chain_id": "43114",
               "contract_address": "0xa53E127Bfd9C4d0310858D9D5Fcdf1D2617d4C41",
-              "method_id": [""],
+              "method_id": "",
               "metadata": {
                 "threshold": 1000
               }
@@ -194,13 +194,13 @@
           "tasks": [
             {
               "name": "Restake sAVAX",
-              "description": "Restake 5+ sAVAX on Suzaku",
+              "description": "Restake more than $250+ in sAVAX on Suzaku",
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0xE3C983013B8c5830D866F550a28fD7Ed4393d5B7",
-              "method_id": ["0x47e7ef24"],
+              "method_id": "0x47e7ef24",
               "metadata": {
-                "threshold": 5
+                "threshold": 250
               }
             }
           ]
@@ -219,13 +219,13 @@
           "tasks": [
             {
               "name": "Restake ggAVAX",
-              "description": "Restake 5+ ggAVAX on Suzaku",
+              "description": "Restake $250+ in ggAVAX on Suzaku",
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0x0CEc099933F0Da490DFF91724b02e2203FAAf9Af",
-              "method_id": ["0x47e7ef24"],
+              "method_id": "0x47e7ef24",
               "metadata": {
-                "threshold": 5
+                "threshold": 250
               }
             }
           ]
@@ -256,13 +256,13 @@
           "tasks": [
             {
               "name": "Restake BTC.b",
-              "description": "Restake 0.0025+ BTC.b on Suzaku",
+              "description": "Restake $250+ in BTC.b on Suzaku",
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0x203E9101e09dc87ce391542E705a07522d19dF0d",
-              "method_id": ["0x47e7ef24"],
+              "method_id": "0x47e7ef24",
               "metadata": {
-                "threshold": 0.0025
+                "threshold": 250
               }
             }
           ]
@@ -281,13 +281,13 @@
           "tasks": [
             {
               "name": "Restake SolvBTC",
-              "description": "Restake 0.0025+ SolvBTC on Suzaku",
+              "description": "Restake $250+ in SolvBTC on Suzaku",
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0x1D8bd363922465246A91B7699e7B32BAbf5FEF62",
-              "method_id": ["0x47e7ef24"],
+              "method_id": "0x47e7ef24",
               "metadata": {
-                "threshold": 0.0025
+                "threshold": 250
               }
             }
           ]
@@ -318,13 +318,13 @@
           "tasks": [
             {
               "name": "Restake COQ",
-              "description": "Restake 150m+ COQ on Suzaku",
+              "description": "Restake $250 in COQ on Suzaku",
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0x8F1dea444380A2DDC5e6669f508d235401CaEE5F",
-              "method_id": ["0x47e7ef24"],
+              "method_id": "0x47e7ef24",
               "metadata": {
-                "threshold": 150000000
+                "threshold": 250
               }
             }
           ]
@@ -355,11 +355,11 @@
           "tasks": [
             {
               "name": "Restake AUSD",
-              "description": "Restake 250+ AUSD on Suzaku",
+              "description": "Restake $250+ in AUSD on Suzaku",
               "type": "STAKE",
               "chain_id": "43114",
               "contract_address": "0xa53E127Bfd9C4d0310858D9D5Fcdf1D2617d4C41",
-              "method_id": ["0x47e7ef24"],
+              "method_id": "0x47e7ef24",
               "metadata": {
                 "threshold": 250
               }
