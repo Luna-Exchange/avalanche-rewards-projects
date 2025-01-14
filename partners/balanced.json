@@ -8,13 +8,14 @@
   },
   "missions": [
     {
-      "name": "Explore Balanced DeFi",
-      "description": "Experience the best of cross-chain DeFi on Balanced.",
+      "name": "Swap crypto cross-chain",
+      "id": "balanced_swap_mission",
+      "description": "Swap AVAX, USDC, or USDT for crypto on another blockchain.",
       "featuredImgUrl": "https://balanced.network/resources/banner-16-9.png",
       "bannerImgUrl": "https://balanced.network/resources/banner-5-1.png",
       "projectUrl": "https://balanced.network/",
       "tags": ["DeFi"],
-      "total_points_reward": 100,
+      "total_points_reward": 25,
       "quests": [
         {
           "name": "Swap crypto cross-chain",
@@ -34,10 +35,26 @@
               "description": "Use the Balanced exchange to swap at least $100 of AVAX, USDC, or USDT for crypto on another blockchain.",
               "contract_address": "0xdf851B4f0D9b2323e03B3980b1C4Cf56273c0bd9",
               "chain_id": "43114",
-              "method_id": ["0x6a7791dd"]
+              "method_id": "0x6a7791dd",
+              "metadata": {
+                "threshold": 100,
+                "isNotNativeToken": true
+              }
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Transfer crypto cross-chain",
+      "id": "balanced_transfer_mission",
+      "description": "Transfer crypto from Avalanche to another blockchain.",
+      "featuredImgUrl": "https://balanced.network/resources/banner-16-9.png",
+      "bannerImgUrl": "https://balanced.network/resources/banner-5-1.png",
+      "projectUrl": "https://balanced.network/",
+      "tags": ["DeFi"],
+      "total_points_reward": 25,
+      "quests": [
         {
           "name": "Transfer crypto cross-chain",
           "description": "Transfer crypto from Avalanche to another blockchain.",
@@ -56,10 +73,22 @@
               "description": "Use the Balanced bridge to transfer at least $100 from Avalanche to another blockchain.",
               "contract_address": "0xdf851B4f0D9b2323e03B3980b1C4Cf56273c0bd9",
               "chain_id": "43114",
-              "method_id": ["0xfc6308f7"]
+              "method_id": "0xfc6308f7"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Borrow bnUSD",
+      "id": "balanced_borrow_mission",
+      "description": "Use AVAX as leverage to borrow the Balanced Dollar stablecoin.",
+      "featuredImgUrl": "https://balanced.network/resources/banner-16-9.png",
+      "bannerImgUrl": "https://balanced.network/resources/banner-5-1.png",
+      "projectUrl": "https://balanced.network/",
+      "tags": ["DeFi"],
+      "total_points_reward": 50,
+      "quests": [
         {
           "name": "Borrow the bnUSD stablecoin",
           "description": "Use AVAX as leverage to borrow the Balanced Dollar stablecoin.",
@@ -78,7 +107,7 @@
               "description": "Deposit AVAX as collateral and borrow at least 50 bnUSD on Balanced.",
               "contract_address": "0xfC83a3F252090B26f92F91DFB9dC3Eb710AdAf1b",
               "chain_id": "43114",
-              "method_id": ["0x17fd7a33"]
+              "method_id": "0x17fd7a33"
             }
           ]
         }
