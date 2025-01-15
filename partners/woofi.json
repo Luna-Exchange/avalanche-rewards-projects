@@ -6,6 +6,7 @@
     "missions": [
         {
             "name": "Swap and chill",
+            "id": "woofi_swap_avax_tokens_mission",
             "description": "Perform a Swap: Buy AVAX Tokens",
             "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/woo_pilled_badge.jpg",
             "projectUrl": "https://woofi.com",
@@ -45,6 +46,7 @@
         },
         {
             "name": "Stake it til you make it",
+            "id": "woofi_stake_tokens_mission",
             "description": "Stake WOO Tokens",
             "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/diamond_handed.jpg",
             "projectUrl": "https://woofi.com/stake",
@@ -84,6 +86,7 @@
         },
         {
             "name": "Supercharge your yield",
+            "id": "woofi_yield_mission",
             "description": "Deposit some AVAX into WOOFi Earn",
             "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/all_charged_up.jpg",
             "projectUrl": "https://woofi.com/earn",
@@ -123,6 +126,7 @@
         },
         {
             "name": "Trade like a pro",
+            "id": "woofi_deposit_mission",
             "description": "Deposit onto WOOFi Pro and execute your first trade",
             "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/pro_trader.jpg",
             "projectUrl": "https://pro.woofi.com",
