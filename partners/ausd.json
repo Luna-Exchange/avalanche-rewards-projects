@@ -1,0 +1,249 @@
+{
+  "name": "Ausd",
+  "description": "AUSD, a digital dollar minted 1:1 with USD fiat. AUSD is designed to be a secure digital currency, utilizing one of the world’s largest custodian banks to safeguard assets. AUSD enables users to participate in trading, lending and payments.",
+  "imgUrl": "https://raw.githubusercontent.com/agora-finance/public-assets/refs/heads/master/src/token-icon/AUSD_64px.svg",
+  "missions": [
+    {
+      "name": "AUSD MAINTAIN BALANCE",
+      "id": "ausd_daily_maintain_balance",
+      "description": "Maintain Balance: Maintain AUSD balance in Avalanche",
+      "frequency": "daily",
+      "featuredImgUrl": "https://raw.githubusercontent.com/agora-finance/public-assets/refs/heads/master/src/agora-logo/agora-logo-16x9.png",
+      "bannerImgUrl": "https://raw.githubusercontent.com/agora-finance/public-assets/refs/heads/master/src/agora-logo/agora-logo-5x1.png",
+      "projectUrl": "https://www.agora.finance/",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 610,
+      "quests": [
+        {
+          "name": "Maintain a balance of more than $100 worth of AUSD in Avalanche",
+          "description": "Maintain a balance of more than $100 worth of AUSD in Avalanche",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 10
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $100 worth of AUSD in Avalanche",
+              "type": "DAILY_BALANCE",
+              "description": "Maintain a balance of more than $100 worth of AUSD in Avalanche",
+              "contract_address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+              "method_id": "",
+              "metadata": {
+                "threshold": 100,
+                "partner": "ausd"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Maintain a balance of more than $1,000 worth of AUSD in Avalanche",
+          "description": "Maintain a balance of more than $1,000 worth of AUSD in Avalanche",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $1,000 worth of AUSD in Avalanche",
+              "type": "DAILY_BALANCE",
+              "description": "Maintain a balance of more than $1,000 worth of AUSD in Avalanche",
+              "contract_address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+              "method_id": "",
+              "metadata": {
+                "threshold": 1000,
+                "partner": "ausd"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Maintain a balance of more than $5,000 worth of AUSD in Avalanche",
+          "description": "Maintain a balance of more than $5,000 worth of AUSD in Avalanche",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 500
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $5,000 worth of AUSD in Avalanche",
+              "type": "DAILY_BALANCE",
+              "description": "Maintain a balance of more than $5,000 worth of AUSD in Avalanche",
+              "contract_address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+              "method_id": "",
+              "metadata": {
+                "threshold": 5000,
+                "partner": "ausd"
+              }
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Ausd asset holder Champion",
+        "description": "Awarded for holding AUSD on the Avalanche network.",
+        "imgUrl": "https://raw.githubusercontent.com/agora-finance/public-assets/refs/heads/master/src/token-icon/AUSD_64px.svg"
+      }
+    },
+    {
+      "name": "AUSD MAINTAIN AAVE BALANCE",
+      "id": "ausd_daily_maintain_aave_balance",
+      "description": "Maintain Balance: Maintain Ausd balance in Aave Avalanche Lending pool",
+      "frequency": "daily",
+      "featuredImgUrl": "https://raw.githubusercontent.com/agora-finance/public-assets/refs/heads/master/src/agora-logo/agora-logo-16x9.png",
+      "bannerImgUrl": "https://raw.githubusercontent.com/agora-finance/public-assets/refs/heads/master/src/agora-logo/agora-logo-5x1.png",
+      "projectUrl": "https://www.agora.finance/",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 275,
+      "quests": [
+        {
+          "name": "Maintain a balance of more than $100 worth of AUSD in Aave Avalanche Lending pool",
+          "description": "Maintain a balance of more than $100 worth of AUSD in Aave Avalanche Lending pool",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $100 worth of AUSD in Aave Avalanche Lending pool",
+              "type": "DAILY_BALANCE",
+              "description": "Maintain a balance of more than $100 worth of AUSD in Aave Avalanche Lending pool",
+              "contract_address": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
+              "method_id": "",
+              "metadata": {
+                "threshold": 100,
+                "partner": "ausd"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Maintain a balance of more than $1,000 worth of AUSD in the Aave Avalanche Lending pool",
+          "description": "Maintain a balance of more than $1,000 worth of AUSD in the Aave Avalanche Lending pool",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 250
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $1,000 worth of AUSD in the Aave Avalanche Lending pool",
+              "type": "DAILY_BALANCE",
+              "description": "Maintain a balance of more than $1,000 worth of AUSD in ther Aave Avalanche Lending pool",
+              "contract_address": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
+              "method_id": "",
+              "metadata": {
+                "threshold": 1000,
+                "partner": "ausd"
+              }
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Ausd x Aave asset lender Champion",
+        "description": "Awarded for lending AUSD in the Aave Avalanche Lending pool.",
+        "imgUrl": "https://raw.githubusercontent.com/agora-finance/public-assets/refs/heads/master/src/token-icon/AUSD_64px.svg"
+      }
+    },
+    {
+      "name": "AUSD MAINTAIN BENQI BALANCE",
+      "id": "ausd_daily_maintain_benqi_balance",
+      "description": "Maintain Balance: Maintain Ausd balance in Benqi Avalanche Lending pool",
+      "frequency": "daily",
+      "featuredImgUrl": "https://raw.githubusercontent.com/agora-finance/public-assets/refs/heads/master/src/agora-logo/agora-logo-16x9.png",
+      "bannerImgUrl": "https://raw.githubusercontent.com/agora-finance/public-assets/refs/heads/master/src/agora-logo/agora-logo-5x1.png",
+      "projectUrl": "https://www.agora.finance/",
+      "tags": [
+        "DeFi"
+      ],
+      "total_points_reward": 275,
+      "quests": [
+        {
+          "name": "Maintain a balance of more than $100 worth of AUSD in Benqi Avalanche Lending pool",
+          "description": "Maintain a balance of more than $100 worth of AUSD in Benqi Avalanche Lending pool",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x190D94613A09ad7931FcD17CD6A8F9B6B47ad414",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 25
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $100 worth of AUSD in Benqi Avalanche Lending pool",
+              "type": "DAILY_BALANCE",
+              "description": "Maintain a balance of more than $100 worth of AUSD in Benqi Avalanche Lending pool",
+              "contract_address": "0x190D94613A09ad7931FcD17CD6A8F9B6B47ad414",
+              "method_id": "",
+              "metadata": {
+                "threshold": 100,
+                "partner": "ausd"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Maintain a balance of more than $1,000 worth of AUSD in Benqi Avalanche Lending pool",
+          "description": "Maintain a balance of more than $1,000 worth of AUSD in Benqi Avalanche Lending pool",
+          "category": "DeFi",
+          "frequency": "daily",
+          "contract_address": "0x190D94613A09ad7931FcD17CD6A8F9B6B47ad414",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 250
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Maintain a balance of more than $1,000 worth of AUSD in Benqi Avalanche Lending pool",
+              "type": "DAILY_BALANCE",
+              "description": "Maintain a balance of more than $1,000 worth of AUSD in Benqi Avalanche Lending pool",
+              "contract_address": "0x190D94613A09ad7931FcD17CD6A8F9B6B47ad414",
+              "method_id": "",
+              "metadata": {
+                "threshold": 1000,
+                "partner": "ausd"
+              }
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "Ausd asset lender Champion",
+        "description": "Awarded for lending AUSD in the Benqi Avalanche Lending pool.",
+        "imgUrl": "https://raw.githubusercontent.com/agora-finance/public-assets/refs/heads/master/src/token-icon/AUSD_64px.svg"
+      }
+    }
+  ]
+}
