@@ -207,7 +207,6 @@
               "method_id": "0x47e7ef24",
               "metadata": {
                 "threshold": 5,
-                "partner": "suzaku",
                 "useTokenValue":true
               }
             }
@@ -234,7 +233,6 @@
               "method_id": "0x47e7ef24",
               "metadata": {
                 "threshold": 5,
-                "partner": "suzaku",
                 "useTokenValue":true
               }
             }
@@ -273,7 +271,6 @@
               "method_id": "0x47e7ef24",
               "metadata": {
                 "threshold": 0.0025,
-                "partner": "suzaku",
                 "useTokenValue":true
               }
             }
@@ -300,7 +297,6 @@
               "method_id": "0x47e7ef24",
               "metadata": {
                 "threshold": 0.0025,
-                "partner": "suzaku",
                 "useTokenValue":true
               }
             }
@@ -339,7 +335,6 @@
               "method_id": "0x47e7ef24",
               "metadata": {
                 "threshold": 150000000,
-                "partner": "suzaku",
                 "useTokenValue":true
               }
             }
@@ -378,7 +373,6 @@
               "method_id": "0x47e7ef24",
               "metadata": {
                 "threshold": 250,
-                "partner": "suzaku",
                 "useTokenValue":true
               }
             }
