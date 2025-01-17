@@ -220,7 +220,7 @@
         {
             "name": "Claim free AVAX rewards from Colony's Validator Program",
             "id": "colony_claim_avax",
-            "description": "Claim and enjoy hassle-free year-long $AVAX airdrops—without the need to stake your own $AVAX, trade, or provide liquidity, thanks to Colony’s Validator Program. ",
+            "description": "Claim and enjoy hassle-free year-long $AVAX airdrops without the need to stake your own $AVAX, trade, or provide liquidity, thanks to Colony's Validator Program. ",
             "featuredImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_logo.png",
             "bannerImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_banner.png",
             "projectUrl": "https://app.colonylab.io/validator-program/avax",
