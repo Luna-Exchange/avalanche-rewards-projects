@@ -312,7 +312,7 @@
       "bannerImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-5-1.png",
       "projectUrl": "https://restake.suzaku.network",
       "tags": ["DeFi"],
-      "total_points_reward": 50,
+      "total_points_reward": 100,
       "quests": [
         {
           "name": "COQ Restaking",
@@ -322,7 +322,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 50
+              "value": 100
             }
           ],
           "tasks": [
@@ -350,7 +350,7 @@
       "bannerImgUrl": "https://docs.suzaku.network/img/suzaku-banners/suzaku-banner-5-1.png",
       "projectUrl": "https://restake.suzaku.network",
       "tags": ["DeFi"],
-      "total_points_reward": 50,
+      "total_points_reward": 100,
       "quests": [
         {
           "name": "AUSD Restaking",
@@ -360,7 +360,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 50
+              "value": 100
             }
           ],
           "tasks": [

@@ -207,7 +207,7 @@
             {
               "name": "Deposit aUSD/USDC to Pharaoh Pool",
               "type": "DEPOSIT",
-              "description": "Deposit aUSD into Rebalance Pool",
+              "description": "Deposit aUSD into Pharaoh Pool",
               "contract_address": "0x1a66208180c20cc893ac5092d0cce95994cb1ae0",
               "method_id": "0xe6c620f0"
             }

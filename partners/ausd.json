@@ -14,7 +14,7 @@
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 610,
+      "total_points_reward": 145,
       "quests": [
         {
           "name": "Maintain a balance of more than $100 worth of AUSD in Avalanche",
@@ -25,7 +25,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 10
+              "value": 20
             }
           ],
           "tasks": [
@@ -36,7 +36,7 @@
               "contract_address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
               "method_id": "",
               "metadata": {
-                "threshold": 100,
+                "threshold": 20,
                 "partner": "ausd"
               }
             }
@@ -51,7 +51,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 100
+              "value": 50
             }
           ],
           "tasks": [
@@ -77,7 +77,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 500
+              "value": 75
             }
           ],
           "tasks": [
@@ -112,7 +112,7 @@
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 275,
+      "total_points_reward": 75,
       "quests": [
         {
           "name": "Maintain a balance of more than $100 worth of AUSD in Aave Avalanche Lending pool",
@@ -149,7 +149,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 250
+              "value": 50
             }
           ],
           "tasks": [
@@ -184,7 +184,7 @@
       "tags": [
         "DeFi"
       ],
-      "total_points_reward": 275,
+      "total_points_reward": 75,
       "quests": [
         {
           "name": "Maintain a balance of more than $100 worth of AUSD in Benqi Avalanche Lending pool",
@@ -221,7 +221,7 @@
           "rewards": [
             {
               "type": "points",
-              "value": 250
+              "value": 50
             }
           ],
           "tasks": [
