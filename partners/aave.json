@@ -8,8 +8,8 @@
       "id": "aave_daily_maintain_avax",
       "description": "Maintain Balance: Maintain AVAX balance in Avalanche Lending pool",
       "frequency": "daily",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreia4ajxi6wqw7pzge76ubhtzsszayzlrjgqeteedsubqw2jv5dx4uy",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreievpql5apyv6izzgrc7ueye5kopl3jktbumv2454btcmeuxt3p5ka",
       "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
@@ -104,8 +104,8 @@
       "id": "aave_daily_maintain_savax",
       "description": "Maintain Balance: Maintain sAVAX balance in Avalanche Lending pool",
       "frequency": "daily",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreia4ajxi6wqw7pzge76ubhtzsszayzlrjgqeteedsubqw2jv5dx4uy",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreievpql5apyv6izzgrc7ueye5kopl3jktbumv2454btcmeuxt3p5ka",
       "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
@@ -200,9 +200,8 @@
       "id": "aave_daily_maintain_btc_b",
       "description": "Maintain Balance: Maintain BTC.B balance in Avalanche Lending pool",
       "frequency": "daily",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://app.aave.com/",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreia4ajxi6wqw7pzge76ubhtzsszayzlrjgqeteedsubqw2jv5dx4uy",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreievpql5apyv6izzgrc7ueye5kopl3jktbumv2454btcmeuxt3p5ka",      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -296,9 +295,8 @@
       "id": "aave_daily_maintain_usdc",
       "description": "Maintain Balance: Maintain USDC balance in Avalanche Lending pool",
       "frequency": "daily",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://app.aave.com/",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreia4ajxi6wqw7pzge76ubhtzsszayzlrjgqeteedsubqw2jv5dx4uy",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreievpql5apyv6izzgrc7ueye5kopl3jktbumv2454btcmeuxt3p5ka",      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -392,9 +390,8 @@
       "id": "aave_daily_maintain_usdt",
       "description": "Maintain Balance: Maintain USDT balance in Avalanche Lending pool",
       "frequency": "daily",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://app.aave.com/",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreia4ajxi6wqw7pzge76ubhtzsszayzlrjgqeteedsubqw2jv5dx4uy",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreievpql5apyv6izzgrc7ueye5kopl3jktbumv2454btcmeuxt3p5ka",      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -487,9 +484,8 @@
       "name": "AAVE DAILY SUPPLY USDC",
       "id": "aave_supply_daily_asset_usdc",
       "description": "Supply Asset: Supply USDC to the Avalanche network.",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://app.aave.com/",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreia4ajxi6wqw7pzge76ubhtzsszayzlrjgqeteedsubqw2jv5dx4uy",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreievpql5apyv6izzgrc7ueye5kopl3jktbumv2454btcmeuxt3p5ka",      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -580,9 +576,8 @@
       "name": "AAVE DAILY BORROW USDC",
       "id": "aave_borrow_daily_usdc",
       "description": "Borrow Asset: Borrow USDC on the Avalanche network.",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://app.aave.com/",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreia4ajxi6wqw7pzge76ubhtzsszayzlrjgqeteedsubqw2jv5dx4uy",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreievpql5apyv6izzgrc7ueye5kopl3jktbumv2454btcmeuxt3p5ka",      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -673,9 +668,8 @@
       "name": "DAILY BORROW AVAX",
       "id": "aave_borrow_daily_avax",
       "description": "Borrow Asset: Borrow AVAX on the Avalanche network.",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://app.aave.com/",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreia4ajxi6wqw7pzge76ubhtzsszayzlrjgqeteedsubqw2jv5dx4uy",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreievpql5apyv6izzgrc7ueye5kopl3jktbumv2454btcmeuxt3p5ka",      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -766,9 +760,8 @@
       "name": "DAILY SUPPLY AVAX",
       "id": "aave_supply_daily_avax",
       "description": "Supply Asset: Supply avax to the Avalanche network.",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://app.aave.com/",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreia4ajxi6wqw7pzge76ubhtzsszayzlrjgqeteedsubqw2jv5dx4uy",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreievpql5apyv6izzgrc7ueye5kopl3jktbumv2454btcmeuxt3p5ka",      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -856,9 +849,8 @@
       "name": "BORROW AVAX",
       "id": "aave_borrow_avax",
       "description": "Borrow Asset: Borrow AVAX on the Avalanche network.",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://app.aave.com/",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreia4ajxi6wqw7pzge76ubhtzsszayzlrjgqeteedsubqw2jv5dx4uy",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreievpql5apyv6izzgrc7ueye5kopl3jktbumv2454btcmeuxt3p5ka",      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -896,9 +888,8 @@
       "name": "BORROW USDC",
       "id": "aave_borrow_usdc",
       "description": "Borrow Asset: Borrow USDC on the Avalanche network.",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://app.aave.com/",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreia4ajxi6wqw7pzge76ubhtzsszayzlrjgqeteedsubqw2jv5dx4uy",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreievpql5apyv6izzgrc7ueye5kopl3jktbumv2454btcmeuxt3p5ka",      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -936,9 +927,8 @@
       "name": "SUPPLY AVAX",
       "id": "aave_supply_avax",
       "description": "Supply Asset: Supply avax to the Avalanche network.",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://app.aave.com/",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreia4ajxi6wqw7pzge76ubhtzsszayzlrjgqeteedsubqw2jv5dx4uy",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreievpql5apyv6izzgrc7ueye5kopl3jktbumv2454btcmeuxt3p5ka",      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
@@ -976,9 +966,8 @@
       "name": "SUPPLY USDC",
       "id": "aave_supply_asset_usdc",
       "description": "Supply Asset: Supply USDC to the Avalanche network.",
-      "featuredImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "bannerImgUrl": "https://raw.githubusercontent.com/aave-dao/aave-brand-kit/9f80ef887cf313d5c6c411f71cbd12610ded8dca/Ronnie/celebrating-purple.svg",
-      "projectUrl": "https://app.aave.com/",
+      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreia4ajxi6wqw7pzge76ubhtzsszayzlrjgqeteedsubqw2jv5dx4uy",
+      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/bafkreievpql5apyv6izzgrc7ueye5kopl3jktbumv2454btcmeuxt3p5ka",      "projectUrl": "https://app.aave.com/",
       "tags": [
         "DeFi"
       ],
