@@ -1,14 +1,14 @@
 {
     "name": "WOOFi",
     "description": "WOOFi is a DEX with all the tools you need, in one convenient place.",
-    "featuredImgUrl": "https://oss.woo.org/static/images/avalanche_passport/logo.png",
-    "bannerImgUrl": "https://oss.woo.org/static/images/avalanche_passport/banner.png",
+    "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/woo_pilled_badge.jpg",
     "missions": [
         {
             "name": "Swap and chill",
             "id": "woofi_swap_avax_tokens_mission",
             "description": "Perform a Swap: Buy AVAX Tokens",
-            "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/woo_pilled_badge.jpg",
+            "featuredImgUrl": "https://oss.woo.org/static/images/avalanche_passport/logo.png",
+            "bannerImgUrl": "https://oss.woo.org/static/images/avalanche_passport/banner.png",
             "projectUrl": "https://woofi.com",
             "tags": [
                 "DeFi"
@@ -45,10 +45,11 @@
             }
         },
         {
-            "name": "Stake it til you make it",
+            "name": "Stake it till you make it",
             "id": "woofi_stake_tokens_mission",
             "description": "Stake WOO Tokens",
-            "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/diamond_handed.jpg",
+            "featuredImgUrl": "https://oss.woo.org/static/images/avalanche_passport/logo.png",
+            "bannerImgUrl": "https://oss.woo.org/static/images/avalanche_passport/banner.png",
             "projectUrl": "https://woofi.com/stake",
             "tags": [
                 "DeFi"
@@ -88,7 +89,8 @@
             "name": "Supercharge your yield",
             "id": "woofi_yield_mission",
             "description": "Deposit some AVAX into WOOFi Earn",
-            "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/all_charged_up.jpg",
+            "featuredImgUrl": "https://oss.woo.org/static/images/avalanche_passport/logo.png",
+            "bannerImgUrl": "https://oss.woo.org/static/images/avalanche_passport/banner.png",
             "projectUrl": "https://woofi.com/earn",
             "tags": [
                 "DeFi"
@@ -128,7 +130,8 @@
             "name": "Trade like a pro",
             "id": "woofi_deposit_mission",
             "description": "Deposit onto WOOFi Pro and execute your first trade",
-            "imgUrl": "https://oss.woo.org/static/images/avalanche_passport/pro_trader.jpg",
+            "featuredImgUrl": "https://oss.woo.org/static/images/avalanche_passport/logo.png",
+            "bannerImgUrl": "https://oss.woo.org/static/images/avalanche_passport/banner.png",
             "projectUrl": "https://pro.woofi.com",
             "tags": [
                 "DeFi"
