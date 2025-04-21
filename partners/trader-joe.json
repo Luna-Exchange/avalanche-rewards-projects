@@ -87,8 +87,8 @@
       ]
     },
     {
-      "name": "Daily swaps (AVAX)",
-      "description": "LFJ daily swaps (AVAX)",
+      "name": "Daily swaps",
+      "description": "LFJ daily swaps",
       "id": "lfj_daily_avax_swaps_mission",
       "frequency": "daily",
       "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
@@ -101,7 +101,7 @@
       "quests": [
         {
           "name": "Swap JOE Tokens",
-          "description": "Swap at least $2,500 worth of JOE Tokens using AVAX",
+          "description": "Swap at least $2,500 worth of JOE Tokens",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -114,7 +114,7 @@
           "tasks": [
             {
               "name": "Swap JOE Tokens",
-              "description": "Swap at least $2,500 worth of JOE Tokens using AVAX",
+              "description": "Swap at least $2,500 worth of JOE Tokens",
               "type": "SWAP",
               "contract_address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
               "method_ids": [
@@ -128,7 +128,7 @@
         },
         {
           "name": "Swap JOE Tokens",
-          "description": "Swap at least $5,000 worth of JOE Tokens using AVAX",
+          "description": "Swap at least $5,000 worth of JOE Tokens",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -141,7 +141,7 @@
           "tasks": [
             {
               "name": "Swap JOE Tokens",
-              "description": "Swap at least $5,000 worth of JOE Tokens using AVAX",
+              "description": "Swap at least $5,000 worth of JOE Tokens",
               "type": "SWAP",
               "contract_address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
               "method_ids": [
@@ -155,7 +155,7 @@
         },
         {
           "name": "Swap JOE Tokens",
-          "description": "Swap at least $10,000 worth of JOE Tokens using AVAX",
+          "description": "Swap at least $10,000 worth of JOE Tokens",
           "category": "DeFi",
           "frequency": "daily",
           "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -168,7 +168,7 @@
           "tasks": [
             {
               "name": "Swap JOE Tokens",
-              "description": "Swap at least $10,000 worth of JOE Tokens using AVAX",
+              "description": "Swap at least $10,000 worth of JOE Tokens",
               "type": "SWAP",
               "contract_address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
               "method_ids": [
@@ -176,105 +176,6 @@
               ],
               "metadata": {
                 "threshold": 10000
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Daily swaps (Not AVAX)",
-      "description": "LFJ daily swaps (Not AVAX)",
-      "id": "lfj_daily_not_avax_swaps_mission",
-      "frequency": "daily",
-      "featuredImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmVfWmj3nHT84XoemQrkXVdLkXxndattQ5WrcTUgH1kaZ6",
-      "bannerImgUrl": "https://scarlet-fashionable-quail-585.mypinata.cloud/ipfs/QmNrgdWgPjVmbZFSm5eKfuiAYRzwxzKGzoSAJpSD1W1uas",
-      "projectUrl": "https://lfj.gg/avalanche/trade",
-      "tags": [
-        "DeFi"
-      ],
-      "total_points_reward": 150,
-      "quests": [
-        {
-          "name": "Swap JOE Tokens",
-          "description": "Swap at least $2,500 worth of JOE Tokens using a non-native token (not AVAX)",
-          "category": "DeFi",
-          "frequency": "daily",
-          "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
-          "rewards": [
-            {
-              "type": "points",
-              "value": 25
-            }
-          ],
-          "tasks": [
-            {
-              "name": "Swap JOE Tokens",
-              "description": "Swap at least $2,500 worth of JOE Tokens using a non-native token (not AVAX)",
-              "type": "SWAP",
-              "contract_address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
-              "method_ids": [
-                "0xf1910f70"
-              ],
-              "metadata": {
-                "threshold": 2500,
-                "isNotNativeToken": true
-              }
-            }
-          ]
-        },
-        {
-          "name": "Swap JOE Tokens",
-          "description": "Swap at least $5,000 worth of JOE Tokens using a non-native token (not AVAX)",
-          "category": "DeFi",
-          "frequency": "daily",
-          "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
-          "rewards": [
-            {
-              "type": "points",
-              "value": 50
-            }
-          ],
-          "tasks": [
-            {
-              "name": "Swap JOE Tokens",
-              "description": "Swap at least $5,000 worth of JOE Tokens using a non-native token (not AVAX)",
-              "type": "SWAP",
-              "contract_address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
-              "method_ids": [
-                "0xf1910f70"
-              ],
-              "metadata": {
-                "threshold": 5000,
-                "isNotNativeToken": true
-              }
-            }
-          ]
-        },
-        {
-          "name": "Swap JOE Tokens",
-          "description": "Swap at least $10,000 worth of JOE Tokens using a non-native token (not AVAX)",
-          "category": "DeFi",
-          "frequency": "daily",
-          "contract_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
-          "rewards": [
-            {
-              "type": "points",
-              "value": 75
-            }
-          ],
-          "tasks": [
-            {
-              "name": "Swap JOE Tokens",
-              "description": "Swap at least $10,000 worth of JOE Tokens using a non-native token (not AVAX)",
-              "type": "SWAP",
-              "contract_address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
-              "method_ids": [
-                "0xf1910f70"
-              ],
-              "metadata": {
-                "threshold": 10000,
-                "isNotNativeToken": true
               }
             }
           ]
