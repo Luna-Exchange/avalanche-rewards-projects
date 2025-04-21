@@ -37,17 +37,9 @@
               "name": "Perform Swap",
               "type": "SWAP",
               "description": "Buy JOE tokens",
-              "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+              "contract_address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
               "method_ids": [
-                "0xb066ea7c",
-                "0xe038e6dc",
-                "0x9ab6156b",
-                "0x1a24f9a9",
-                "0x2a443fae",
-                "0x4b801870",
-                "0x2075ad22",
-                "0x3dc8f8ec",
-                "0x92fe8e70"
+                "0xf1910f70"
               ]
             }
           ]
@@ -124,17 +116,9 @@
               "name": "Swap JOE Tokens",
               "description": "Swap at least $2,500 worth of JOE Tokens using AVAX",
               "type": "SWAP",
-              "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+              "contract_address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
               "method_ids": [
-                "0xb066ea7c",
-                "0xe038e6dc",
-                "0x9ab6156b",
-                "0x1a24f9a9",
-                "0x2a443fae",
-                "0x4b801870",
-                "0x2075ad22",
-                "0x3dc8f8ec",
-                "0x92fe8e70"
+                "0xf1910f70"
               ],
               "metadata": {
                 "threshold": 2500
@@ -159,17 +143,9 @@
               "name": "Swap JOE Tokens",
               "description": "Swap at least $5,000 worth of JOE Tokens using AVAX",
               "type": "SWAP",
-              "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+              "contract_address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
               "method_ids": [
-                "0xb066ea7c",
-                "0xe038e6dc",
-                "0x9ab6156b",
-                "0x1a24f9a9",
-                "0x2a443fae",
-                "0x4b801870",
-                "0x2075ad22",
-                "0x3dc8f8ec",
-                "0x92fe8e70"
+                "0xf1910f70"
               ],
               "metadata": {
                 "threshold": 5000
@@ -194,17 +170,9 @@
               "name": "Swap JOE Tokens",
               "description": "Swap at least $10,000 worth of JOE Tokens using AVAX",
               "type": "SWAP",
-              "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+              "contract_address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
               "method_ids": [
-                "0xb066ea7c",
-                "0xe038e6dc",
-                "0x9ab6156b",
-                "0x1a24f9a9",
-                "0x2a443fae",
-                "0x4b801870",
-                "0x2075ad22",
-                "0x3dc8f8ec",
-                "0x92fe8e70"
+                "0xf1910f70"
               ],
               "metadata": {
                 "threshold": 10000
@@ -244,17 +212,9 @@
               "name": "Swap JOE Tokens",
               "description": "Swap at least $2,500 worth of JOE Tokens using a non-native token (not AVAX)",
               "type": "SWAP",
-              "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+              "contract_address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
               "method_ids": [
-                "0xb066ea7c",
-                "0xe038e6dc",
-                "0x9ab6156b",
-                "0x1a24f9a9",
-                "0x2a443fae",
-                "0x4b801870",
-                "0x2075ad22",
-                "0x3dc8f8ec",
-                "0x92fe8e70"
+                "0xf1910f70"
               ],
               "metadata": {
                 "threshold": 2500,
@@ -280,17 +240,9 @@
               "name": "Swap JOE Tokens",
               "description": "Swap at least $5,000 worth of JOE Tokens using a non-native token (not AVAX)",
               "type": "SWAP",
-              "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+              "contract_address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
               "method_ids": [
-                "0xb066ea7c",
-                "0xe038e6dc",
-                "0x9ab6156b",
-                "0x1a24f9a9",
-                "0x2a443fae",
-                "0x4b801870",
-                "0x2075ad22",
-                "0x3dc8f8ec",
-                "0x92fe8e70"
+                "0xf1910f70"
               ],
               "metadata": {
                 "threshold": 5000,
@@ -316,17 +268,9 @@
               "name": "Swap JOE Tokens",
               "description": "Swap at least $10,000 worth of JOE Tokens using a non-native token (not AVAX)",
               "type": "SWAP",
-              "contract_address": "0x18556DA13313f3532c54711497A8FedAC273220E",
+              "contract_address": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
               "method_ids": [
-                "0xb066ea7c",
-                "0xe038e6dc",
-                "0x9ab6156b",
-                "0x1a24f9a9",
-                "0x2a443fae",
-                "0x4b801870",
-                "0x2075ad22",
-                "0x3dc8f8ec",
-                "0x92fe8e70"
+                "0xf1910f70"
               ],
               "metadata": {
                 "threshold": 10000,
