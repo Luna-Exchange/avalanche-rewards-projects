@@ -1,0 +1,78 @@
+{
+  "name": "TRESR",
+  "description": "Unlock rewards & immersive experiences with blockchain authenticated gear. Connect with like-minded communities.",
+  "imgUrl": "https://nftreasure.com",
+  "missions": [
+    {
+      "name": "AVAX Cards",
+      "description": "AVAX Cards offers a unique collection of digital and physical trading cards, backed by blockchain technology. Each card features an NFT digital twin, allowing users to authenticate and trade securely",
+      "id": "avax_cards",
+      "featuredImgUrl": "https://experiences.nftreasure.com/images/avax/AVAX-CARDS-LOGO.png",
+      "bannerImgUrl": "https://experiences.nftreasure.com/images/avax/AVAX-CARDS-BANNER.png",
+      "projectUrl": "https://avax.cards",
+      "tags": [
+        "NFT", "Collectibles"
+      ],
+      "quests": [
+        {
+          "name": "Claim Digital Twin",
+          "description": "Claim the NFT version of your physical AVAX Card",
+          "category": "NFT",
+          "contract_address": "0x744894B07f98c39AC91291D18dBE3Df9B305B6D1",
+          "rewards": [
+            {
+              "type": "points",
+              "value": 100
+            }
+          ],
+          "tasks": [
+            {
+              "name": "Claim Digital Twin",
+              "type": "CLAIM",
+              "description": "Claim the NFT version of your physical AVAX Card",
+              "contract_address": "0x744894B07f98c39AC91291D18dBE3Df9B305B6D1",
+              "method_id": "0xff0730b3"
+            }
+          ]
+        }
+      ],
+      "total_points_reward": 100,
+      "badge": {
+        "name": "AVAX Card Collector",
+        "description": "Awarded for claiming an AVAX Cards Digital Twin NFT"
+      }
+    }, {
+      "name": "Claim TRESR Merchandise Digital Twin",
+      "id": "tresr_merch_digital_twin",
+      "featuredImgUrl": "https://experiences.nftreasure.com/images/TRESR-LOGO-BLACK-transparent.png",
+      "bannerImgUrl": "https://experiences.nftreasure.com/images/TRESR-BANNER-BLACK-transparent.png",
+      "description": "Claim your TRESR Merchandise Digital Twin NFT to verify authenticity.",
+      "projectUrl": "https://nftreasure.com",
+      "tags": ["NFT", "Merchandise"],
+      "total_points_reward": 100,
+      "quests": [
+        {
+          "name": "Claim Merchandise Twin",
+          "description": "Claim the NFT twin of your TRESR merchandise.",
+          "category": "NFT",
+          "contract_address": "0x59a335e725491f89446d53A62922e00a2f4515df",
+          "rewards": [{"type": "points", "value": 100}],
+          "tasks": [
+            {
+              "name": "Claim NFT",
+              "type": "CLAIM",
+              "description": "Claim the digital twin of your TRESR merchandise.",
+              "chain_id": "43114",
+              "contract_address": "0x59a335e725491f89446d53A62922e00a2f4515df",
+              "method_id": "0xff0730b3"
+            }
+          ]
+        }
+      ],
+      "badge": {
+        "name": "TRESR Verified",
+        "description": "Awarded for claiming a TRESR Merchandise Digital Twin NFT."
+      }
+    }
+  ]
+}
